@@ -234,9 +234,9 @@ Return ONLY valid JSON in this exact shape, no extra text:
 
 // ── Main handler ──────────────────────────────────────────────────────────────
 export async function POST(req: NextRequest) {
-  const { date, forceNew, salt } = await req.json();
+  const { date, forceNew, salt, replaceCache } = await req.json();
 
-  // Serve from Supabase cache (skip on forceNew)
+  // Serve from Supabase cache unless forceNew or replaceCache is set
   const cached = !forceNew ? await getCachedRounds(date) : null;
   if (cached) {
     return NextResponse.json({ rounds: cached });
@@ -281,8 +281,8 @@ export async function POST(req: NextRequest) {
     ),
   );
 
-  // Cache daily result in Supabase (skip for forceNew so daily slot stays clean)
-  if (!forceNew) {
+  // Write to Supabase: always for normal loads, also when replaceCache=true (admin regen)
+  if (!forceNew || replaceCache) {
     await setCachedRounds(date, rounds);
   }
 
