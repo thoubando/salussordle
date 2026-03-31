@@ -47,6 +47,9 @@ export default function DevPanel() {
   const [regenLoading, setRegenLoading] = useState(false);
   const [regenMsg, setRegenMsg] = useState('');
 
+  const [debugLines, setDebugLines] = useState<string[]>([]);
+  const [debugLoading, setDebugLoading] = useState(false);
+
   const [countdown, setCountdown] = useState(getTimeUntilReset());
   const [activeTab, setActiveTab] = useState<'questions' | 'leaderboard'>('questions');
 
@@ -143,6 +146,15 @@ export default function DevPanel() {
       setRegenMsg(`Error: ${data.error}`);
     }
     setRegenLoading(false);
+  }
+
+  async function handleDebug() {
+    setDebugLoading(true);
+    setDebugLines([]);
+    const res = await fetch('/api/admin/debug', { headers: { 'x-admin-password': storedPw() } });
+    const data = await res.json();
+    setDebugLines(data.diagnostics ?? [data.error ?? 'Unknown error']);
+    setDebugLoading(false);
   }
 
   async function handleReset() {
@@ -317,6 +329,24 @@ export default function DevPanel() {
 
                 {/* Footer actions */}
                 <div className="border-t border-gray-100 p-3 space-y-2">
+                  {/* Debug */}
+                  <button
+                    onClick={handleDebug}
+                    disabled={debugLoading}
+                    className="w-full py-2 text-xs font-semibold text-gray-500 border border-gray-200 rounded-xl hover:bg-gray-50 disabled:opacity-40 transition-colors"
+                  >
+                    {debugLoading ? 'Running…' : '🔍 Run Diagnostics'}
+                  </button>
+                  {debugLines.length > 0 && (
+                    <div className="bg-gray-900 rounded-lg p-2 space-y-0.5">
+                      {debugLines.map((line, i) => (
+                        <p key={i} className={`text-[10px] font-mono ${line.includes('✗') ? 'text-red-400' : 'text-green-400'}`}>
+                          {line}
+                        </p>
+                      ))}
+                    </div>
+                  )}
+
                   {regenMsg && <p className="text-xs text-center text-indigo-600">{regenMsg}</p>}
                   <button
                     onClick={handleRegenerate}
