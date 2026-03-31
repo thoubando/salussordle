@@ -1,0 +1,4237 @@
+{
+  "cards": [
+    {
+      "t": "3 M/action of antibiotics",
+      "d": "Inhibition of cell wall synthesis (peptidoglycan)\nInhibition of protein synthesis (30s+50s)\nInterference of bacterial DNA (folic acid)"
+    },
+    {
+      "t": "What AB drug classes inhibit cell wall synthesis?",
+      "d": "Bacitracin\nPenicillins\nCephalosporins"
+    },
+    {
+      "t": "What AB drug classes inhibit protein synthesis?",
+      "d": "buy AT 30, CEL at 50\nAminoglycosides + Tetracyclines: 30S\nChloramphenicol, Erythromycin (macrocodes) , cLindamycin: 50S"
+    },
+    {
+      "t": "Which AB drug classes interfere with bacterial DNA?",
+      "d": "Sulfonamides, trimethoprim, pyrimethamine: folic acid inhibition\n\nFluoroquinolones: inhibit DNA gyrate and topoisomerase IV"
+    },
+    {
+      "t": "Most oral antibiotics have the side affect of ______",
+      "d": "GI upset"
+    },
+    {
+      "t": "M/Action of Bacitracin:",
+      "d": "Inhibit peptidoglycan in cell wall formation (logs of a log cabin)"
+    },
+    {
+      "t": "Classify Bacitracin: (gram status and vehicle)",
+      "d": "Antibiotic ointment, effective against gram positive only"
+    },
+    {
+      "t": "Bacitracin is often prescribed for the treatment of:",
+      "d": "blepharitis"
+    },
+    {
+      "t": "Bacitracin is often combined with __________________________ to form Polysporin (gram + and -).",
+      "d": "Polymyxin B"
+    },
+    {
+      "t": "What is Polysporin?",
+      "d": "Antibiotic: Bacitracin + Polymyxin B- effective against both gram + and gram -"
+    },
+    {
+      "t": "What is Neosporin?",
+      "d": "Antibiotic: Polysporin + Neomycin"
+    },
+    {
+      "t": "M/Action of Penicillins:",
+      "d": "Inhibit transpeptidase in cell wall formation (glue of the log cabin)"
+    },
+    {
+      "t": "M/Action of Cephalosporins:",
+      "d": "Inhibit transpeptidase in cell wall formation (glue of the log cabin)"
+    },
+    {
+      "t": "Penicillins and cephalosporins are similar in that they both have a",
+      "d": "beta lactam ring-- potential for cross sensitivity reaction"
+    },
+    {
+      "t": "What is Augmentin?",
+      "d": "Fortified antibiotic: Amoxicillin + clavulonic acid (penicillinase inhibitor)"
+    },
+    {
+      "t": "Classify Dicloxacillin: (class and gram)",
+      "d": "Penicillin antibiotic, mostly effective against gram +"
+    },
+    {
+      "t": "Is Amoxicillin resistant to penicillinase?",
+      "d": "No (that's why Augmentin is used more often)"
+    },
+    {
+      "t": "Amoxicillin is often combined with ___________________________ to form Augmentin, which is a fortified antibiotic.",
+      "d": "Clavulonic acid (penicillinase inhibitor)"
+    },
+    {
+      "t": "Classify Amoxicillin: (class and gram)",
+      "d": "Penicillin antibiotic, effective against both gram + and gram -"
+    },
+    {
+      "t": "which penicillin is better for use of eyelid infections? (hordeolum, preseptal, etc)",
+      "d": "dicloxacillin"
+    },
+    {
+      "t": "Common side effects of Penicillins:",
+      "d": "Hypersensitivity reactions (type 1)-- anaphylaxis\nStevens-Johnson syndrome"
+    },
+    {
+      "t": "Penicillins and Cephalosporins are contraindicated in patients with a history of:",
+      "d": "IgE Type 1 hypersensitivity reactions (urticaria, anaphylaxis)"
+    },
+    {
+      "t": "________ and _________ generation Cephalosporins are effective against both gram-positive AND gram-negative bacteria.",
+      "d": "3rd\n4th"
+    },
+    {
+      "t": "Common uses for Cephalexin (Keflex):",
+      "d": "Hordeolum, preseptal cellulitis, dacryoadenitis, dacryocystitis"
+    },
+    {
+      "t": "Cephalexin is a ____ generation and ceftriaxone is a ____ generation",
+      "d": "1st(+) and 3rd (+/-)"
+    },
+    {
+      "t": "Cephalexin is a gram_____",
+      "d": "gram +"
+    },
+    {
+      "t": "Classify Ceftriaxone: (class/gen, gram spectrum)",
+      "d": "3rd-gen Cephalosporin- IV is treatment of choice for gonococcal conjunctivitis & orbital cellulitis (gram + and -)"
+    },
+    {
+      "t": "Drug of choice for treatment of gonococcal conjunctivitis:",
+      "d": "IV Ceftriaxone"
+    },
+    {
+      "t": "Drug of choice for treatment of orbital cellulitis:",
+      "d": "IV Ceftriaxone"
+    },
+    {
+      "t": "Common side effects of Cephalosporins:",
+      "d": "Hypersensitivity reactions\nVitamin K reduction (blood thinning)"
+    },
+    {
+      "t": "Which drug classes bind the 30s subunit to inhibit bacterial protein synthesis?",
+      "d": "Aminoglycosides & Tetracyclines"
+    },
+    {
+      "t": "what drugs make up the ahminoglycosides class?",
+      "d": "Tobramycin\nGentamicin"
+    },
+    {
+      "t": "Classify Gentamicin: (class and gram spectrum)",
+      "d": "Aminoglycoside antibiotic, effective against both Gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "M/Action of Gentamicin:",
+      "d": "Bind 30s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "Classify Tobramycin: (class and gram spectrum)",
+      "d": "Aminoglycoside antibiotic, effective against both Gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "M/Action of Tobramycin:",
+      "d": "Bind 30s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "What is TobraDex?",
+      "d": "Tobramycin + Dexamethasone ophthalmic preparation"
+    },
+    {
+      "t": "Common side effects of topical aminoglycosides, including tobradex:",
+      "d": "SPK (enhances drug penetration)\nDelayed corneal re-epithelialization"
+    },
+    {
+      "t": "What drugs make up the Tetracycline class?",
+      "d": "Tetracycline\ndoxycycline\nminocycline"
+    },
+    {
+      "t": "Classify Tetracycline: (class and gram spectrum)",
+      "d": "Tetracycline antibiotic, effective against both Gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "Classify Doxycycline: (class and gram spectrum)",
+      "d": "Tetracycline antibiotic, effective against both Gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "Classify Minocycline: (class and gram spectrum)",
+      "d": "Tetracycline antibiotic, effective against both Gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "M/Action of Tetracycline:",
+      "d": "Bind 30s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "M/Action of Doxycycline:",
+      "d": "Bind 30s subunit to inhibit bacterial protein synthesis. Also decreases inflammation in sebaceous glands."
+    },
+    {
+      "t": "M/Action of Minocycline:",
+      "d": "Bind 30s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "Common uses for Doxycycline:",
+      "d": "Meibomianitis, acne rosacea\nChlamydial infections (trachoma, inclusion)"
+    },
+    {
+      "t": "Antibiotic Drug classes that are contraindicated in pregnancy:",
+      "d": "Never FAT:\nFluoroquinolones\nAminoglycosides\nTetracyclines"
+    },
+    {
+      "t": "Antibiotic Drug classes that are recommended in pregnancy:",
+      "d": "PAC:\nPenicillins\nAzithromycin\nCephalosporins"
+    },
+    {
+      "t": "Tetracycline antibiotics are contraindicated in:",
+      "d": "Renal failure (EXCEPT Doxycycline)\nPregnancy\nChildren"
+    },
+    {
+      "t": "Which Tetracycline is OK for patients with renal failure?",
+      "d": "Doxycycline"
+    },
+    {
+      "t": "Common side effects of Tetracyclines:",
+      "d": "Pseudotumor cerebri\nBone growth retardation\nTooth discoloration"
+    },
+    {
+      "t": "what are the 4 drugs that can cause pseudotumor cerebri?",
+      "d": "CANT\ncontraceptives\naccutane\nnalidoxic acid\ntetracyclines"
+    },
+    {
+      "t": "Common side effects of Minocycline:",
+      "d": "Blue sclera\nPigmented conjunctival cysts\n(PTC, bone retardation, tooth discoloration)"
+    },
+    {
+      "t": "M/Action of Chloramphenicol:",
+      "d": "Bind 50s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "M/Action of Macrolide antibiotics:",
+      "d": "Bind 50s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "what drugs make up the Macrolide class?",
+      "d": "erythromycin\nazythromycin\nclarithromycin"
+    },
+    {
+      "t": "M/Action of Lincomycin/Clindamycin:",
+      "d": "Reversibly Bind 50s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "M/Action of Erythromycin:",
+      "d": "Bind 50s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "M/Action of Azithromycin:",
+      "d": "Bind 50s subunit to inhibit bacterial protein synthesis"
+    },
+    {
+      "t": "M/Action of Clarithromycin:",
+      "d": "Bind 50s subunit to inhibit bacterial protein synthesis-"
+    },
+    {
+      "t": "Classify Erythromycin:",
+      "d": "Macrolide antibiotic"
+    },
+    {
+      "t": "Classify Azithromycin:",
+      "d": "Macrolide antibiotic"
+    },
+    {
+      "t": "Classify Clarithromycin:",
+      "d": "Macrolide antibiotic"
+    },
+    {
+      "t": "Classify Chloramphenicol: (class and gram spectrum)",
+      "d": "Antibiotic: effective against both gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "Side effects of topical Chloramphenicol:",
+      "d": "Fatal aplastic anemia\nOptic neuritis"
+    },
+    {
+      "t": "what 2 drugs cause aplastic anemia?",
+      "d": "Acetazolamide (diamox)\nChloramphenicol"
+    },
+    {
+      "t": "List the Macrolide antibiotics:",
+      "d": "\"-thromycin\"\nErythromycin\nAzithromycin\nClarithromycin"
+    },
+    {
+      "t": "Drug of choice for chlamydial/trachoma infections:",
+      "d": "Oral Azithromycin (single 1 gram dose is convenient)"
+    },
+    {
+      "t": "Common uses for Topical Azithromycin:",
+      "d": "Bacterial conjunctivitis\nBlepharitis"
+    },
+    {
+      "t": "Common uses for Erythromycin:",
+      "d": "prophylaxis for gonococcal neonatorum?"
+    },
+    {
+      "t": "Before Erythromycin ointment, what was used for prophylaxis of gonococcal ophthalmia neonatorum?",
+      "d": "Silver nitrate"
+    },
+    {
+      "t": "Drugs recommended for treatment of MRSA:",
+      "d": "Clindamycin\nBactrim\nDoxycycline"
+    },
+    {
+      "t": "Classify Sulfisoxazole: (class and gram spectrum)",
+      "d": "Sulfonamide antibiotic: effective against both gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "Classify Sulfacetamide: (class and gram spectrum)",
+      "d": "Sulfonamide antibiotic: effective against both gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "Classify Sulfamethoxazole: (class and gram spectrum)",
+      "d": "Sulfonamide antibiotic: effective against both gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "Classify Sulfadiazine: (class and gram spectrum)",
+      "d": "Sulfonamide antibiotic: effective against both gram-positive and gram-negative bacteria"
+    },
+    {
+      "t": "M/Action of Sulfonamide antibiotics:",
+      "d": "Inhibit Step 1 of folate synthesis (dihyeropteroate SYNTHASE) to interfere with bacterial DNA synthesis"
+    },
+    {
+      "t": "M/Action of Sulfisoxazole:",
+      "d": "Inhibit Step 1 of folate synthesis (dihyeropteroate SYNTHASE) to interfere with bacterial DNA synthesis"
+    },
+    {
+      "t": "M/Action of Sulfacetamide:",
+      "d": "Inhibit Step 1 of folate synthesis (dihyeropteroate SYNTHASE) to interfere with bacterial DNA synthesis"
+    },
+    {
+      "t": "M/Action of Sulfamethoxazole:",
+      "d": "Inhibit Step 1 of folate synthesis (dihyeropteroate SYNTHASE) to interfere with bacterial DNA synthesis"
+    },
+    {
+      "t": "M/Action of Sulfadiazine:",
+      "d": "Inhibit Step 1 of folate synthesis (dihyeropteroate SYNTHASE) to interfere with bacterial DNA synthesis"
+    },
+    {
+      "t": "Sulfadiazine is prescribed in combination with Pyrimethamine to treat:",
+      "d": "Toxoplasmosis (DI goes with PY!!!)"
+    },
+    {
+      "t": "Sulfadiazine is prescribed in combination with __________________________________ to treat Toxoplasmosis.",
+      "d": "Pyrimethamine"
+    },
+    {
+      "t": "What is in Bactrim?",
+      "d": "Sulfamethoxazole + trimethoprim (METHs go together)"
+    },
+    {
+      "t": "Sulfamethoxazole combined with ___________________________ makes Bactrim.",
+      "d": "Trimethoprim (METHs go together)-- Bactrim good for MRSA infections"
+    },
+    {
+      "t": "Common side effects of Sulfonamide antibiotics:",
+      "d": "Myopic shift\nStevens-Johnson syndrome"
+    },
+    {
+      "t": "Medications commonly associated with Stevens-Johnson syndrome:",
+      "d": "Sulfonamide antibiotics\nAmoxicillin"
+    },
+    {
+      "t": "M/Action of Trimethoprim:",
+      "d": "Inhibit Step 2 of folate synthesis (dihyeropteroate REDUCTASE) to interfere with bacterial DNA synthesis"
+    },
+    {
+      "t": "M/Action of Pyrimethamine:",
+      "d": "Inhibit Step 2 of folate synthesis (dihyeropteroate REDUCTASE) to interfere with bacterial DNA synthesis"
+    },
+    {
+      "t": "Classify Trimethoprim:",
+      "d": "Antibiotic- inhibits folic acid"
+    },
+    {
+      "t": "Classify Pyrimethamine:",
+      "d": "Antibiotic- inhibits folic acid"
+    },
+    {
+      "t": "Trimethoprim is combined with __________________________ to make Polytrim ophthalmic.",
+      "d": "Polymyxin B"
+    },
+    {
+      "t": "What is in Polytrim?",
+      "d": "Trimethoprim + Polymyxin B"
+    },
+    {
+      "t": "Common side effect of Oral Trimethoprim:",
+      "d": "\"TMP treats marrow poorly\"- Aplastic anemia"
+    },
+    {
+      "t": "Classify Ciprofloxacin:",
+      "d": "Fluoroquinolone antibiotic (2nd gen)"
+    },
+    {
+      "t": "Classify Ofloxacin:",
+      "d": "Fluoroquinolone antibiotic (2nd gen)"
+    },
+    {
+      "t": "Classify Levofloxacin:",
+      "d": "Fluoroquinolone antibiotic (3rd gen)"
+    },
+    {
+      "t": "Classify Gatifloxacin:",
+      "d": "Fluoroquinolone antibiotic (4th gen)"
+    },
+    {
+      "t": "Classify Moxifloxacin:",
+      "d": "Fluoroquinolone antibiotic (4th gen)"
+    },
+    {
+      "t": "Classify Besifloxacin:",
+      "d": "Fluoroquinolone antibiotic (4th gen)"
+    },
+    {
+      "t": "M/Action of Fluoroquinolone antibiotics:",
+      "d": "Inhibit bacterial DNA synthesis by inhibiting BOTH DNA gyrase AND topoisomerase IV."
+    },
+    {
+      "t": "M/Action of Ciprofloxacin:",
+      "d": "Inhibit bacterial DNA synthesis by inhibiting BOTH DNA gyrase AND topoisomerase IV."
+    },
+    {
+      "t": "M/Action of Ofloxacin:",
+      "d": "Inhibit bacterial DNA synthesis by inhibiting BOTH DNA gyrase AND topoisomerase IV."
+    },
+    {
+      "t": "M/Action of Levofloxacin:",
+      "d": "Inhibit bacterial DNA synthesis by inhibiting BOTH DNA gyrase AND topoisomerase IV."
+    },
+    {
+      "t": "M/Action of Gatifloxacin:",
+      "d": "Inhibit bacterial DNA synthesis by inhibiting BOTH DNA gyrase AND topoisomerase IV."
+    },
+    {
+      "t": "M/Action of Moxifloxacin:",
+      "d": "Inhibit bacterial DNA synthesis by inhibiting BOTH DNA gyrase AND topoisomerase IV."
+    },
+    {
+      "t": "M/Action of Besifloxacin:",
+      "d": "Inhibit bacterial DNA synthesis by inhibiting BOTH DNA gyrase AND topoisomerase IV."
+    },
+    {
+      "t": "Most common side effect of Fluoroquinolone antibiotics:",
+      "d": "Tendinitis"
+    },
+    {
+      "t": "Fluoroquinolone antibiotics are contraindicated in:",
+      "d": "Children under 18\nPregnancy"
+    },
+    {
+      "t": "What ABs are bacteriostatic?",
+      "d": "tetracyclines\ntrimethoprim/Pyrimethamine\nSulfa"
+    },
+    {
+      "t": "What ABs are Bacteriocidal?",
+      "d": "All cell wall inhibitors\naminoglycosides\nfluoroquinolones"
+    },
+    {
+      "t": "Drugs for treatment of Active Tuberculosis:",
+      "d": "RIPE:\nRifampin\nIsoniazid\nPyrazinamide (not on outline)\nEthambutol"
+    },
+    {
+      "t": "Drugs for treatment of Latent Tuberculosis:",
+      "d": "(mono therapy)\nIsoniazid (ISOlation)\nRifampin"
+    },
+    {
+      "t": "Classify Rifampin: (class and how it works)",
+      "d": "Anti-TB drug (RIPE)-- prevents RNA polymerase"
+    },
+    {
+      "t": "Classify Isoniazid: (class and how it works)",
+      "d": "Anti-TB drug (RIPE)-- inhibits mycolic acid synthesis"
+    },
+    {
+      "t": "Classify Pyrazinamide: (class)",
+      "d": "Anti-TB drug (RIPE)"
+    },
+    {
+      "t": "Classify Ethambutol: (class and how it works)",
+      "d": "Anti-TB drug (RIPE)-- inhibits arabinosyl transferase"
+    },
+    {
+      "t": "Common side effects of Rifampin:",
+      "d": "Hepatotoxicity\nOrange-pink discoloration of urine & tears"
+    },
+    {
+      "t": "If a patient reports orange-pink discoloration of their urine or tears, what drug might they be taking?",
+      "d": "Rifampin"
+    },
+    {
+      "t": "Common side effects of Isoniazid:",
+      "d": "Hepatotoxicity\nVitamin B6 deficiency\nOptic neuritis"
+    },
+    {
+      "t": "Common side effects of Ethambutol:",
+      "d": "retrobulbar Optic neuritis\nred/green color blindness"
+    },
+    {
+      "t": "What 3 antivirals are non-herpetic?",
+      "d": "Olseltamivir (tamiflu)\nZidovudine (Retrovir)\nRibavirin"
+    },
+    {
+      "t": "M/Action of Tamiflu (oseltamivir):",
+      "d": "Inhibits neuraminidase--> prevents spread of flu virus"
+    },
+    {
+      "t": "Classify Tamiflu (oseltamivir): (class)",
+      "d": "Influenza drug- prevents spread"
+    },
+    {
+      "t": "M/Action of zidovudine (Retrovir):",
+      "d": "Inhibits reverse transcriptase"
+    },
+    {
+      "t": "Classify Zidovudine (retrovir): (class)",
+      "d": "Anti-HIV drug"
+    },
+    {
+      "t": "Which drug is used during pregnancy to lower the risk of transmitting HIV to the fetus?",
+      "d": "Zidovudine (AZT)"
+    },
+    {
+      "t": "Common side effects of Zidovudine:",
+      "d": "Bone marrow suppression\nLactic acidosis\nMuscle breakdown\nAmblyopia & macular edema"
+    },
+    {
+      "t": "Classify Ribavirin:",
+      "d": "Hepatitis C therapy"
+    },
+    {
+      "t": "M/Action of Ribavirin: (and what it treats)",
+      "d": "Inhibits viral RNA polymerase to treat Hepatitis C"
+    },
+    {
+      "t": "Common side effects of Ribavirin:",
+      "d": "Conjunctivitis\nRetinopathy\n*Pt should have regular eye exams while on Ribavirin!!\n\nRIBA\nRetinal detachment\nIschemia (CWS)\nBleeding (hemes)\nArterial/venous occlusions"
+    },
+    {
+      "t": "what are the 6 antivirals for Herpes? (and their mechanism)",
+      "d": "inhibits DNA polymerase\n\nTrifluridine\nAcyclovir\nvalacyclovir\nfamciclovir\nGanciclovir (best efficacy!!)\nFoscarnet"
+    },
+    {
+      "t": "Classify Trifluridine:",
+      "d": "Antiviral- treatment of HSV keratitis"
+    },
+    {
+      "t": "M/Action of Trifluridine:",
+      "d": "Inhibits DNA polymerase for treatment of HSV keratitis"
+    },
+    {
+      "t": "Classify Acyclovir:",
+      "d": "Antiviral (HSV or HZV)"
+    },
+    {
+      "t": "Classify Valacyclovir:",
+      "d": "Antiviral (HSV or HZV)"
+    },
+    {
+      "t": "Classify Famciclovir:",
+      "d": "Antiviral (HSV or HZV)"
+    },
+    {
+      "t": "M/Action of Acyclovir:",
+      "d": "Inhibits DNA polymerase for treatment of HSV or HZV"
+    },
+    {
+      "t": "M/Action of Valacyclovir:",
+      "d": "Inhibits DNA polymerase for treatment of HSV or HZV"
+    },
+    {
+      "t": "M/Action of Famciclovir:",
+      "d": "Inhibits DNA polymerase for treatment of HSV or HZV"
+    },
+    {
+      "t": "Common side effects of Trifluridine ophthalmic:",
+      "d": "Toxic to corneal epithelium!!"
+    },
+    {
+      "t": "Ganciclovir is available in which routes of administration?",
+      "d": "Topical ophthalmic gel\nIntravitreal insert (Vitrasert)"
+    },
+    {
+      "t": "Classify Ganciclovir:",
+      "d": "Antiviral (HSV keratitis)"
+    },
+    {
+      "t": "M/Action of Ganciclovir:",
+      "d": "Inhibits DNA polymerase for treatment of HSV keratitis & CMV retinitis"
+    },
+    {
+      "t": "Ganciclovir can be used to treat:",
+      "d": "HSV keratitis\nCMV retinitis"
+    },
+    {
+      "t": "If Ganciclovir fails against HIV CMV retinitis, which other antiviral is commonly used?",
+      "d": "Famciclovir (FoscarNET)- \"safety NET\""
+    },
+    {
+      "t": "Most antifungals target ______",
+      "d": "Ergosterol"
+    },
+    {
+      "t": "Classify Natamycin:",
+      "d": "Antifungal"
+    },
+    {
+      "t": "Classify Amphotericin B:",
+      "d": "Antifungal"
+    },
+    {
+      "t": "Classify Nystatin:",
+      "d": "Antifungal"
+    },
+    {
+      "t": "M/Action of Natamycin:",
+      "d": "Bind ergosterol and form pores in fungal cell membrane"
+    },
+    {
+      "t": "M/Action of Amphotericin B:",
+      "d": "Bind ergosterol and form pores in fungal cell membrane"
+    },
+    {
+      "t": "M/Action of Nystatin:",
+      "d": "Bind ergosterol and form pores in fungal cell membrane"
+    },
+    {
+      "t": "Which antifungal is best for treatment of fusarium?",
+      "d": "Natamycin"
+    },
+    {
+      "t": "Which antifungal is broad-spectrum and is available in topical ophthalmic formulation?",
+      "d": "Amphotericin B"
+    },
+    {
+      "t": "Common side effect of IV Amphotericin B:",
+      "d": "Nephrotoxicity (\"ampho-terrible for kidneys\")"
+    },
+    {
+      "t": "Classify Ketoconazole:",
+      "d": "Antifungal"
+    },
+    {
+      "t": "Classify Fluconazole:",
+      "d": "Antifungal"
+    },
+    {
+      "t": "Classify Miconazole:",
+      "d": "Antifungal"
+    },
+    {
+      "t": "Classify Griseofulvin:",
+      "d": "Antifungal"
+    },
+    {
+      "t": "M/Action of Ketoconazole:",
+      "d": "Inhibit ergosterol synthesis"
+    },
+    {
+      "t": "M/Action of Fluconazole:",
+      "d": "Inhibit ergosterol synthesis"
+    },
+    {
+      "t": "M/Action of Miconazole:",
+      "d": "Inhibit ergosterol synthesis"
+    },
+    {
+      "t": "Ketoconazole can be used for treatment of:",
+      "d": "Severe fungal corneal ulcers\nSystemic fungal infections\nAcanthamoeba"
+    },
+    {
+      "t": "Common side effect of oral Ketoconazole:",
+      "d": "Hepatotoxicity"
+    },
+    {
+      "t": "Common side effect of oral Fluconazole:",
+      "d": "Hepatotoxicity"
+    },
+    {
+      "t": "Common side effect of oral Miconazole:",
+      "d": "Hepatotoxicity"
+    },
+    {
+      "t": "M/Action of Griseofulvin:",
+      "d": "Inhibits fungal mitosis by interfering with microtubule formation in the fungal cell wall"
+    },
+    {
+      "t": "Which anti-fungal is FDA approved and the \"go to\"?",
+      "d": "natamycin-- remember its different than other mycins that are ABs.. \"not a mycin\""
+    },
+    {
+      "t": "Drugs that can cause Whorl Keratopathy (5):",
+      "d": "CHAI-T:\nChloroquine\nHydroxychloroquine\nAmiodarone\nIndomethacin\nTamoxifen\n(+ also Fabry's disease)"
+    },
+    {
+      "t": "Classify Chloroquine:",
+      "d": "Antiparasitic, anti-inflammatory"
+    },
+    {
+      "t": "M/Action of Chloroquine:",
+      "d": "Causes accumulation of heme in RBC's, which is toxic to malaria\n\nInhibits phospholipase A2 to decrease inflammation (like a steroid)"
+    },
+    {
+      "t": "Chloroquine is used to treat _____",
+      "d": "malaria"
+    },
+    {
+      "t": "Common side effects of Chloroquine:",
+      "d": "Whorl keratopathy (CHAI-T)\nBull's eye maculopathy (therefore not used for anti-inflammatory effects)"
+    },
+    {
+      "t": "Risk factors for development of bull's eye maculopathy due to Chloroquine:",
+      "d": "Treatment duration >5 yrs\nConcomitant retinal disease"
+    },
+    {
+      "t": "Which visual field test is indicated for monitoring of retinal changes in Chloroquine and Hydroxychloroquine use?",
+      "d": "HVF 10-2 (central scrotomas most common)"
+    },
+    {
+      "t": "Classify Lindane (Kwell): (and what it treats)",
+      "d": "Antiparasitic- treatment of lice"
+    },
+    {
+      "t": "M/Action of Lindane (Kwell):",
+      "d": "Absorbed through insect exoskeleton--> death\nUsed as shampoo- NOT to be used in eyes- causes conjunctivitis!!!!!"
+    },
+    {
+      "t": "Medications/classes that inhibit Phospholipase A2:",
+      "d": "Steroids\nChloroquine\nHydroxychloroquine"
+    },
+    {
+      "t": "What does COX-1 do?",
+      "d": "Thromboxane formation--> clotting\nInhibit gastric secretions"
+    },
+    {
+      "t": "What does COX-2 do?",
+      "d": "synthesizing Prostaglandins--> mediate inflammation"
+    },
+    {
+      "t": "What do Leukotrienes do?",
+      "d": "Bronchoconstriciton (drugs that act on this inhibits bronchoconstriction-- good for asthma)"
+    },
+    {
+      "t": "Classify Hydroxychloroquine:",
+      "d": "Anti-inflammatory"
+    },
+    {
+      "t": "M/Action of Hydroxychloroquine:",
+      "d": "Inhibits Phospholipase A2\nCauses build-up of heme within RBC's"
+    },
+    {
+      "t": "Hydroxychloroquine is used to treat: (3)",
+      "d": "Lupus\nRheumatoid Arthritis\nMalaria"
+    },
+    {
+      "t": "Common side effects of Hydroxychloroquine:",
+      "d": "Whorl Keratopathy (CHAI-T)\nBull's eye maculopathy"
+    },
+    {
+      "t": "Hydroxychloroquine dosage should not exceed:",
+      "d": "5 mg/kg of body weight per day or 400mg/day"
+    },
+    {
+      "t": "which is more harmful: chloroquine or hydroxychloroquine?",
+      "d": "Chloroquine"
+    },
+    {
+      "t": "M/Action of steroids:",
+      "d": "Inhibition of phospholipase A2"
+    },
+    {
+      "t": "Systemic side effects of long-term steroid use:",
+      "d": "Diabetes/insulin resistance\nWeight gain\nImmune suppression\nOsteoporosis\nstomach ulcers\nHypertension\ndecreased collagen (fibroblasts)"
+    },
+    {
+      "t": "Ocular side effects of long-term steroid use:",
+      "d": "Posterior Subcapsular cataracts\nGlaucoma\nIncreased risk of secondary infection (HSK, etc)"
+    },
+    {
+      "t": "how do steroids lead to glaucoma if used long term (m/a)",
+      "d": "decreased outflow of the corneoscleral pathway)"
+    },
+    {
+      "t": "what is the strongest steroid (raises IOP the most)",
+      "d": "Diflurprednate (durezol)"
+    },
+    {
+      "t": "Most steroid are _____ based, however, Loteprednol and FLM are ______ based and are less likely to have a steroid response",
+      "d": "ketone\nesters are safer (loteprednol)"
+    },
+    {
+      "t": "Classify Hydrocortisone:",
+      "d": "Steroid cream"
+    },
+    {
+      "t": "Hydrocortisone is most often used to treat:",
+      "d": "Adrenal insufficiency"
+    },
+    {
+      "t": "Ocular indications for Triamcinolone (Kenalog): (injection)",
+      "d": "Diabetic macular edema\nGraves' orbitopathy\nIntermediate non-resolving posterior uveitis\nChalazia\nCME"
+    },
+    {
+      "t": "Systemic indications for Triamcinolone (Kenalog):",
+      "d": "Dermatoses\nAsthma\nMS, Arthritis"
+    },
+    {
+      "t": "Common side effects of injected Triamcinolone (Kenalog):",
+      "d": "Elevated IOP\nEndophthalmitis\nSkin depigmentation in dark-skinned patients"
+    },
+    {
+      "t": "Classify Fluticasone (flonase):",
+      "d": "Intranasal/topical steroid"
+    },
+    {
+      "t": "Fluticasone is most often used to treat:",
+      "d": "Allergic rhinitis"
+    },
+    {
+      "t": "Ocular side effects of intranasal Fluticasone (Flonase):",
+      "d": "Cataracts\nIncreased IOP\nConjunctivitis\nDry eye disease"
+    },
+    {
+      "t": "Classify Aspirin:",
+      "d": "NSAID- COX-1 and COX-2 inhibitor- irreversible binding!"
+    },
+    {
+      "t": "Classify Indomethacin:",
+      "d": "NSAID- COX-1 and COX-2 inhibitor"
+    },
+    {
+      "t": "Classify Ibuprofen:",
+      "d": "NSAID- COX-1 and COX-2 inhibitor"
+    },
+    {
+      "t": "Classify Naproxen:",
+      "d": "NSAID- COX-1 and COX-2 inhibitor"
+    },
+    {
+      "t": "Classify Piroxicam:",
+      "d": "NSAID- COX-1 and COX-2 inhibitor"
+    },
+    {
+      "t": "Classify Celecoxib (Celebrex):",
+      "d": "NSAID- selective COX-2 inhibitor\n\nCELEctive COX InhiBitor"
+    },
+    {
+      "t": "Why is Aspirin a more potent blood thinner than the other NSAIDs?",
+      "d": "Because it irreversibly binds COX-1 and COX-2."
+    },
+    {
+      "t": "Common side effects of Aspirin:",
+      "d": "Reye's syndrome in children <11 y.o\nBleeding complications in the eye"
+    },
+    {
+      "t": "Which drug causes Reye's syndrome in children?",
+      "d": "Aspirin"
+    },
+    {
+      "t": "NSAIDs are relatively contraindicated in patients with what condition?",
+      "d": "Heart disease"
+    },
+    {
+      "t": "Common side effects of oral NSAIDs:",
+      "d": "Bleeding complications in the eye\nIncreased risk of GI bleeding\nIncreased risk of fatal MI or stroke"
+    },
+    {
+      "t": "Ocular side effects of oral Indomethacin:",
+      "d": "Whorl keratopathy (CHAI-T)\nRetinal pigmentary changes (esp within the macula)"
+    },
+    {
+      "t": "Which drug can be used for prevention and treatment of NSAID-induced stomach ulcers?",
+      "d": "Misoprostol--- but can cause miscarriages\n\n(missing prostaglandins that protects stomach)"
+    },
+    {
+      "t": "M/Action of Celecoxib (Celebrex):",
+      "d": "Selective COX-2 inhibitor: protects gastric mucosa"
+    },
+    {
+      "t": "Common side effects of Celecoxib (Celebrex):",
+      "d": "Conjunctivitis\nBlurry vision\nStevens-Johnson syndrome"
+    },
+    {
+      "t": "topical NSAIDs are used to treat CME but need to be used with caution because they can cause",
+      "d": "corneal problems (ESPECIALLY DICLOFENAC (VOLTAREN)"
+    },
+    {
+      "t": "Classify Clonidine:",
+      "d": "Alpha-2 adrenergic agonist"
+    },
+    {
+      "t": "Clonidine is used for:",
+      "d": "Acute reduction of blood pressure and IOP"
+    },
+    {
+      "t": "m/a of clonidine in lowering IOPs?",
+      "d": "increases outflow of the uveoscleral pathway and decreases production!!"
+    },
+    {
+      "t": "Classify Isoproterenol:",
+      "d": "Beta-1/Beta-2 adrenergic agonist"
+    },
+    {
+      "t": "Classify Salmeterol:",
+      "d": "Beta-2 adrenergic agonist"
+    },
+    {
+      "t": "Classify Albuterol:",
+      "d": "Beta-2 adrenergic agonist"
+    },
+    {
+      "t": "Classify Terbutaline:",
+      "d": "Beta-2 adrenergic agonist"
+    },
+    {
+      "t": "Classify Metaproterenol:",
+      "d": "Beta-2 adrenergic agonist"
+    },
+    {
+      "t": "Beta-2 adrenergic agonist drugs are used mainly to treat:",
+      "d": "Asthma (they cause bronchodilation)"
+    },
+    {
+      "t": "Common side effect of Beta-2 adrenergic agonists:",
+      "d": "Increased aqueous humor production (caution in Glaucoma)-- act on NPCE cells"
+    },
+    {
+      "t": "What are the 5 systemic B2 agonists?",
+      "d": "Albuterol\nLevalbuterol\nTerbutaline\nmetaproterenol\nisoproterenol\n\nB2s have \"buts\""
+    },
+    {
+      "t": "what can dopamine agonists do?",
+      "d": "same thing as adrenergic agonists"
+    },
+    {
+      "t": "Classify Pseudoephedrine:",
+      "d": "Nonspecific alpha and beta adrenergic agonist"
+    },
+    {
+      "t": "Classify Tamsulosin (Flomax):",
+      "d": "Alpha-1 adrenergic antagonist"
+    },
+    {
+      "t": "Alpha-1 adrenergic antagonists are commonly used to treat:",
+      "d": "Benign Prostatic Hyperplasia"
+    },
+    {
+      "t": "Classify Terazosin:",
+      "d": "Alpha-1 adrenergic antagonist"
+    },
+    {
+      "t": "Classify Prazosin:",
+      "d": "Alpha-1 adrenergic antagonist"
+    },
+    {
+      "t": "Common side effect of Tamsulosin (Flomax):",
+      "d": "Intraoperative floppy iris syndrome"
+    },
+    {
+      "t": "Which medication is known to cause intraoperative floppy iris syndrome during cataract surgery?",
+      "d": "Tamsulosin (Flomax)"
+    },
+    {
+      "t": "what are the 3 systemic alpha-1 antagonists",
+      "d": "tamsulosin\nterazosin\nprazosin\n\n\n--osins"
+    },
+    {
+      "t": "Classify Labetolol:",
+      "d": "Non-selective beta adrenergic antagonist"
+    },
+    {
+      "t": "Classify Propranolol:",
+      "d": "Non-selective beta adrenergic antagonist"
+    },
+    {
+      "t": "what are the non-selective beta blockers?",
+      "d": "Latetolol\nPropranolol"
+    },
+    {
+      "t": "Classify Atenolol:",
+      "d": "Beta-1 specific adrenergic antagonist"
+    },
+    {
+      "t": "Classify Metoprolol:",
+      "d": "Beta-1 specific adrenergic antagonist"
+    },
+    {
+      "t": "what are the 2 Beta-1 specific antagonists?",
+      "d": "atenolol\nmetoprolol"
+    },
+    {
+      "t": "Beta 1 blockers work on the _____ whereas beta 2 blockers work on the ______",
+      "d": "heart\neyes and lungs"
+    },
+    {
+      "t": "What is pseudoephedrine used for?",
+      "d": "decreases nasal congestion (colds)"
+    },
+    {
+      "t": "Ocular Side effects of pseudoephedrine",
+      "d": "Adrenergic Agonist-\n\nDiplopia & blurred vision\nIncreased aqueous humor production (caution in high IOP pts)"
+    },
+    {
+      "t": "what effects do anti-histamines have on the body?",
+      "d": "Anti-cholinergic... so more of an adrenergic response!\n\nmydriasis, dry eye, dry mouth, tachycardia"
+    },
+    {
+      "t": "Classify Diphenhydramine:",
+      "d": "1st-generation Antihistamine"
+    },
+    {
+      "t": "Classify Chlorpheniramine maleate:",
+      "d": "1st-generation Antihistamine"
+    },
+    {
+      "t": "Classify Brompheniramine:",
+      "d": "1st-generation Antihistamine"
+    },
+    {
+      "t": "Classify Promethazine:",
+      "d": "1st-generation Antihistamine"
+    },
+    {
+      "t": "what are the systemic 1st generation anti-histamines? (4)",
+      "d": "diphenhydramine\nchlorpheniramine maleate\nBrompheniramine\nPromethazine"
+    },
+    {
+      "t": "M/Action of 1st-generation Antihistamines:",
+      "d": "Block H1 receptors to prevent histamine binding"
+    },
+    {
+      "t": "Common side effects of 1st-generation Antihistamines: (block H1)",
+      "d": "Sedation due to CNS penetration\nAnticholinergic effects- esp dry eyes"
+    },
+    {
+      "t": "Drugs that can cause pigmentary retinopathy:",
+      "d": "PICTure:\nPhenothiazine\nIndomethacin\nChlorpromazine\nThioridazine"
+    },
+    {
+      "t": "Classify Loratadine:",
+      "d": "2nd-generation Antihistamine"
+    },
+    {
+      "t": "Classify Cetirizine:",
+      "d": "2nd-generation Antihistamine"
+    },
+    {
+      "t": "Classify Fexofenadine:",
+      "d": "2nd-generation Antihistamine"
+    },
+    {
+      "t": "what are the (3) 2nd gen systemic anti-histamines? (block H1)",
+      "d": "loratadine\ncetirizine\nfexofenadine"
+    },
+    {
+      "t": "Benefits of 2nd-generation Antihistamines over 1st-generation:",
+      "d": "Less CNS penetration & side effects"
+    },
+    {
+      "t": "Potential ocular side effect of Cetirizine (2nd gen antihistamine):",
+      "d": "Oculogyric crisis"
+    },
+    {
+      "t": "Classify Cimetidine:",
+      "d": "H2 blocker"
+    },
+    {
+      "t": "Classify Ranitidine (Zantac):",
+      "d": "H2 blocker"
+    },
+    {
+      "t": "Classify Famotidine (Pepcid):",
+      "d": "H2 blocker"
+    },
+    {
+      "t": "what are the systemic H2 blockers? (3)",
+      "d": "cimetidine\nranitidine\nfamotidine"
+    },
+    {
+      "t": "M/Action of H2 blockers:",
+      "d": "Block H2 receptors on gastric parietal cells to prevent stimulation of gastric acid secretion"
+    },
+    {
+      "t": "M/Action of Cimetidine:",
+      "d": "Block H2 receptors on gastric parietal cells to prevent stimulation of gastric acid secretion"
+    },
+    {
+      "t": "M/Action of Ranitidine (Zantac):",
+      "d": "Block H2 receptors on gastric parietal cells to prevent stimulation of gastric acid secretion"
+    },
+    {
+      "t": "M/Action of Famotidine (Pepcid):",
+      "d": "Block H2 receptors on gastric parietal cells to prevent stimulation of gastric acid secretion"
+    },
+    {
+      "t": "Classify Omeprazole (Prilosec):",
+      "d": "Proton pump inhibitor"
+    },
+    {
+      "t": "Classify Esomeprazole (Nexium):",
+      "d": "Proton pump inhibitor"
+    },
+    {
+      "t": "Which drug class is first-line therapy for peptic ulcer disease and GERD?",
+      "d": "Proton pump inhibitors"
+    },
+    {
+      "t": "Classify Sucralfate:",
+      "d": "Gastric lining protector"
+    },
+    {
+      "t": "M/Action of Sucralfate:",
+      "d": "Forms paste-like substance that lines the stomach and protects against acid"
+    },
+    {
+      "t": "Clinical indications for Salmeterol:",
+      "d": "Maintenance therapy for COPD and asthma\nNOT a rescue inhaler"
+    },
+    {
+      "t": "Salmeterol is used for ____________________ COPD and asthma therapy.",
+      "d": "Chronic"
+    },
+    {
+      "t": "Which bronchodilator is OK for patients with Glaucoma?",
+      "d": "Salmeterol"
+    },
+    {
+      "t": "Classify Ipratropium (Atrovent):",
+      "d": "Muscarinic Antagonist- Bronchodilator"
+    },
+    {
+      "t": "Classify Zafirlukast:",
+      "d": "Leukotriene receptor antagonist"
+    },
+    {
+      "t": "Classify Montelukast (Singulair):",
+      "d": "Leukotriene receptor antagonist"
+    },
+    {
+      "t": "Leukotriene receptor antagonists (Zafirlukast and Montelukast) are used to treat:",
+      "d": "Asthma & Bronchoconstriction"
+    },
+    {
+      "t": "M/Action of Acetylcysteine (Mucomyst):",
+      "d": "Breaks disulfide bonds in mucus to reduce its viscosity"
+    },
+    {
+      "t": "Ocular indications for use of Acetylcysteine (Mucomyst):",
+      "d": "Filamentary keratitis\nCorneal burns"
+    },
+    {
+      "t": "Classify Methotrexate:",
+      "d": "Immunosuppressant"
+    },
+    {
+      "t": "M/Action of Methotrexate:",
+      "d": "Inhibits dihydrofolate reductase--> inhibits DNA synthesis"
+    },
+    {
+      "t": "Methotrexate is mainly used to treat:",
+      "d": "Rheumatoid arthritis"
+    },
+    {
+      "t": "Common side effects of Methotrexate:",
+      "d": "Hepatotoxicity, myelosuppression\n*increased risk of opportunistic infections & lymphomas"
+    },
+    {
+      "t": "Classify Cyclosporine:",
+      "d": "Immunosuppressant"
+    },
+    {
+      "t": "M/Action of Cyclosporine:",
+      "d": "Inhibits release and production of Interleukin-2, preventing T-cell activation"
+    },
+    {
+      "t": "Common side effects of Cyclosporine:",
+      "d": "Increased risk for opportunistic infections & malignancies\nReversible Posterior Leukoencephalopathy Syndrome"
+    },
+    {
+      "t": "Classify Azathioprine:",
+      "d": "Immunosuppressant"
+    },
+    {
+      "t": "Azathioprine is mainly used to treat:",
+      "d": "Rheumatoid arthritis\nPreventing rejection of kidney transplants"
+    },
+    {
+      "t": "Classify Tamoxifen",
+      "d": "Estrogen antagonist (\"TamoxiFEN blocks EstroGEN\")"
+    },
+    {
+      "t": "Tamoxifen is used to treat:",
+      "d": "Breast cancer (used at least 5 yrs after remission)"
+    },
+    {
+      "t": "Common side effects of Tamoxifen:",
+      "d": "Crystalline retinopathy\nWhorl keratopathy (CHAI-T)\nThromboembolism"
+    },
+    {
+      "t": "Classify Acetaminophen:",
+      "d": "Non-opiate Analgesic"
+    },
+    {
+      "t": "Which commonly used OTC pain reliever is NOT an anti-inflammatory?",
+      "d": "Acetaminophen (analgesic & antipyretic but NOT an anti-inflammatory)"
+    },
+    {
+      "t": "Common side effects of Acetaminophen:",
+      "d": "Hepatotoxicity, esp with alcohol"
+    },
+    {
+      "t": "Classify Cyclobenzaprine:",
+      "d": "Non-opiate analgesic"
+    },
+    {
+      "t": "M/Action of Cyclobenzaprine:",
+      "d": "Decreases voluntary motor activity by inhibiting alpha & gamma motor neurons"
+    },
+    {
+      "t": "Common side effects of Cyclobenzaprine:",
+      "d": "Drowsiness, loss of concentration\nAnticholinergic effects (increased aq humor production!!)"
+    },
+    {
+      "t": "Classify Tramadol:",
+      "d": "Non-opiate analgesic"
+    },
+    {
+      "t": "An analgesic medication that is more potent than Acetaminophen but less potent than opiates:",
+      "d": "Tramadol"
+    },
+    {
+      "t": "Classify Meperidine (Demerol):",
+      "d": "Opiate analgesic"
+    },
+    {
+      "t": "Classify Oxycodone:",
+      "d": "Opiate analgesic"
+    },
+    {
+      "t": "M/Action of opiate analgesics (Meperidine & Oxycodone):",
+      "d": "Agonist at Mu, Kappa, and Delta opiate receptors"
+    },
+    {
+      "t": "Common side effects of Opiate analgesics (overdose):",
+      "d": "Miosis & Respiratory depression\nSeizures, increased intracranial pressure, Papilledema"
+    },
+    {
+      "t": "Which drug is used to reverse the effects of opiates in case of overdose?",
+      "d": "Naloxone"
+    },
+    {
+      "t": "Classify Sumatriptan (Imitrex):",
+      "d": "Anti-migraine medication"
+    },
+    {
+      "t": "M/Action of Sumatriptan:",
+      "d": "Serotonin receptor agonist- causes vasoconstriction & reduces inflammation in the CNS"
+    },
+    {
+      "t": "Potential side effects of Sumatriptan:",
+      "d": "NAION (VIAgra)\nRetinal artery occlusions\nMI, ischemic stroke"
+    },
+    {
+      "t": "Classify Chlorpromazine:",
+      "d": "Phenothiazine Antipsychotic"
+    },
+    {
+      "t": "Classify Thioridazine:",
+      "d": "Phenothiazine Antipsychotic"
+    },
+    {
+      "t": "M/Action of Chlorpromazine:",
+      "d": "Dopamine receptor antagonist"
+    },
+    {
+      "t": "M/Action of Thioridazine:",
+      "d": "Dopamine receptor antagonist"
+    },
+    {
+      "t": "Common side effects of Phenothiazines:",
+      "d": "High doses--> Parkinson's like effects\nPigmentation of corneal endothelium\nAnterior stellate cataracts\nOculogyric crisis"
+    },
+    {
+      "t": "Which medications cause Anterior stellate cataracts?",
+      "d": "Phenothiazines (Chlorpromazine & Thioridazine)"
+    },
+    {
+      "t": "Classify Amantadine:",
+      "d": "Anti-Parkinson's medication"
+    },
+    {
+      "t": "Classify Bromocriptine:",
+      "d": "Anti-Parkinson's medication"
+    },
+    {
+      "t": "M/Action of Amantadine:",
+      "d": "Blocks dopamine reuptake/augments dopamine release in the brain"
+    },
+    {
+      "t": "M/Action of Bromocriptine:",
+      "d": "Dopamine agonist"
+    },
+    {
+      "t": "Bromocriptine is used to treat:",
+      "d": "Parkinson's\nPituitary prolactinomas"
+    },
+    {
+      "t": "Classify Methylphenidate (Ritalin):",
+      "d": "ADHD medication"
+    },
+    {
+      "t": "Classify Dextroamphetamine (Dexedrine):",
+      "d": "ADHD medication"
+    },
+    {
+      "t": "M/Action of ADHD medications:",
+      "d": "Increase release of dopamine"
+    },
+    {
+      "t": "Drugs that can cause NAION:",
+      "d": "VIAgra:\nViagra\nImitrex\nAmiodarone"
+    },
+    {
+      "t": "Common side effects of ADHD medications:",
+      "d": "Mydriasis\nDry eye\nAngle closure"
+    },
+    {
+      "t": "Classify Donepezil:",
+      "d": "Dementia medication (Cholinergic agonist)"
+    },
+    {
+      "t": "M/Action of Donepezil:",
+      "d": "CNS AChE inhibitor"
+    },
+    {
+      "t": "Common side effects of Donepezil:",
+      "d": "Cataracts, blurred vision, ocular irritation\nLowered IOP"
+    },
+    {
+      "t": "Classify Fluoxetine (Prozac):",
+      "d": "SSRI anti-depressant"
+    },
+    {
+      "t": "Classify Escitalopram (Lexapro):",
+      "d": "SSRI anti-depressant"
+    },
+    {
+      "t": "Classify Venlafaxine (Effexor):",
+      "d": "SNRI anti-depressant"
+    },
+    {
+      "t": "Classify Duloxetine (Cymbalta):",
+      "d": "SNRI anti-depressant"
+    },
+    {
+      "t": "Classify Amitriptyline (Elavil):",
+      "d": "TCA anti-depressant"
+    },
+    {
+      "t": "Classify Imipramine:",
+      "d": "TCA anti-depressant"
+    },
+    {
+      "t": "Classify Phenelzine:",
+      "d": "MAOI anti-depressant"
+    },
+    {
+      "t": "M/Action of Fluoxetine (Prozac):",
+      "d": "Inhibit serotonin reuptake from synaptic cleft in CNS"
+    },
+    {
+      "t": "M/Action of Escitalopram (Lexapro):",
+      "d": "Inhibit serotonin reuptake from synaptic cleft in CNS"
+    },
+    {
+      "t": "M/Action of Venlafaxine (Effexor):",
+      "d": "Inhibit serotonin & norepinephrine reuptake from synaptic cleft in CNS"
+    },
+    {
+      "t": "M/Action of Duloxetine (Cymbalta):",
+      "d": "Inhibit serotonin & norepinephrine reuptake from synaptic cleft in CNS"
+    },
+    {
+      "t": "M/Action of Amitriptyline:",
+      "d": "Inhibit norepinephrine & serotonin reuptake at synaptic cleft in CNS"
+    },
+    {
+      "t": "M/Action of Imipramine:",
+      "d": "Inhibit norepinephrine & serotonin reuptake at synaptic cleft in CNS"
+    },
+    {
+      "t": "M/Action of Phenelzine:",
+      "d": "Inhibit MAO--> reduce breakdown of Norepinephrine & serotonin"
+    },
+    {
+      "t": "Common side effects of SSRI anti-depressants:",
+      "d": "Mydriasis\nCaution in patients with narrow angles"
+    },
+    {
+      "t": "Serotonin syndrome can occur when SSRI's are prescribed along with what other medication class?",
+      "d": "TCA's or MAOI's"
+    },
+    {
+      "t": "Classify Bupropion:",
+      "d": "SNRI anti-depressant"
+    },
+    {
+      "t": "Bupropion is prescribed to treat:",
+      "d": "Depression and smoking cessation"
+    },
+    {
+      "t": "Common side effects of SNRI anti-depressants:",
+      "d": "Mydriasis\nCaution in patients with narrow angles"
+    },
+    {
+      "t": "Common ocular side effects of TCA anti-depressants:",
+      "d": "Dry eye\nIncreased IOP\nBlurred vision\nMydriasis"
+    },
+    {
+      "t": "Common side effects of MAOI anti-depressants:",
+      "d": "Glaucoma & nystagmus\nLethal hypertensive crisis"
+    },
+    {
+      "t": "Patients taking MAOI's can experience a lethal hypertensive crisis if they also consume foods containing:",
+      "d": "Tyramine (wine and cheese)"
+    },
+    {
+      "t": "Classify Diazepam (Valium):",
+      "d": "Benzodiazepine Anti-anxiety drug"
+    },
+    {
+      "t": "M/Action of Diazepam:",
+      "d": "Binds GABA receptors--> hyperpolarization of CNS neurons"
+    },
+    {
+      "t": "Side effects of Diazepam:",
+      "d": "Mydriasis, nystagmus\nC/I in pts with narrow-angle glaucoma"
+    },
+    {
+      "t": "Classify Phenytoin:",
+      "d": "Anticonvulsant"
+    },
+    {
+      "t": "Common side effects of Phenytoin:",
+      "d": "Nystagmus\nDiplopia\nEOM palsies\nAtaxia"
+    },
+    {
+      "t": "Classify Phenobarbital:",
+      "d": "Anticonvulsant"
+    },
+    {
+      "t": "Classify Topiramate:",
+      "d": "Anticonvulsant"
+    },
+    {
+      "t": "Common side effects of Phenobarbital:",
+      "d": "Mydriasis\nIncreased IOP\nCycloplegia"
+    },
+    {
+      "t": "Common side effects of Topiramate:",
+      "d": "Blurred vision, diplopia, nystagmus\nacute secondary angle-closure glaucoma (secondary to choroidal swelling)"
+    },
+    {
+      "t": "Classify Metformin:",
+      "d": "Biguanide oral diabetic medication"
+    },
+    {
+      "t": "M/Action of Metformin:",
+      "d": "Decreases gluconeogenesis in liver, increases glucose uptake"
+    },
+    {
+      "t": "Why is Metformin usually the first-line medication for Type 2 DM?",
+      "d": "Because it cannot cause hypoglycemia"
+    },
+    {
+      "t": "Classify Glipizide:",
+      "d": "Sulfonylurea oral diabetic medication"
+    },
+    {
+      "t": "Classify Glyburide:",
+      "d": "Sulfonylurea oral diabetic medication"
+    },
+    {
+      "t": "Classify Chlorpropamide:",
+      "d": "Sulfonylurea oral diabetic medication"
+    },
+    {
+      "t": "Common side effect of Sulfonylurea oral DM meds:",
+      "d": "Hypoglycemia"
+    },
+    {
+      "t": "M/Action of Sulfonylureas:",
+      "d": "Increase secretion of insulin by beta cells in pancreas, decrease glucagon release, increase insulin sensitivity (increase Sensitivity & Secretion)"
+    },
+    {
+      "t": "Classify Pioglitazone:",
+      "d": "TZD oral diabetic medication"
+    },
+    {
+      "t": "Classify Rosiglitazone:",
+      "d": "TZD oral diabetic medication"
+    },
+    {
+      "t": "M/Action of TZD oral DM meds:",
+      "d": "Increase glucose uptake in muscle & fat tissues"
+    },
+    {
+      "t": "Common side effects of TZD's:",
+      "d": "Decreased VA\nNew or worsening macular edema with Pioglitazone"
+    },
+    {
+      "t": "Classify Levothyroxine:",
+      "d": "Synthetic thyroid hormone"
+    },
+    {
+      "t": "Common side effects of Levothyroxine:",
+      "d": "Pseudotumor cerebri in children\nHyperthyroid symptoms"
+    },
+    {
+      "t": "Classify Sildenafil:",
+      "d": "Phosphodiesterase inhibitor (for ED)"
+    },
+    {
+      "t": "Classify Vardenafil:",
+      "d": "Phosphodiesterase inhibitor (for ED)"
+    },
+    {
+      "t": "Common side effects of Sildenafil/Vardenafil:",
+      "d": "Color vision changes- esp Cyanopsia!!\nBlurred vision\nPhotosensitivity\nNAION (VIAgra)"
+    },
+    {
+      "t": "Classify Lisinopril:",
+      "d": "ACE inhibitor (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Benazepril:",
+      "d": "ACE inhibitor (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Enalapril:",
+      "d": "ACE inhibitor (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Captopril:",
+      "d": "ACE inhibitor (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Losartan:",
+      "d": "Angiotensin II receptor antagonist (ARB)- anti-hypertensive"
+    },
+    {
+      "t": "M/Action of Lisinopril:",
+      "d": "Prevent formation of Angiotensin II by blocking ACE\nBlock bradykinin metabolism in lungs--> vasodilation"
+    },
+    {
+      "t": "M/Action of Benazepril:",
+      "d": "Prevent formation of Angiotensin II by blocking ACE\nBlock bradykinin metabolism in lungs--> vasodilation"
+    },
+    {
+      "t": "M/Action of Captopril:",
+      "d": "Prevent formation of Angiotensin II by blocking ACE\nBlock bradykinin metabolism in lungs--> vasodilation"
+    },
+    {
+      "t": "M/Action of Enalapril:",
+      "d": "Prevent formation of Angiotensin II by blocking ACE\nBlock bradykinin metabolism in lungs--> vasodilation"
+    },
+    {
+      "t": "Common side effects of ACE inhibitors:",
+      "d": "Cough!!\nAngioedema"
+    },
+    {
+      "t": "Common side effects of ARB's:",
+      "d": "Not really many- NO cough!! (Usually Rx'ed when pts cannot tolerate cough from ACE inhibitors)"
+    },
+    {
+      "t": "M/Action of Losartan:",
+      "d": "Inhibits angiotensin II\nStimulates aldosterone secretion"
+    },
+    {
+      "t": "M/Action of Propranolol/Labetalol:",
+      "d": "Non-selective beta-1 and beta-2 receptor antagonists\nBlock release of renin from kidneys"
+    },
+    {
+      "t": "Side effects of Beta blockers:",
+      "d": "Fatigue (bad for MG pts)\nBradycardia\nBronchospasm"
+    },
+    {
+      "t": "Classify Nifedipine:",
+      "d": "Calcium channel blocker (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Verapamil:",
+      "d": "Calcium channel blocker (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Diltiazem:",
+      "d": "Calcium channel blocker (anti-hypertensive)"
+    },
+    {
+      "t": "M/Action of Calcium channel blockers:",
+      "d": "Block calcium channels--> marked decrease in intracellular free calcium--> dilation of coronary arteries"
+    },
+    {
+      "t": "Classify Furosemide:",
+      "d": "Loop Diuretic (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Hydochlorothiazide:",
+      "d": "Thiazide diuretic (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Chlorothiazide:",
+      "d": "Thiazide diuretic (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Spironolactone:",
+      "d": "Potassium-sparing diuretic (anti-hypertensive)"
+    },
+    {
+      "t": "Classify Triamterene:",
+      "d": "Potassium-sparing diuretic (anti-hypertensive)"
+    },
+    {
+      "t": "M/Action of Furosemide:",
+      "d": "Inhibit Na/Cl/K transporters in thick ascending loop of henle"
+    },
+    {
+      "t": "Common side effects of Furosemide:",
+      "d": "Hypokalemia\nNephrotoxicity\nOtotoxicity"
+    },
+    {
+      "t": "M/Action of Thiazide diuretics:",
+      "d": "Inhibit NaCl reabsorption/decrease Ca excretion at distal convoluted tubule"
+    },
+    {
+      "t": "Side effects of thiazide diuretics:",
+      "d": "Acute transient myopia\nAcute angle-closure glaucoma\n(both secondary to ciliary body swelling)"
+    },
+    {
+      "t": "M/Action of Spironolactone:",
+      "d": "Blocks aldosterone action at distal convoluted tubule"
+    },
+    {
+      "t": "Side effects of Spironolactone:",
+      "d": "Hyperkalemia\nGynecomastia\nAntiandrogen effects"
+    },
+    {
+      "t": "Classify Mannitol:",
+      "d": "Osmotic diuretic"
+    },
+    {
+      "t": "M/Action of Mannitol:",
+      "d": "Increases plasma osmolarity, drawing water out of the eye"
+    },
+    {
+      "t": "Mannitol is used to treat:",
+      "d": "Acute angle closure\nCerebral edema"
+    },
+    {
+      "t": "ALL diuretics can cause what side effect in the eye?",
+      "d": "Dry eye"
+    },
+    {
+      "t": "Classify Hydralazine:",
+      "d": "Anti-hypertensive"
+    },
+    {
+      "t": "M/Action of Hydralazine",
+      "d": "Increases cGMP--> smooth muscle relaxation--> decreased peripheral vascular resistance"
+    },
+    {
+      "t": "Classify Digoxin:",
+      "d": "Anti-CHF drug"
+    },
+    {
+      "t": "M/Action of Digoxin:",
+      "d": "Inhibits Na/K ATPase--> increased intracellular Calcium"
+    },
+    {
+      "t": "Side effects of Digoxin:",
+      "d": "Retrobulbar optic neuritis\nBlue/yellow color defect\nEntopic phenomena (\"snowy vision, flickering\")"
+    },
+    {
+      "t": "Classify Amiodarone:",
+      "d": "Antiarrhythmic"
+    },
+    {
+      "t": "Side effects of Amiodarone:",
+      "d": "NAION (VIAgra)\nWhorl keratopathy (CHAI-T)\nAnterior subcapsular lens deposits"
+    },
+    {
+      "t": "Classify Warfarin:",
+      "d": "Anticoagulant"
+    },
+    {
+      "t": "M/Action of Warfarin:",
+      "d": "Vitamin K antagonist--> reduces clotting"
+    },
+    {
+      "t": "The effects of Warfarin can be reduced by giving the patient:",
+      "d": "Vitamin K"
+    },
+    {
+      "t": "Classify Clopidogrel (Plavix):",
+      "d": "Anticoagulant"
+    },
+    {
+      "t": "M/Action of Clopidogrel (Plavix):",
+      "d": "Inhibits ADP receptor on cells needed for platelet aggregation (\"makes platelets less sticky\")"
+    },
+    {
+      "t": "Classify Dipyridamole:",
+      "d": "Anticoagulant"
+    },
+    {
+      "t": "M/Action of Dipyridamole:",
+      "d": "Inhibit platelet aggregation"
+    },
+    {
+      "t": "Common side effect of Anticoagulants:",
+      "d": "Increased risk of bleeding"
+    },
+    {
+      "t": "Classify Atorvastatin:",
+      "d": "HMG CoA reductase inhibitor (Antihyperlipidemic)"
+    },
+    {
+      "t": "Classify Simvastatin:",
+      "d": "HMG CoA reductase inhibitor (Antihyperlipidemic)"
+    },
+    {
+      "t": "Classify Lovastatin:",
+      "d": "HMG CoA reductase inhibitor (Antihyperlipidemic)"
+    },
+    {
+      "t": "M/Action of Atorvastatin:",
+      "d": "Inhibit HMG CoA reductase--> Lower LDL & triglycerides, increase HDL"
+    },
+    {
+      "t": "M/Action of Simvastatin:",
+      "d": "Inhibit HMG CoA reductase--> Lower LDL & triglycerides, increase HDL"
+    },
+    {
+      "t": "M/Action of Lovastatin:",
+      "d": "Inhibit HMG CoA reductase--> Lower LDL & triglycerides, increase HDL"
+    },
+    {
+      "t": "Which class of drugs are first-line therapy for hyperlipidemia?",
+      "d": "HMG CoA reductase inhibitors (statins)"
+    },
+    {
+      "t": "If HMG CoA reductase inhibitors are not completely fixing the problem in a hyperlipidemic patient, which 2 drugs can be added on?",
+      "d": "Gemfibrozil\nCholestyramine"
+    },
+    {
+      "t": "Classify Gemfibrozil:",
+      "d": "Fibric acid (Antihyperlipidemic)"
+    },
+    {
+      "t": "M/Action of Gemfibrozil:",
+      "d": "Increases activity of lipoprotein lipase--> lowers VLDL & triglycerides"
+    },
+    {
+      "t": "Classify Cholestyramine:",
+      "d": "Bile Acid Binding Resin (Antihyperlipidemic)"
+    },
+    {
+      "t": "M/Action of Cholestyramine:",
+      "d": "binds bile acids in intestine--> prevents reabsorption- lowers LDL"
+    },
+    {
+      "t": "Classify Isotretinoin:",
+      "d": "Acne medication"
+    },
+    {
+      "t": "M/Action of Isotretinoin:",
+      "d": "Reduces amount of oil production from sebaceous glands"
+    },
+    {
+      "t": "Side effects of Isotretinoin:",
+      "d": "DRYNESS!\nBlepharoconjunctivitis\nPseudotumor cerebri\nLoss of color vision, night blindness\nTeratogenic"
+    },
+    {
+      "t": "Classify Metronidazole:",
+      "d": "Acne medication (acne rosacea)"
+    },
+    {
+      "t": "Chronic alcoholism can lead to __________________________ deficiency, resulting in what condition?",
+      "d": "Thiamine (B1)\nWernicke's encephalopathy"
+    },
+    {
+      "t": "What does FDA pregnancy category A mean?",
+      "d": "Studies in pregnant women have not shown a risk to the fetus in any trimester of pregnancy."
+    },
+    {
+      "t": "What does FDA pregnancy category B mean?",
+      "d": "Animal studies have failed to show risk to fetus, but insufficient studies in pregnant women OR\nAnimal studies have shown an adverse effect but human studies have shown no adverse effects in any trimester."
+    },
+    {
+      "t": "What does FDA pregnancy category C mean?",
+      "d": "Adverse effects on the fetus were found in animal studies, but there are no adequate human studies OR\nThere are no animal or human studies to determine the safety."
+    },
+    {
+      "t": "What does FDA pregnancy category D mean?",
+      "d": "Evidence of human fetal risk, but benefits may outweigh risks."
+    },
+    {
+      "t": "What does FDA pregnancy category X mean?",
+      "d": "Human or animal studies have shown fetal abnormalities, and risks are much more significant than benefits."
+    },
+    {
+      "t": "4 factors that can increase bioavailability of an ophthalmic topical drug:",
+      "d": "Lipid solubility\nSmall molecule size\nUncharged\nWeak base"
+    },
+    {
+      "t": "The iris dilator has ______________________ adrenergic receptors to stimulate dilation.",
+      "d": "alpha-1"
+    },
+    {
+      "t": "The non-pigmented ciliary epithelium has _______________________________ adrenergic receptors to stimulate increased aqueous formation.",
+      "d": "Beta-2 and Beta-1"
+    },
+    {
+      "t": "The 3 main structures in the eye that receive parasympathetic innervation are:",
+      "d": "Sphincter muscle (miosis)\nCiliary muscle (accommodation)\nLacrimal gland (lacrimation)"
+    },
+    {
+      "t": "Classify Pilocarpine:",
+      "d": "Direct cholinergic agonist"
+    },
+    {
+      "t": "Why is Pilocarpine not commonly used as a glaucoma drug?",
+      "d": "Requires QID dosing- increased dosing=increased s/e.\nAlso causes cataracts with long-term use"
+    },
+    {
+      "t": "M/Action of Pilocarpine:",
+      "d": "Stimulate longitudinal muscle of ciliary body--> pulls on scleral spur and opens up trabecular meshwork to increase outflow. Also causes miosis."
+    },
+    {
+      "t": "Pilocarpine increases outflow in which aqueous pathway?",
+      "d": "Corneoscleral"
+    },
+    {
+      "t": "2 situations where Pilocarpine is still commonly used:",
+      "d": "Acute angle closure\nLaser peripheral iridotomy"
+    },
+    {
+      "t": "0.125% Pilocarpine is used in diagnosis of what condition?",
+      "d": "Adie's tonic pupil"
+    },
+    {
+      "t": "How is pharmacological testing for Adie's tonic pupil performed?",
+      "d": "0.125% Pilo instilled in Adie's eye--> eye will constrict very quickly (normal eye wouldn't respond to such a weak dilution)"
+    },
+    {
+      "t": "Side effects of Pilocarpine:",
+      "d": "Browaches, HA, myopic shift\nCataracts with long-term use\nRetinal detachment"
+    },
+    {
+      "t": "Classify Edrophonium:",
+      "d": "Indirect Cholinergic Agonist"
+    },
+    {
+      "t": "Classify Neostigmine:",
+      "d": "Indirect Cholinergic Agonist"
+    },
+    {
+      "t": "Classify Echothiophate:",
+      "d": "Indirect Cholinergic Agonist"
+    },
+    {
+      "t": "Classify Pyridostigmine:",
+      "d": "Indirect Cholinergic Agonist"
+    },
+    {
+      "t": "The Tensilon test for diagnosis of Myasthenia gravis uses which drug?",
+      "d": "Edrophonium\n\n\"nothing gets passed ED\""
+    },
+    {
+      "t": "Main use of Edrophonium:",
+      "d": "Diagnosis of Myasthenia gravis (Tensilon test)\n\n\"nothing gets passed ED\""
+    },
+    {
+      "t": "Neostigmine is mainly used for:",
+      "d": "Treatment of Myasthenia gravis"
+    },
+    {
+      "t": "Echothiophate is mainly used for:",
+      "d": "Diagnosis/treatment of accommodative esotropia\n\n\"Echo of Eso\""
+    },
+    {
+      "t": "Pyridostigmine is mainly used for:",
+      "d": "Treatment of Myasthenia Gravis (\"pyRIDostigmine gets RID of MG\")"
+    },
+    {
+      "t": "Classify Scopolamine:",
+      "d": "Cholinergic Antagonist (STop ACH)"
+    },
+    {
+      "t": "Classify Tropicamide:",
+      "d": "Cholinergic Antagonist (STop ACH)"
+    },
+    {
+      "t": "Classify Atropine:",
+      "d": "Cholinergic Antagonist (STop ACH)"
+    },
+    {
+      "t": "Classify Cyclopentolate:",
+      "d": "Cholinergic Antagonist (STop ACH)"
+    },
+    {
+      "t": "Classify Homatropine:",
+      "d": "Cholinergic Antagonist (STop ACH)"
+    },
+    {
+      "t": "Can Scopolamine cross the blood-brain barrier?",
+      "d": "YES- potential CNS toxicity"
+    },
+    {
+      "t": "Which of the Cholinergic Antagonists has the fastest onset and shortest duration of mydriasis?",
+      "d": "Tropicamide"
+    },
+    {
+      "t": "Common clinical uses for Atropine:",
+      "d": "Breaking posterior synechiae\nUveitis (homatropine more commonly used though)\nAmblyopia penalization"
+    },
+    {
+      "t": "Mydriasis with Tropicamide usually onsets within __________ minutes and lasts for approximately _______ hours.",
+      "d": "20-35\n6"
+    },
+    {
+      "t": "Which Cholinergic Antagonist has the fastest onset of cycloplegic effects?",
+      "d": "Cyclopentolate"
+    },
+    {
+      "t": "Which Cholinergic Antagonist has the shortest duration of cycloplegic effects?",
+      "d": "Cyclopentolate"
+    },
+    {
+      "t": "Which Cholinergic Antagonist is the drug of choice for Anterior Uveitis?",
+      "d": "Homatropine"
+    },
+    {
+      "t": "M/Action of Homatropine in Anterior Uveitis:",
+      "d": "Dilates pupil while keeping iris mobile (less chance of posterior synechia)\nReduces pain by paralyzing ciliary & sphincter muscles\nStabilizes blood-aqueous barrier"
+    },
+    {
+      "t": "M/Action of Botulinum (Botox):",
+      "d": "Blocks ACh release at neuromuscular junction, inhibiting muscle contraction"
+    },
+    {
+      "t": "Classify Phenylephrine:",
+      "d": "Alpha-1 Adrenergic Agonist"
+    },
+    {
+      "t": "Classify Brimonidine (Alphagan):",
+      "d": "Alpha-2 Adrenergic Agonist"
+    },
+    {
+      "t": "Classify Apraclonidine:",
+      "d": "Alpha-2 Adrenergic Agonist"
+    },
+    {
+      "t": "Which topical drug is used to differentiate episcleritis from scleritis?",
+      "d": "Phenylephrine"
+    },
+    {
+      "t": "Clinical effects of Phenylephrine:",
+      "d": "Palpebral widening (Muller's muscle)\n(crappy) dilation without cycloplegia\nConjunctival vessel blanching\ndiagnosing Horners"
+    },
+    {
+      "t": "Phenylephrine is contraindicated in:",
+      "d": "Pts taking MAOI's, TCA's, and Atropine\nPts with Graves' disease"
+    },
+    {
+      "t": "Classify Naphazoline (Naphcon):",
+      "d": "Alpha adrenergic agonist"
+    },
+    {
+      "t": "Classify Tetrahydrozoline (Visine):",
+      "d": "Alpha adrenergic agonist"
+    },
+    {
+      "t": "M/Action of Brimonidine (Alphagan):",
+      "d": "Decrease aqueous humor production\nIncrease uveoscleral aqueous outflow"
+    },
+    {
+      "t": "Which POAG drug has neuroprotective qualities?",
+      "d": "Brimonidine (Alphagan)"
+    },
+    {
+      "t": "Main side effect of Brimonidine (Alphagan):",
+      "d": "Follicular conjunctivitis (Alphagan-P has less of an issue)"
+    },
+    {
+      "t": "Secondary use for Brimonidine (Alphagan) besides POAG:",
+      "d": "Causes miosis--> can reduce glare/halos after refractive surgery"
+    },
+    {
+      "t": "Brimonidine (Alphagan) is contraindicated in patients who are taking which class of medication?",
+      "d": "MAOI's"
+    },
+    {
+      "t": "Main clinical use of Apraclonidine:",
+      "d": "ACUTE lowering of IOP- angle closure"
+    },
+    {
+      "t": "Why is Apraclonidine not used as a chronic POAG treatment?",
+      "d": "Tachyphylaxis, allergic responses"
+    },
+    {
+      "t": "Which drug(s) can be used to confirm a diagnosis of Horner's syndrome?",
+      "d": "Cocaine\nApraclonidine"
+    },
+    {
+      "t": "How is Apraclonidine used in diagnosis of Horner's syndrome?",
+      "d": "Doesn't affect pupils in healthy eyes. In Horner's, causes miotic pupil to dilate."
+    },
+    {
+      "t": "How is Cocaine used in diagnosis of Horner's syndrome?",
+      "d": "Always dilates a healthy eye. In Horner's miotic pupil will NOT dilate with cocaine."
+    },
+    {
+      "t": "Which drug(s) can be used to determine whether a Horner's syndrome lesion is pre or post-ganglionic?",
+      "d": "Hydroxyamphetamine\nPhenylephrine 1%"
+    },
+    {
+      "t": "If Hydroxyamphetamine is instilled in a Horner's syndrome eye and the eye does dilate, is the lesion pre- or post-ganglionic?",
+      "d": "Pre-ganglionic"
+    },
+    {
+      "t": "If Hydroxyamphetamine is instilled in a Horner's syndrome eye and the eye does NOT dilate, is the lesion pre- or post-ganglionic?",
+      "d": "Post-ganglionic"
+    },
+    {
+      "t": "M/Action of topical beta-blockers in POAG:",
+      "d": "Act on Beta-2 receptors on NPCE to decrease aqueous humor production"
+    },
+    {
+      "t": "What is the only topical Beta-1 selective drug?",
+      "d": "Betaxolol"
+    },
+    {
+      "t": "Classify Timolol:",
+      "d": "Non-selective topical beta-blocker"
+    },
+    {
+      "t": "Dosing schedule for Timolol:",
+      "d": "1 drop QAM"
+    },
+    {
+      "t": "What is the \"Crossover effect\"?",
+      "d": "Unilateral use of topical beta-blockers can reduce IOP in the contralateral eye due to systemic absorption."
+    },
+    {
+      "t": "Topical beta-blockers should be used cautiously in patients with which conditions?",
+      "d": "Diabetics\nHyperthyroid\nMyasthenia gravis"
+    },
+    {
+      "t": "Timolol is available in which 2 combination drugs?",
+      "d": "Cosopt (Timolol + 2% Dorzolamide)\nCombigan (Timolol + 0.2% Brimonidine)"
+    },
+    {
+      "t": "Classify Carteolol:",
+      "d": "Non-selective topical beta-blocker"
+    },
+    {
+      "t": "Why is Carteolol not used very much for IOP reduction?",
+      "d": "It doesn't lower IOP as well as the other topical beta blockers."
+    },
+    {
+      "t": "Why might Carteolol be chosen as a topical beta-blocker?",
+      "d": "Less side effects than other beta-blockers:\nLess stinging than timolol\nLess nocturnal bradycardia than timolol\nCan lower cholesterol"
+    },
+    {
+      "t": "Classify Betaxolol:",
+      "d": "\"Cardioselective\" Beta-1 specific topical beta blocker"
+    },
+    {
+      "t": "Common side effects of Betaxolol:",
+      "d": "Beta-1 activity can worsen congestive heart failure"
+    },
+    {
+      "t": "Classify Levobunolol:",
+      "d": "Non-selective topical beta-blocker"
+    },
+    {
+      "t": "Classify Metipranolol:",
+      "d": "Non-selective topical beta-blocker"
+    },
+    {
+      "t": "Which topical beta-blocker is the most effective at lowering IOP?",
+      "d": "Timolol"
+    },
+    {
+      "t": "M/Action for IOP reduction with Cholinergic agonists (pilocarpine):",
+      "d": "Increase corneoscleral outflow only one"
+    },
+    {
+      "t": "M/Action for IOP reduction with Alpha-adrenergic agonists:",
+      "d": "Decrease aqueous production\nIncrease uveoscleral outflow"
+    },
+    {
+      "t": "M/Action for IOP reduction with topical beta-blockers:",
+      "d": "Decrease aqueous production"
+    },
+    {
+      "t": "M/Action for IOP reduction with Carbonic Anhydrase inhibitors:",
+      "d": "Decrease aqueous production"
+    },
+    {
+      "t": "M/Action for IOP reduction with Prostaglandin Analogs:",
+      "d": "Increase uveoscleral outflow (along with alpha agonists)"
+    },
+    {
+      "t": "Carbonic Anhydrase Inhibitors should not be used in patients with:",
+      "d": "Sulfa allergies\nCOPD\nPregnancy"
+    },
+    {
+      "t": "Classify Brinzolamide:",
+      "d": "Topical Carbonic Anhydrase Inhibitor"
+    },
+    {
+      "t": "Classify Dorzolamide:",
+      "d": "Topical Carbonic Anhydrase Inhibitor"
+    },
+    {
+      "t": "Classify Acetazolamide:",
+      "d": "Oral Carbonic Anhydrase Inhibitor"
+    },
+    {
+      "t": "Classify Methazolamide:",
+      "d": "Oral Carbonic Anhydrase Inhibitor"
+    },
+    {
+      "t": "Common clinical use for Acetazolamide:",
+      "d": "Acute angle closure"
+    },
+    {
+      "t": "Common side effects of Oral Carbonic Anhydrase Inhibitors:",
+      "d": "Metallic taste, tingling in hands\nAplastic Anemia\nThrombocytopenia\nMalaise, fever, weight loss, etc"
+    },
+    {
+      "t": "Drugs that cause Aplastic Anemia:",
+      "d": "Trimethoprim\nChloramphenicol\nOral CAI's (esp Diamox)"
+    },
+    {
+      "t": "Which drug class is considered the first-line of treatment for POAG?",
+      "d": "Prostaglandin Analogs"
+    },
+    {
+      "t": "M/Action of Prostaglandin Analogs in POAG:",
+      "d": "Act on FP receptors on ciliary muscle, causing metalloproteinases to decrease resistance within uveoscleral network to increase outflow."
+    },
+    {
+      "t": "Prostaglandin Analogs should NOT be used in patients with:",
+      "d": "Uveitis\nCME\nHerpes Simplex Keratitis"
+    },
+    {
+      "t": "Common side effects of Prostaglandin analogs:",
+      "d": "Iris heterochromia\nIncreased pigmentation & growth of eyelashes\nConjunctival hyperemia"
+    },
+    {
+      "t": "Which Prostaglandin analog is most likely to cause conjunctival hyperemia?",
+      "d": "Lumigan (Bimatoprost)"
+    },
+    {
+      "t": "Which Prostaglandin analog is least likely to cause conjunctival hyperemia?",
+      "d": "Xalatan (Latanoprost)"
+    },
+    {
+      "t": "MOA of topical anesthetics?",
+      "d": "stopping influx of Na+ ions into nerve"
+    },
+    {
+      "t": "All topical anesthetics have what kind of linkage?",
+      "d": "ester (shorter acting)"
+    },
+    {
+      "t": "M/a of antihistamines?",
+      "d": "block cell receptors.... but still allow release of histamine release from mast cells, they just can't bind."
+    },
+    {
+      "t": "Classify Emedastine:",
+      "d": "H1-specific Antihistamine"
+    },
+    {
+      "t": "Do Mast cell Stabilizers work better for acute or chronic allergic reactions?",
+      "d": "Chronic"
+    },
+    {
+      "t": "Classify Cromolyn Sodium:",
+      "d": "Mast cell stabilizer"
+    },
+    {
+      "t": "Classify Lodoxamide (alomide):",
+      "d": "Mast cell stabilizer"
+    },
+    {
+      "t": "Classify Pemirolast (alarmist):",
+      "d": "Mast cell stabilizer"
+    },
+    {
+      "t": "Classify Nedocromil (alocril):",
+      "d": "Mast cell stabilizer"
+    },
+    {
+      "t": "Classify Bepotastine (deprive):",
+      "d": "Mast cell stabilizer/Antihistamine combo"
+    },
+    {
+      "t": "Classify Epinastine (elestat):",
+      "d": "Mast cell stabilizer/Antihistamine combo"
+    },
+    {
+      "t": "Classify Ketotifen (zaditor):",
+      "d": "Mast cell stabilizer/Antihistamine combo"
+    },
+    {
+      "t": "Classify Olopatadine:",
+      "d": "Mast cell stabilizer/Antihistamine combo"
+    },
+    {
+      "t": "M/Action of mast-cell stabilizers:",
+      "d": "Prevent calcium influx into mast cell membrane--> preventing degranulation"
+    },
+    {
+      "t": "Most common ocular side effects of topical steroid use:",
+      "d": "Increased risk of secondary infections\nPSC cataracts\nGlaucoma"
+    },
+    {
+      "t": "Is Pred Acetate considered a Potent or Soft steroid?",
+      "d": "Potent"
+    },
+    {
+      "t": "Is Rimexolone considered a Potent or Soft steroid?",
+      "d": "Potent"
+    },
+    {
+      "t": "Is Difluprednate considered a Potent or Soft steroid?",
+      "d": "Potent"
+    },
+    {
+      "t": "Is Dexamethasone considered a Potent or Soft steroid?",
+      "d": "Potent"
+    },
+    {
+      "t": "Classify Prednisolone Acetate:",
+      "d": "Topical steroid"
+    },
+    {
+      "t": "Classify Rimexolone:",
+      "d": "Topical steroid"
+    },
+    {
+      "t": "Classify Difluprednate:",
+      "d": "Topical steroid"
+    },
+    {
+      "t": "Classify Dexamethasone:",
+      "d": "Topical steroid"
+    },
+    {
+      "t": "Classify Fluorometholone:",
+      "d": "Topical steroid"
+    },
+    {
+      "t": "Classify Loteprednol:",
+      "d": "Topical steroid"
+    },
+    {
+      "t": "Classify Diclofenac sodium:",
+      "d": "Topical NSAID"
+    },
+    {
+      "t": "Classify Ketorolac Tromethamine:",
+      "d": "Topical NSAID"
+    },
+    {
+      "t": "Classify Nepafenac:",
+      "d": "Topical NSAID"
+    },
+    {
+      "t": "Classify Bromfenac:",
+      "d": "Topical NSAID"
+    },
+    {
+      "t": "Classify Flurbiprofen:",
+      "d": "Topical NSAID"
+    },
+    {
+      "t": "M/Action of ocular topical NSAIDs:",
+      "d": "Block both COX-1 and COX-2"
+    },
+    {
+      "t": "Which topical NSAID is frequently used prior to ocular surgery?",
+      "d": "Flurbiprofen (Ocufen)"
+    },
+    {
+      "t": "Which ocular topical medication is notorious for causing corneal melting (NOT an anesthetic)?",
+      "d": "Generic Diclofenac sodium (Voltaren)"
+    },
+    {
+      "t": "Which topical NSAID is approved tor treatment of seasonal allergic conjunctivitis?",
+      "d": "Ketorolac"
+    },
+    {
+      "t": "Main uses of Methylene Blue Dye:",
+      "d": "Stains corneal nerves\nOutlines glaucoma filtering blebs"
+    },
+    {
+      "t": "Which Anti-VEGF drug is technically off-label when used for Exudative ARMD?",
+      "d": "Avastin"
+    },
+    {
+      "t": "Classify Pegaptanib:",
+      "d": "Anti-VEGF"
+    },
+    {
+      "t": "Classify Ranibizumab:",
+      "d": "Anti-VEGF"
+    },
+    {
+      "t": "Classify Glycerine (Osmoglyn):",
+      "d": "Hyperosmotic agent"
+    },
+    {
+      "t": "M/Action of Glycerine (Osmoglyn) when lowering IOP:",
+      "d": "Causes hypertonicity of plasma--> creates osmotic gradient pulling fluid out of aqueous humor & lowering IOP"
+    },
+    {
+      "t": "In a diabetic patient, Glycerine is not recommended for acute angle closure- what is recommended instead?",
+      "d": "Isosorbide"
+    },
+    {
+      "t": "Classify Muro 128:",
+      "d": "Hypertonic topical ophthalmic"
+    },
+    {
+      "t": "What is the purpose of Methylcellulose in artificial tears?",
+      "d": "Increases viscosity--> prolonged contact time"
+    },
+    {
+      "t": "What is the purpose of Polyvinyl alcohol in artificial tears?",
+      "d": "Increases viscosity--> prolonged contact time"
+    },
+    {
+      "t": "Side effects of BAK:",
+      "d": "Causes SPK (but that can be helpful by increasing drug penetration in some cases)"
+    },
+    {
+      "t": "Common ocular signs of a toxic reaction to a preservative:",
+      "d": "Diffuse SPK\nConj follicles"
+    },
+    {
+      "t": "Drugs that can cause Oculogyric crisis:",
+      "d": "Phenothiazines\nCetirizine"
+    },
+    {
+      "t": "How long IOP after inhaling marijuana last?",
+      "d": "4 hours"
+    },
+    {
+      "t": "Bacitracin MOA and toxicity?",
+      "d": "inhibits cell wall synthesis - transfer of peptidoglycan into the growing bacterial cell wall. It is toxic (bacteriCIDAL) so it is only used as an ointment."
+    },
+    {
+      "t": "penicillin and cephalosporin MOA",
+      "d": "Irreversibly bind to penicillin-binding proteins in cell wall [like transpeptidases, which cross-link peptidoglycan]."
+    },
+    {
+      "t": "Aminoglycoside and tetracycline MOA",
+      "d": "Bind to 30S subunit of ribosome\n\nBuy AT 30 CEL 50"
+    },
+    {
+      "t": "Chloramphenicol, macrolides, clindamycin MOA",
+      "d": "Bind to 50S ribosomal subunit\n\nBuy AT 30 CEL 50"
+    },
+    {
+      "t": "Sulfonamide MOA",
+      "d": "Inhibition of DHFS (folic acid synthesis)"
+    },
+    {
+      "t": "Fluoroquinolone MOA",
+      "d": "inhibit bacterial DNA topoisomerase and DNA gyrase"
+    },
+    {
+      "t": "Adverse effects of aminoglycosides?",
+      "d": "AmiNOglycosides - nephrotoxicity, and ototoxicity"
+    },
+    {
+      "t": "Drugs that can lead to pseudotumor cerebri?",
+      "d": "CATS - contraceptives, accutane, synthyroid, tetracycline"
+    },
+    {
+      "t": "How is pseudotumor cerebri treated?",
+      "d": "Diamox"
+    },
+    {
+      "t": "Side effects of diamox?",
+      "d": "Metabolic acidosis, aplastic anemia"
+    },
+    {
+      "t": "What drugs are contraindicated in pregnant women?",
+      "d": "FAT PAC\n\nFluoroquinolones, aminoglycosides, tetracyclines\n\nPAC-king a baby - OK for pregnancy - penicillins, azithromycin, cephalosporins"
+    },
+    {
+      "t": "What drugs can be used in pregnant women?",
+      "d": "FAT PAC\n\nPAC-king a baby - Penicillins, azithroymycin, cephalosporins\n\nDon't call a pregnant woman FAT - fluoroquinolones, aminoglycosides, tetracyclines"
+    },
+    {
+      "t": "What are some shitty things about aminoglycosides?",
+      "d": "1 - SPK - delays corneal healing\n2 - there is extensive resistance"
+    },
+    {
+      "t": "Cephalosporin gram activity?",
+      "d": "Gram (+) 1st gen, more gram (-) in later generations"
+    },
+    {
+      "t": "Penicillin examples",
+      "d": "Dicloxacillin (gram (+) mainly - resistant to penicillinase GREAT for MSSA, not MRSA\nAmoxicillin (gram (+/-), but not resistant to penicillinase"
+    },
+    {
+      "t": "Augmentin is made up of what?",
+      "d": "Amoxicillin + clavulanic acid"
+    },
+    {
+      "t": "Keflex is what generic, and is indicated for what?",
+      "d": "Cephalexin (1st gen cephalosporin), indicated for hordeolum, dacryoadenitis, dacryocystitis, preseptal cellulitis. Augmentin is also typically prescribed for this."
+    },
+    {
+      "t": "What are the most typical ADRs of oral antibiotics?",
+      "d": "GI Upset"
+    },
+    {
+      "t": "What drugs have a b-lactam ring?",
+      "d": "All penicillins and cephalosporins"
+    },
+    {
+      "t": "What is used for gonococcal conjunctivitis and orbital cellulitis?",
+      "d": "Ceftriaxone IV"
+    },
+    {
+      "t": "Adverse effects of cephalosporins?",
+      "d": "Hypersensitivity (most common); can also alter absorption of Vitamin K and result in excessively thinned blood."
+    },
+    {
+      "t": "Indications for tetracyclines",
+      "d": "Lyme disease, meibominitis, and acne rosacea, as well as chlamydia ocular infections**."
+    },
+    {
+      "t": "Which drug can be taken with food and is eliminated in fecal matter, and can be safely prescribed in patients with renal failure?",
+      "d": "Doxycycline"
+    },
+    {
+      "t": "What drug can cause blue sclera or pigmented cysts on the conjunctiva?",
+      "d": "Minocycline"
+    },
+    {
+      "t": "What drugs can be used for MRSA?",
+      "d": "Bacteria Can't Decide - BACTRIM (TMP/SMZ), Clindamycin, Doxycycline (also, minocycline)"
+    },
+    {
+      "t": "Indications for chloramphenicol?",
+      "d": "This 50S ribosome subunit inhibitor is used to treat gram (+ and -) species."
+    },
+    {
+      "t": "ADRs of chloramphenicol?",
+      "d": "Fatal aplastic anemia (from TOPICALs), and optic neuritis"
+    },
+    {
+      "t": "Indications of azithromycin?",
+      "d": "Chlamydia infection (including trachoma, and inclusion conjunctivitis)"
+    },
+    {
+      "t": "Which drugs should be taken on an empty stomach?",
+      "d": "You should PAT an empty stomach - penicillins, azithromycins, tetracyclines (minus doxy)"
+    },
+    {
+      "t": "What drug is indicated for bacterial conjunctivitis and blepharitis?",
+      "d": "Topical azithromycin (Azasite), dosed BID x 2 days, QD x 5 days"
+    },
+    {
+      "t": "What is an issue with Azasite?",
+      "d": "It contains the preservative BAK; pts must discontinue contact lens wear"
+    },
+    {
+      "t": "Trimethoprim MOA",
+      "d": "Inhibits bacterial dihydrofolate reductase. Bacteriostatic."
+    },
+    {
+      "t": "What are some bacteriostatic agents?",
+      "d": "Tetracyclines, trimethoprim, sodium sulfacetamide, erythromycin"
+    },
+    {
+      "t": "What are some bacteriCIDAL agents?",
+      "d": "Penicillins, cephalosporins, bacitracin, fluoroquinolones, aminoglycosides"
+    },
+    {
+      "t": "What is the most potent ophthalmic drug against MRSA?",
+      "d": "TMP and Tobramycin (not as good as TMP). Also besifloxacin and vancomycin."
+    },
+    {
+      "t": "Adverse effects of TMP and Pyrimethamine",
+      "d": "Bone marrow suppression - TMP = treats marrow poorly"
+    },
+    {
+      "t": "Indications for fluoroquinolones",
+      "d": "Contact lens related corneal ulcers, corneal abrasions, and bacterial conjunctivitis"
+    },
+    {
+      "t": "Fluoroquinolone pediatric usage?",
+      "d": "1 year and older, except levofloxacin"
+    },
+    {
+      "t": "Latent TB is treated with what?",
+      "d": "In ISOlation with ISOniazid, or rifampin (rifle)"
+    },
+    {
+      "t": "(+) PPD and (+) CXR indicates?",
+      "d": "Active TB, dual therapy required"
+    },
+    {
+      "t": "(+) PPD, (-) CXR indicates?",
+      "d": "Latent TB, monotherapy required"
+    },
+    {
+      "t": "Rifampin (RNAmpin)",
+      "d": "Inhibits mRNA (R) synthesis by binding to DNA dependent RNA Pol. Side effects include 'pink rifle' = river of pink tears; hepatotoxicity."
+    },
+    {
+      "t": "ISOniazid (IsonACID)",
+      "d": "My sON iazid - inhibits mycolic acid binding, can cause Optic Neuritis, and also hepatotoxicity"
+    },
+    {
+      "t": "Ethambutol",
+      "d": "Trade Name: Myambutol\n\nDrug Class: TB Meds\n\nMOA: Inhibits arabinosyl trasnferase, thus inhibiting mycobacterial cell wall synthesis.\n\nUse: Part of RIPE in active TB.\n\nS/E: Retrobulbar optic neuritis. May cause reduced color vision."
+    },
+    {
+      "t": "Oseltamivir",
+      "d": "Trade Name: Tamiflu\n\nDrug Class: Antiviral.\n\nMOA: Inhibitor of influenza A and B neuraminidase.\n\nUse: Hepatitis A or B"
+    },
+    {
+      "t": "Zidovudine (Retrovir)",
+      "d": "Retrovir - RT inhibitor; acts as nucleoside analog of thymidine. Used as part of 3 drug therapy for HIV."
+    },
+    {
+      "t": "Adverse effects of zidovudine",
+      "d": "Myopathy, CME, bone marrow suppression"
+    },
+    {
+      "t": "How is hep C treated?",
+      "d": "Ribavirin"
+    },
+    {
+      "t": "Ribavirin",
+      "d": "Trade Name: Rebetol\n\nDrug Class: Antiviral\n\nMOA: Viral RNA polymerase inhibitor.\n\nUse: Hepatitis C therapy.\n\nNotes: Used in combo with interferon for Hep C.\n\nS/E: Conjunctivitis most common. Don't forget about UVEITIS, RD's, CWS, retinal hemes, arterial/venous occlusions and optic neuritis."
+    },
+    {
+      "t": "Adverse effects of ribavirin",
+      "d": "Conjunctivitis + RIBAViriN - retinal detachment, ischemia (CWS), Blleding, A/V occlusions, Neuritis (Optic)"
+    },
+    {
+      "t": "Anti-herpes viral agents",
+      "d": "All work by inhibiting DNA Pol. Includes Trifluridine (Viroptic), Acyclovir, Valacyclovir, Famciclovir, Ganciclovir (Zirgan), Foscarnet (Foscavir)."
+    },
+    {
+      "t": "Trifluridine",
+      "d": "Trade Name: Viroptic\n\nDrug Class: Antiherpes\n\nMOA: Inhibit viral DNA polymerase\n\nUse: HSV keratitis.\n\nNotes: Thimerosal is the preservative.\n\nDosage: q2h up to 9x/day for no more than 21 days than 5x per day after. If stromal dz, use w/ steroid (both QID) until healed and then taper drop for drop."
+    },
+    {
+      "t": "What did the HEDS-2 trial show?",
+      "d": "Oral antivirals (in associated with trifluridine and topical corticosteroids) should be used to prevent scarring due to disciform endo/interstitial keratitis"
+    },
+    {
+      "t": "Acyclovir, valacyclovir, famciclovir MOA",
+      "d": "Inhibit DNA Pol"
+    },
+    {
+      "t": "Acyclovir, valacyclovir, famciclovir indications",
+      "d": "Herpes zoster opthalmicus, HSV Keratitis, and prophylaxis against recurrent HSV Keratitis"
+    },
+    {
+      "t": "Acyclovir, valacyclovir, famciclovir ADRs",
+      "d": "Headaches, GI effects. Elderly, immunocompromised, Renal/liver disease should be monitored carefully."
+    },
+    {
+      "t": "Ganciclovir (Zirgan)",
+      "d": "DNA polymerase inhibitor, Antiviral, Herpes\nDOC for primary and recurrent HSKeratitis - epithelial = 5x/d until ulcer heals, then tid x7d; stromal = qid as prophylaxis with pred forte qid\nalso tx CMV retitinis (IV or implant)\nimproved efficacy and reduced toxicity to cornea."
+    },
+    {
+      "t": "Foscarnet",
+      "d": "Trade Name: Foscavir\n\nDrug Class: Antiherpes\n\nMOA: DNA polymerase inhibitor\n\nUse: CMV retinitis when Ganciclovir (Zirgan) doesn't work. IV for Acylocvir resistant HSV in AIDS.\n\nS/E: Nephrotoxicity and seizures"
+    },
+    {
+      "t": "What causes fungal infections?",
+      "d": "Vegetative trauma, immunocompromised patients, and chronic dry eye"
+    },
+    {
+      "t": "What is the main method of action of fungal medications?",
+      "d": "Target ergosterol, which is not present in human cells"
+    },
+    {
+      "t": "Natamycin",
+      "d": "Trade Name: Natacyn\n\nDrug Class: Antifungal\n\nMOA: Binds in ergosterol in fungal cell membrane and creates pores.\n\nUse: Fungal bleph, and keratoconjunctivitis caused by Candida, Aspegillus, and Fusarium."
+    },
+    {
+      "t": "Amphotericin B",
+      "d": "Drug Class: Antifungal\n\nMOA: Binds in ergosterol in fungal cell membrane and creates pores.\n\nUse: Broad spectrum anti fungal used for fungal keratitis. Used topically and IV.\n\nS/E: nephrotoxicity is common with IV."
+    },
+    {
+      "t": "Nystatin",
+      "d": "Trade Name: Mycostatin\n\nDrug Class: Antifungal\n\nMOA: Binds in ergosterol in fungal cell membrane and creates pores.\n\nUse: Candida oral (thrush) and vaginal (yeast) infections. Not for ophthalmic use."
+    },
+    {
+      "t": "Azoles- Ketoconazole, Fluconazole, Itraconazole",
+      "d": "Inhibit ergosterol synthesis. Used for corneal ulcers, fungal infections, and acanthamoeba."
+    },
+    {
+      "t": "Ketoconazole",
+      "d": "Antifungal azole prototype: active systemically; inhibits the synthesis of ergosterol. Used for C albicans, dermatophytes and for non\u2212life\u2212threatening systemic mycoses. Tox: hepatic dysfunction, inhibits steroid synthesis and P450\u2212dependent drug metabolism"
+    },
+    {
+      "t": "Fluconazole",
+      "d": "Trade Name: Diflucan\n\nDrug Class: Antifungal\n\nMOA: Inhibits ergosterol synthesis\n\nS/E: Hepatotoxicity"
+    },
+    {
+      "t": "Itraconazole",
+      "d": "Antifungal, prevents ergosterol synthesis"
+    },
+    {
+      "t": "Chloroquine (aralen)",
+      "d": "Causes a buildup of heme in RBCs, causing toxicity to the intra-erythrocytic Plasmodium parasite responsible for malaria. Also inhibits Phospholipase A -> anti-inflammatory."
+    },
+    {
+      "t": "What drug causes a granular hyperpigmentation surrounded by a zone of depigmentation in the macula?",
+      "d": "Chloroquine (aralen). More commonly, it causes whorl keratopathy."
+    },
+    {
+      "t": "Risk of bulls eye maculopathy",
+      "d": "Dosage >2.3 mg/kg of real body weight\n\nDuration of treatment >5 years\n\nAbnormal GFR\n\nHigh BF %\n\nAge > 60\n\nLiver disease\n\nConcomitant retinal disease"
+    },
+    {
+      "t": "What's the difference between hydroxychloroquine and chloroquine?",
+      "d": "Hydroxy is more commonly used for SLE, RA"
+    },
+    {
+      "t": "Risk factors for hydroxychloroquine",
+      "d": ">400 mg/day or 5 mg/kg real weight/day. Other than that exactly the same as chloroquine."
+    },
+    {
+      "t": "Describe the 6 side effects of systemic steroids in case form",
+      "d": "65 y/o male with DB:\n\n- Elevated BS\n- Insulin Resistance\n- Peptic ulcer (due to COX1 inhibition)\n- Decreased fibroblast function (fibroblasts help with collagen function, and diabetics dont heal very well)\n- Poor cartilage, thin bones\n- HTN"
+    },
+    {
+      "t": "Steroids MOA",
+      "d": "\"I-KISS\"\n-Inhibits Phospholipase A2\n-Kills T Cells and Eosinophils\n-Inhibits Macrophage Migration\n-Stabilizes Mast Cells\n-Stabilizes Endothelium"
+    },
+    {
+      "t": "Weak steroids",
+      "d": "-Flurometholone (FML)\n-Loteprednol 0.2%/0.5% (Alrex and Lotemax)"
+    },
+    {
+      "t": "Strong steroids",
+      "d": "-Pred Acetate (Pred Forte)\n-Rimexolone\n-Difluprednate (Durezol)\n-Dexamethasone"
+    },
+    {
+      "t": "Ocular indications of triaminolone (4)",
+      "d": "Macular Edema (Diabetic or due to CRVO or Irvine Gass)\nGraves orbitopathy\nNon-infectious Posterior uveitis\nChalazion"
+    },
+    {
+      "t": "What is fluticasone used for?",
+      "d": "Allergic rhinitis - intranasal corticosteroid"
+    },
+    {
+      "t": "Celecoxib",
+      "d": "'Celective' - less damaging on GI tract\n\nSelective COX-2 inhibitor: acts mainly on enzymes of cells involved in inflammation. Used in rheumatoid arthritis and other inflammatory disorders. Tox: GI toxicity, but less than that of aspirin and other NSAIDs; nephrotoxicity similar to other NSAIDs, increased risk of CV events. Rofecoxib is similar."
+    },
+    {
+      "t": "Misoprostol",
+      "d": "Synthetic prostglandin E1 used to treat and prevent NSAID induced ulcers. PGE1 important for stomach protection.\n\nRisk for miscarriage or premature labor."
+    },
+    {
+      "t": "Topical NSAIDs (5)",
+      "d": "Diclofenac, nepofenac, bromfenac, ketorolac, flurbiprofen"
+    },
+    {
+      "t": "Which NSAIDs are used for CME?",
+      "d": "Nepofenac, bromfenac, ketorolac"
+    },
+    {
+      "t": "Aspirin",
+      "d": "Drug Class: NSAID\n\nMOA: Irreversibly inhibits COX1 and COX2\n\nUse: analgesia, MI prophylaxis and antipyresis.\n\nS/E: bleeding, and Reye's Syndrome in infants.\n\nNote: DO NOT use aspirin for antipyresis in an infant. Use acetaminophen instead.\n\nDosage: For anti-inflammatary use up to 600mg QID."
+    },
+    {
+      "t": "Reye's syndrome",
+      "d": "Rapidly progressive encephalopathy in kids caused by aspirin"
+    },
+    {
+      "t": "What are the reversible COX I/II inhibitors?",
+      "d": "Indomethacin, ibuprofen, naproxen, piroxicam"
+    },
+    {
+      "t": "Can ibuprofen be prescribed in kids 6 months of age and older and why/why not?",
+      "d": "Yes, because it does not cause Reye's Syndrome"
+    },
+    {
+      "t": "What is a ADR of indomethacin (severe) (also naproxen, ibuprofen, piroxicam)?",
+      "d": "MI/Stroke"
+    },
+    {
+      "t": "What drugs should be taken with food?",
+      "d": "Aspirin"
+    },
+    {
+      "t": "Direct Cholinergic Agonists",
+      "d": "Carbachol, Bethanechol, Pilocarpine"
+    },
+    {
+      "t": "Indirect Cholinergic Agonists",
+      "d": "Edrophonium, echothiopate, pyridostigmine + neostigmine (reverse the stigma)"
+    },
+    {
+      "t": "Donepezil",
+      "d": "Trade Name: Aricept\n\nDrug Class: Dementia meds (Indirect Cholinergic Agonist)\n\nMOA: CNS antocholinesterase inhibitor.\n\nUse: Alzheimers dementia.\n\nS/E: Miosis\n\nNotes: Cholinergic effects. Lowers IOP, cataracts and blurred vision."
+    },
+    {
+      "t": "ASH CT",
+      "d": "Cycloplegic and mydriatic action duration - Atropine Scopolamine Homatropine Cyclopenolate Tropicamide"
+    },
+    {
+      "t": "Cholinergic antagonists",
+      "d": "First gen H1 blockers, anti-psychotics, anti-depressants, anti-anxiety\n\nAlso ipratropium"
+    },
+    {
+      "t": "Ipratropium",
+      "d": "Trade Name: Atrovent\n\nDrug Class: Bronchodilator\n\nMOA: Muscarinic (cholinergic) Antagonist. Blocks bronchoconstriction.\n\nUse: Asthma and COPD.\n\nNotes: Caution with narrow angle glaucoma."
+    },
+    {
+      "t": "Name the four first generation H1 blockers",
+      "d": "Diphenhydramine, brompheniramine, chlorpheniramine, promethazine"
+    },
+    {
+      "t": "What are the antipsychotics (3)?",
+      "d": "Chlorpromazine (color theory), thioridazine"
+    },
+    {
+      "t": "Name the TCAs (2)",
+      "d": "Amitriptyline, imipramine"
+    },
+    {
+      "t": "What do amitriptyline and imipramine do?",
+      "d": "TCA - three critical activities - increase NE, increase serotonin, and Cholinergic antagonism"
+    },
+    {
+      "t": "Name the MAOis (1)",
+      "d": "Phenelzine"
+    },
+    {
+      "t": "What does phenelzine do?",
+      "d": "It is an MAOi, and increases NE/E. Contraindicated for use with a-2 agonist such as brimonidine."
+    },
+    {
+      "t": "What is diazepam?",
+      "d": "Valium, a benzodiazepine, is an anxiolytic/anticonvulsant/muscle relaxant"
+    },
+    {
+      "t": "Clonidine",
+      "d": "Trade Name: Catapres\n\nMOA: CNS Alpha2 agonist. Decreases sympathetic outflow and increases parasympathetic tone. Decreases vascular resistance and heart rate.\n\nUse: Cardiovascular, hypertension.\n\nS/E: Dry mouth, impotence, rebound hypertension, decreases IOP."
+    },
+    {
+      "t": "Isoproterenol",
+      "d": "ISO-pro-tunnel - B1/B2 agonist"
+    },
+    {
+      "t": "Beta 2 Agonists (5)",
+      "d": "BUTT - ol:\n\nAlBUTerol\nLevalBUTerol\nTerBUTaline\n\nMetaproterenol\nSalmeterol"
+    },
+    {
+      "t": "Salmeterol",
+      "d": "Trade Name: Serevent\n\nDrug Class: Bronchdilator\n\nMOA: Long Acting B2 Agonist\n\nUse: Maintenance therapy for asthma and COPD. NOT FOR RESCUE.\n\nS/E: Possible keratitis and conjunctivitis. May agent aqueous production and increase IOP."
+    },
+    {
+      "t": "Pseudoephedrine",
+      "d": "Trade Name: Sudafed\n\nDrug Class: Cold Medication\n\nMOA: Nonspecific alpha and beta adrenergic agonist.\n\nUse: Limit nasal congestion symptoms with a cold.\n\nS/E: tachycardia, nervousness, diplopia and blurred vision, possible dilation and increase IOP. Watch in patients with small angles."
+    },
+    {
+      "t": "What drugs are contraindicated in patients with narrow angles?",
+      "d": "Dopamine agonist activity, ADHD, Parkinson's drugs"
+    },
+    {
+      "t": "Bromocriptine",
+      "d": "Drug Class: Anti-Parkinsons Meds\n\nMOA: Potentiates dopamine effects\n\nUse: Parkinson's disease. Mainly used for prolactin secreting pituitary adenomas."
+    },
+    {
+      "t": "Dextroamphetamine (Dexedrine)",
+      "d": "ADHD med. Increases dopamine release. Other tx: narcolepsy, depression. SE: high dose causes Mydriasis and dry eye. Watch out in narrow angles."
+    },
+    {
+      "t": "Tamsulosin",
+      "d": "Trade Name: Flomax\n\nDrug Class: Bengin Prostatic Hyperplasia (BPH) Meds\n\nMOA: Alpha-1 antagonists. Relaxes smooth muscle in bladder neck and prostate to decrease urinary tract obstruction. Also prevent peripheral vasoconstriction.\n\nUse: BPH\n\nS/E: first dose orthostatic hypotension. INTRAOPERATIVE FLOPPY IRIS SYNROME (IFIS)."
+    },
+    {
+      "t": "Terazosin",
+      "d": "Trade Name: Hytrin\n\nDrug Class: Bengin Prostatic Hyperplasia (BPH) Meds\n\nMOA: Alpha-1 antagonists. Relaxes smooth muscle in bladder neck and prostate to decrease urinary tract obstruction. Also prevent peripheral vasoconstriction.\n\nUse: BPH\n\nS/E: first dose orthostatic hypotension."
+    },
+    {
+      "t": "Prazosin",
+      "d": "Trade Name: Minipress\n\nDrug Class: Bengin Prostatic Hyperplasia (BPH) Meds\n\nMOA: Alpha-1 antagonists. Relaxes smooth muscle in bladder neck and prostate to decrease urinary tract obstruction. Also prevent peripheral vasoconstriction.\n\nUse: BPH\n\nS/E: first dose orthostatic hypotension."
+    },
+    {
+      "t": "ADRs of pseudoephedrine?",
+      "d": "Increased IOP, diplopia, blurred vision"
+    },
+    {
+      "t": "Terbutaline",
+      "d": "Trade Name: Brethine\n\nDrug Class: Bronchodilator\n\nMOA: Short acting B2 agonist.\n\nUse: Rescue inhalers for asthma and COPD.\n\nS/E: Due to B1 stimulation, Tachycardia, heart palpitations and tremors. May augment aqueous production and increase IOP."
+    },
+    {
+      "t": "Amantadine (Symmetrel)",
+      "d": "- Blocks dopamine reuptake into presynaptic neurons, increases dopamine release from presynaptic fibers; used for mild disease, or for dyskinesias in advanced disease (PARKINSONS)\n- SE\n- dizziness , etc.\n- Toxic delirium\n- Cutaenous reaction called Livedo reticularis - require drug discontinuation"
+    },
+    {
+      "t": "Which beta blockers affect IOP least?",
+      "d": "BEAM - betaxolol, atenolol, metoprolol"
+    },
+    {
+      "t": "Side effects of adrenergic antagonists? (2)",
+      "d": "Floppy iris syndrome, impotence"
+    },
+    {
+      "t": "What is the MOA of mast cell stabilizers?",
+      "d": "Stabilize mast cells and prevent the release of inflammatory mediators when mast cells come into contact with allergens and other substances that may provoke an immune response VIA blockage of voltage gated Ca2+ channels."
+    },
+    {
+      "t": "BEZPOP is an acronym for which drugs?",
+      "d": "Topical combination anti-histamine/mast cell stabilizers"
+    },
+    {
+      "t": "Alaway",
+      "d": "Topical mast cell stabilizer"
+    },
+    {
+      "t": "Cromolom sodium",
+      "d": "Topical mast cell stabilizer"
+    },
+    {
+      "t": "Bropheniramine",
+      "d": "Oral H1 blocker"
+    },
+    {
+      "t": "Diphenhydramine",
+      "d": "Trade Name: Benadryl\n\nDrug Class: 1st gen Antihistamine\n\nMOA: Blocks histamine-H1 receptor intereaction. H1 antagonist.\n\nUse: Allergies\n\nS/E: Sedation, anticholinergic effects like dry eye, mydriasis, dry mouth and tachycardia.\n\nNotes: 1st gen causes sedation because they are able to penetrate CNS."
+    },
+    {
+      "t": "Chlorpheniramine",
+      "d": "Trade Name: Chlor-Trimeton\n\nDrug Class: First Gen H1 Antihistamine\n\nMOA: Blocks histamine binding to H1 receptor.\n\nUse: Allergies, and sometimes anti-depression.\n\nNotes: Not as sedative is other first gen H1 antihistamines."
+    },
+    {
+      "t": "What are the two main side effects of first generation anti-histamines?",
+      "d": "Sedation, and Anti-muscarinic activity (anti SLUD)"
+    },
+    {
+      "t": "Promethazine ocular side effects",
+      "d": "Structured similarly to phenothiazine - leads to corneal, lenticular, and retinal pigmentation"
+    },
+    {
+      "t": "What is peptic ulcer disease typically caused by? (2)",
+      "d": "NSAID usage, and H. Pylori infections"
+    },
+    {
+      "t": "Cimetidine",
+      "d": "Trade Name: Tagamet\n\nDrug Class: H2 Antagonist\n\nMOA: Binds to H2 receptor of gastric parietal cells, preventing histamine induced HCl secretion.\n\nUse: PUD. Healing and preventing stomach ulcers and acid reflux.\n\nS/E: Diarrhea. Multiple drug interactions causing gynecomastia and loss of libido."
+    },
+    {
+      "t": "Ranitidine (Pepcid)",
+      "d": "H2 blocker, prevent HCl secretion"
+    },
+    {
+      "t": "OmePPrazole/esomePPrazole",
+      "d": "Proton pump inhibitor (H+/K+ ATPase), used for GERD and PUD"
+    },
+    {
+      "t": "Sucralfate (sulfur paste)",
+      "d": "Creates a sulfur paste, protects sulfur lining against acid"
+    },
+    {
+      "t": "Albuterol",
+      "d": "Trade Name: Proventil, Ventolin\n\nDrug Class: Bronchodilator\n\nMOA: Short acting B2 agonist.\n\nUse: Rescue inhalers for asthma and COPD.\n\nS/E: Due to B1 stimulation, Tachycardia, heart palpitations and tremors. May augment aqueous production and increase IOP."
+    },
+    {
+      "t": "Is isoproterenol used for asthma?",
+      "d": "Not anymore - now used for arrhythmia"
+    },
+    {
+      "t": "How does topirimate cause angle closure?",
+      "d": "Choroidal effusion and swelling of CB - close the angle"
+    },
+    {
+      "t": "ZafirLEUkast/MonteLEUkast",
+      "d": "Leukotriene receptor antagonists, can be used for asthma and bronchoconstriction"
+    },
+    {
+      "t": "Theophylline",
+      "d": "Trade Name: Theo-Dur\n\nDrug Class: Respiratory Agents\n\nMOA: Inhibits phosphodiesterase, leading to increased cAMP and release/effect of epinephrine.\n\nUse: Asthma and bronchconstriction. Limited use due to narrow therapeutic index.\n\nNotes: B-blockers make this less effective."
+    },
+    {
+      "t": "Acetylcysteine (Mucomyst) (MUCUS MIST)",
+      "d": "Mucolytic agent. Breaks disulfide bond in mucos proteins. Topically available for filimentary keratits, dry eye, corneal burns. Inhalation prevents mucus build up so respiratory pts can breathe easier."
+    },
+    {
+      "t": "Methotrexate",
+      "d": "Trade Name: Rheumatrex\n\nDrug Class: Immunosuppressant Agents\n\nMOA: Inhibits dihydrofolate reductase and anti-inflammatory.\n\nUse: RA.\n\nS/E: myelosuppresion (aplastic anemia), risk of opportunistic infections and lymphomas.\n\nNote: Causes folate deficiency. Supplement with folic acid."
+    },
+    {
+      "t": "ADRs of Methotrexate (think of its MOA with DNA)",
+      "d": "Causes myelosuppression and can lead to lymphoma as well as opportunistic infections"
+    },
+    {
+      "t": "Cyclosporine",
+      "d": "Prevents organ transplant rejection by inhibiting IL-2 -> T-Lymphocyte activation"
+    },
+    {
+      "t": "What is the big side effect of cyclosporine?",
+      "d": "Reversible posterior leukoencephalopathy syndrome (RPLS) - headaches, seizures, visual disturbances"
+    },
+    {
+      "t": "AzathioPURINE",
+      "d": "Purine analog, used for RA"
+    },
+    {
+      "t": "ADRs of AzathioPURINE",
+      "d": "Secondary lymphomas"
+    },
+    {
+      "t": "Tamoxifen",
+      "d": "Trade Name: Nolvadex\n\nDrug Class: Chemotherapeutic Agent\n\nMOA: Partial agonist inhibitor of estradiol, which inhibits estrogen effects at breast cancer site.\n\nUse: Breast cancer remission.\n\nS/E: Crystalline retinopathy, whorl K and increases risk of uterine cancer because of estrogen agonist effect."
+    },
+    {
+      "t": "ADRs of tamoxifen",
+      "d": "Crystalline retinopathy, CRVO"
+    },
+    {
+      "t": "Does tamoxifen induced crystalline retinopathy reverse with drug cessation?",
+      "d": "Not necessarily"
+    },
+    {
+      "t": "Cyclobenzaprine (Flexeril) (RID OF FLEX)",
+      "d": "Inhibits activity of motor neurons (alpha and gamma), causing inhibited motor activity - used for muscle spasms"
+    },
+    {
+      "t": "ADR/CI of cyclobenzaprine (Flexeril)",
+      "d": "Narrow angle glaucoma"
+    },
+    {
+      "t": "Tramadol",
+      "d": "Trade Name: Ultram\n\nDrug Class: Non-Opiate Analgesic\n\nMOA: Agonst at mu optiate receptor. Also inhibits serotonin and norepi uptake within ascending pain pathways.\n\nUse: Analgesia and antipyresis.\n\nS/E: Anticholinergic.\n\nNotes: More potent that acetaminophen, but not as potent as opiate."
+    },
+    {
+      "t": "Mepiridine (Demerol) (M+D)",
+      "d": "Binds to M, K, D opiate receptors"
+    },
+    {
+      "t": "Oxycodone (Roxicodone)",
+      "d": "Opiate analgesic, agonist @ mu/kappa/delta opiate receptors. Potent analgesic and addictive. SEs: Miosis, respiratory depression, sedation."
+    },
+    {
+      "t": "ADRs of oxycodone (roxicodone) and mepiridine (Demerol M+D)",
+      "d": "Ocular - Miosis, papilledema. Systemic - respiratory depression."
+    },
+    {
+      "t": "Sumitriptan",
+      "d": "5-HT1B/D Serotonin Receptor Agonist. Causes vasoconstriction"
+    },
+    {
+      "t": "ADRs of Sumitriptan",
+      "d": "NAION, Vascular Occlusions"
+    },
+    {
+      "t": "Chlorpromazine (Thorazine) (COLOR THEORY)",
+      "d": "Dopamine receptor antagonist, acts as an anti-psychotic"
+    },
+    {
+      "t": "Drugs that cause pigmentary changes at all levels of the eye",
+      "d": "Phenothiazines (Chlorpromazine, thoridiazine)\nPromethazine (phenergan)\nTo be continued"
+    },
+    {
+      "t": "Drugs that cause oculogyric crisis",
+      "d": "phenothiazines, cetrizine"
+    },
+    {
+      "t": "What is an ADR of Chlorpromazine (Thorazine) and Thoridazine (Mellaril) (1 systemic, 3 ocular)",
+      "d": "Parkinsonian effects, pigmentation (Ocularly) and anti-cholinergic crisis (Elevated IOP, mydriasis)"
+    },
+    {
+      "t": "Griseofulvin",
+      "d": "\"Greasy block of microtubules\"\n\nBlock microtubule fxn-mitosis.\n*deposits in nails and keratin containing tissue\n\nUSE: oral tx for superficial infxn; dermatophytes (tinea, ringworm)\n\nTOX: teratogen/carcinogen, confusion & HA\n*inc p450 metab (warfarin)\n\nException to ergosterol rule"
+    },
+    {
+      "t": "Which drugs block the phospholipase A2 pathway?",
+      "d": "Steroids"
+    },
+    {
+      "t": "Acronym for Parkinson's disease (TRAP)",
+      "d": "Tremor at rest, Rigidity, Akinesia, loss of Postural Reflexes"
+    },
+    {
+      "t": "What is a contraindication for dopamine agonist medications (ADHD/Parkinson's meds)?\nA. Hypertension\nB. Narrow angles\nC. Dry eyes\nD. Trauma",
+      "d": "B. Narrow angles - they act as adrenergic agonists"
+    },
+    {
+      "t": "Donepezil (done with the puzzle) MOA:\nA. AcHE activator\nB. AcHE inhibitor\nC. Dopamine agonist\nD. Dopamine antagonist",
+      "d": "B. AcHEi, used for treatment of ALzheimers"
+    },
+    {
+      "t": "Side effect of donepezil\nA. Increased IOP\nB. Decreased IOP",
+      "d": "B. Decreased IOP - it increases availability of ACH"
+    },
+    {
+      "t": "Fluoxetine (fly out)",
+      "d": "SSRI, can cause mydriasis"
+    },
+    {
+      "t": "Escitalopram (escape city)",
+      "d": "SSRI, can cause mydriasis and serotonin syndrome"
+    },
+    {
+      "t": "Venlafaxine (fax machine)",
+      "d": "SNRi (from synaptic cleft)"
+    },
+    {
+      "t": "Duloxetine (dual copier/scanner)",
+      "d": "SNRi (from synaptic cleft)"
+    },
+    {
+      "t": "Imipramine (imprint)",
+      "d": "Inhibits NE and Serotonin reuptake at synaptic cleft"
+    },
+    {
+      "t": "Amitryptyline (tripping)",
+      "d": "TCA - prevents NE and Serotonin reuptake"
+    },
+    {
+      "t": "What are side effects of a TCA Overdose (amitriptyline, imipramine)?\nA. SJS\nB. Bone marrow suppression\nC. Life threatening anti-cholinergic effects\nD. Metabolic acidosis",
+      "d": "C. TCA overdose is also life threatening, dont prescribe for a suicidal patient"
+    },
+    {
+      "t": "Phenelzine (funnel)\nA. TCA\nB. SSRI\nC. SNRI\nD. MAOi",
+      "d": "D. MAOi"
+    },
+    {
+      "t": "ADRs of phenelzine",
+      "d": "Hypertensive crisis, glaucoma, nystagmus"
+    },
+    {
+      "t": "Diazepam MOA\nA. Increase Na+ channel inactivation\nB. Block voltage gated Ca2+ channels\nC. Open Cl- channels binding to GABA receptors",
+      "d": "C. Open cl- channels"
+    },
+    {
+      "t": "ADRs of phenytoin",
+      "d": "Nystagmus, diplopia, EOM palsies"
+    },
+    {
+      "t": "Phenobarbital",
+      "d": "Trade Name: Luminal\n\nDrug Class: Anticonvulsant\n\nMOA: Reduces excitatory transmission through the AMPA receptor blockade.\n\nUse: Seizures and sedation\n\nS/E: sedation, respiratory depression, increased IOP, anticholinergic."
+    },
+    {
+      "t": "Glipizide (zig-zagging gosling)\nA. Insulin analog\nB. Sulfonylurea\nC. Biguanide",
+      "d": "B. Sulfonylurea"
+    },
+    {
+      "t": "Glyburide (gosling riding on mothers back)\nA. Insulin analog\nB. Sulfonylurea\nC. Biguanide",
+      "d": "B. Sulfonylurea"
+    },
+    {
+      "t": "MOA of Sulfonylurea (glipizide, glyburide, chlorpropramide)",
+      "d": "Increase secretion of insulin"
+    },
+    {
+      "t": "What does metformin not cause?",
+      "d": "hypoglycemia"
+    },
+    {
+      "t": "Metformin MOA\nA. Decrease gluconeogenesis\nB. Increase secretion of insulin by beta cells\nC. Activate tyrosine kinase receptors",
+      "d": "A. Decrease gluconeogenesis"
+    },
+    {
+      "t": "Glittery glitazones",
+      "d": "Thazolidinediones"
+    },
+    {
+      "t": "Pioglitazone and rosiglitazone MOA\nA. Increase secretion of insulin\nB. Activate PPAR-Gamma\nC. Decrease gluconeogenesis",
+      "d": "B. Activate PPAR-Gamma (life of the pparty)"
+    },
+    {
+      "t": "What do progestin do?",
+      "d": "Hormones that PROmote GEStation"
+    },
+    {
+      "t": "Warfarin MOA\nA. Vitamin D antagonist\nB. Vitamin K antagonist\nC. ADP receptor inhibitor\nD. Adenosine deaminase and Phosphodiesterase inhibitor",
+      "d": "B. Vitamin K Anatagonist"
+    },
+    {
+      "t": "Clopidogrel\nWarfarin MOA\nA. Vitamin D antagonist\nB. Vitamin K antagonist\nC. ADP receptor inhibitor\nD. Adenosine deaminase and Phosphodiesterase inhibitor",
+      "d": "C. ADP receptor inhibitor"
+    },
+    {
+      "t": "Statins MOA",
+      "d": "inhibit HMG-CoA reductase"
+    },
+    {
+      "t": "Gemfibrozil",
+      "d": "Trade Name: Lopid\n\nDrug Class: Fibric Acid\n\nMOA: Binds to peroxisome proliferator activated receptor alpha (PPAR-a) and increases activity of lipoprotein lipase for breakdown of VLDL. Lowers VLDL and TG's.\n\nUse: In combo with HMG CoA reductase inhibitors to lower LDL.\n\nS/E: constipation and fatty stools."
+    },
+    {
+      "t": "Cholestyramine",
+      "d": "Trade Name: Questran\n\nDrug Class: Bile Acid Binding Resin\n\nMOA: Binds to bile acids in intenstine and prevents their reabsorption.\n\nUse: In combo with HMG CoA reductase inhibitors to reduce LDL.\n\nS/E: Constipation and fatty stools."
+    },
+    {
+      "t": "Metronidazole (MetroGel)",
+      "d": "Anti-bacterial used for acne rosacea."
+    },
+    {
+      "t": "Acetazolamide",
+      "d": "Trade Name: Diamox\n\nDrug Class: Oral Carbonic Anhydrase Inhibitor\n\nMOA: Inhibit CA, therefore reducing active secretion and production of Aq.\n\nUse: IOP lowering in glaucoma.\n\nS/E: Sulfa-Based, so watch for allergies, metallic taste, metabolic acidosis (watch in diabetics), aplastic anemia. CI in COPD and pregnancy. Most fatal SE is bone marrow suppression and aplastic anemia!!\n\nNotes: Oral CAI's have more SE's than topical.\n\nDosage: 2 250 mg tablets for angle closure. Also 500 mg slow release tablet, but not for AACG."
+    },
+    {
+      "t": "Acetaminophen",
+      "d": "Trade Name: Tylenol\n\nDrug Class: Non-Opiate Analgesic\n\nMOA: Does not have anti-inflammatory properties.\n\nUse: Analgesia and antipyresis.\n\nS/E: hepatotoxicity.\n\nNote: can be used in all ages and during pregnancy."
+    },
+    {
+      "t": "Acetylcysteine",
+      "d": "Drug Class: Respiratory Agents\n\nMOA: Mucolytic agent. Breaks disulphide bonds in proteins of mucous.\n\nUse: Can be used topically for filamentary keratitis."
+    },
+    {
+      "t": "Acyclovir (oral)",
+      "d": "Trade Name: Zovirax\n\nDrug Class: Antiherpes agents\n\nMOA: Inhibits DNA polymerase\n\nUse: All herpes viruses (HSV1-2, VZV, CMV)\n\nS/E: HA's and GI effects are most common.\n\nDosage: 400 mg 5x/day for 7 days for HSV or 800 mg 5x/day for & 7 days for HZV. 400mg BID for prophylaxis for HSV keratitis."
+    },
+    {
+      "t": "Allopurinol",
+      "d": "Trade Name: Zyloprim\n\nMOA: Xanthine Oxidase Inhibitor. Prevents formation of uric acid crystals.\n\nUse: Gout or kidney stones.\n\nSide Effects: Cataract formation, Steven Johnson's Syndrome"
+    },
+    {
+      "t": "Alprazolam",
+      "d": "Trade Name: Xanax\n\nDrug Class: Anxiolytic\n\nMOA: Act on GABA receptor to potentiate effects of GABA in CNS.\n\nUse: Anti-anxiety"
+    },
+    {
+      "t": "Amantadine",
+      "d": "Drug Class: Anti-Parkinsons Meds\n\nMOA: Potentiates dopamine effects\n\nUse: Parkinson's disease"
+    },
+    {
+      "t": "Amiodarone",
+      "d": "Trade Name: Cordarone\n\nDrug Class: Antiarrhythmic Medication\n\nMOA: Blocks K+ channels.\n\nUse: CHF, and cardiac arrythmias.\n\nS/E: NAION, whorl K, and anterior subcapsular cataracts. Whorl K @ >400mg/day."
+    },
+    {
+      "t": "Amitryptyline",
+      "d": "Trade Name: Elavil\n\nDrug Class: Tricyclic Antidepressant (TCA)\n\nMOA: Inhibits NE and serotonin reuptake\n\nUse: Antidepressant\n\nS/E: Anticholinergic effects. Overdose is life threatening!! Do not give to a suicidal patient."
+    },
+    {
+      "t": "Amoxicillin",
+      "d": "Trade Name: Amoxil, Dispermoxx\n\nDrug Class: Penicillin\n\nMOA: Transpeptidase inhibitor.\n\nUse: G(+) and G(-)\n\nSide Effects: Type 1 hypersensitivity reaction. Rashes to contact dermatitis. Possible SJS. Birth control doesn't work when taking penicillins.\n\nNotes: Not resistant to penicillinase like Dicloxacillin (not on list). Cross reaction with Cephalosporins!\n\nDosage: 250-500 mg p.o. BID"
+    },
+    {
+      "t": "Amoxicillin-Clavulanate",
+      "d": "Trade Name: Augmentin\n\nDrug Class: Penicillinase resistant Penicillin\n\nMOA: Transpeptidase inhibiotr.\n\nUse: G(+) and G(-)\n\nDosage: 500 or 875mg BID for adults. 40 mg/kg/day p.o. over 2 doses for children."
+    },
+    {
+      "t": "Apraclonidine",
+      "d": "Trade Name: Iopidine\n\nDrug Class: Adrenergic Agonist for Glaucoma Tx\n\nMOA: Alpha2 agonist, with some Alpha1.\n\nUse: Decreases Aq production and increases uveoscleral outflow. Control IOP post surgery and acute angle closure. Horner's diagnosis.\n\nNotes: TACHYPHYLAXIS!! Reduced efficacy after 8 days of continual use. Causes miotic pupil in Horner's to dilate (normal pupil doesn't dilate because this is A2, not A1).\n\nDosage: TID"
+    },
+    {
+      "t": "AREDS Formula",
+      "d": "Trade Name: PresserVision\n\n500 mg of vitamin C;\n400 IU of vitamin E;\n15 mg of beta-carotene (or 25,000 IU of vitamin A);\n80 mg of zinc\n2 mg of copper"
+    },
+    {
+      "t": "Atenolol",
+      "d": "Trade Name: Tenormin\n\nDrug Class: Beta Blocker\n\nMOA: Selective B1 antagonist. Decreases renin too.\n\nUse: Hypertension.\n\nS/E: Bradycardia, arrhythmia. Less respiratory side effects because B1 selective!"
+    },
+    {
+      "t": "Atorvastin",
+      "d": "Trade Name: Lipitor\n\nDrug Class: HMG CoA Reductase Inhibitor\n\nMOA: Inhibits HMG CoA Reductase, an enzyme used for synthesis of cholesterol. Lowers LDL and TG's, and raises HDL.\n\nUse: First line therapy for hyperlipidemia. Hypercholesterolemia too.\n\nS/E: Hepatotoxicity, myopathy. CI in pregnancy and lactation."
+    },
+    {
+      "t": "Atropine (not on list)",
+      "d": "Drug Class: Cholinergic Antagonists\n\nMOA: Block Ach at muscarinic sites in ciliary body and iris.\n\nUse: Management of uveitis (Homatropine), penalization in amblyopia. Useful in BREAKING PS and PAS. Mydriasis and cycloplegia last for over a week!\n\nS/E: CI in Down's syndrome. Toxicity can result in dry mouth, dry skin, tachycardia and disorientation.\n\nNote: Not used in glaucoma tx!\n\nDosage: QD-TID for uveitis"
+    },
+    {
+      "t": "Azathioprine",
+      "d": "Trade Name: Imuran\n\nDrug Class: Immunosuppresant Agent\n\nMOA: Purine analog that inserts into DNA and stops replication.\n\nUse: Tx of RA and rejection of kidney transplants.\n\nS/E: secondary lymphomas."
+    },
+    {
+      "t": "Azelastine",
+      "d": "Trade Name: Optivar\n\nDrug Class: Topical Mast Cell Stabilizer- Antihistamine Combo\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen by stabilizing the membrane and preventing Ca influx. Also inhibits histamine binding to H1 receptors.\n\nUse: Long term management of ocular itching, and allergic conjunctivitis. Also effective for acute symptoms.\n\nDosage: BID"
+    },
+    {
+      "t": "Azithromycin (oral)",
+      "d": "Trade Name: Zithromax\n\nDrug Class: Macrolide\n\nMOA: Inhibit protein synthesis at 50s ribosomal subunit.\n\nUse: Chlamydial infections\n\nDosage: 1 gram 1 dose for Chlamydia, Tri-Pack 3 500 mg tablets, Z-Pack 6 250 mg tablets (BID day one, then QD x 4 days)."
+    },
+    {
+      "t": "Azithromycin (Topical)",
+      "d": "Trade Name: Azasite\n\nDrug Class: Macrolide\n\nMOA: Inhibit protein synthesis at 50s ribosomal subunit.\n\nUse: Bleph and conjunctivitis\n\nDosage: BID x 2 days then QD x 5 days."
+    },
+    {
+      "t": "Bacitracin",
+      "d": "Drug Class: Cell wall synthesis inhibitors.\n\nMOA: Stops transfer of peptidoglycan into cell.\n\nUse: G(+) bacteria.\n\nDosage: QD-QID"
+    },
+    {
+      "t": "Benazepril",
+      "d": "Trade Name: Lotensin\n\nDrug Class: ACE Inhibitors\n\nMOA: Prevent formation of angiotensin 2 by inhibiting ACE. Block metabolism of bradykinins which are used for vasodilation.\n\nUse: Hypertension.\n\nS/E: COUGH! Use ARB's instead if patient reports cough."
+    },
+    {
+      "t": "Benoxinate",
+      "d": "Anesthetic in Fluoress!\n\nBlocks nerve conduction and changes membrane permeability by inhibiting the influx of Na. Prevents nerve from depolarizing.\n\nTopical anesthetics are esters because these have shorter duration of action!!\n\nS/E: corneal melt with excessive use."
+    },
+    {
+      "t": "Bepotastine",
+      "d": "Trade Name: Bepreve\n\nDrug Class: Topical Mast Cell Stabilizer- Antihistamine Combo\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen by stabilizing the membrane and preventing Ca influx. Also inhibits histamine binding to H1 receptors.\n\nUse: Long term management of ocular itching, and allergic conjunctivitis. Also effective for acute symptoms.\n\nDosage: BID"
+    },
+    {
+      "t": "Besifloxacin",
+      "d": "Trade Name: Besivance\n\nDrug Class: 4th gen Fluoroquinolone\n\nMOA: DNA gyrase and Topoisomerase 4 inhibitor.\n\nUse: Good G(-) and G(+). UTI and GI infections.\n\nDosage: TID for bacterial conjunctivitis. For ulcer q5-15min for first hour, then q1h after for 24 hours."
+    },
+    {
+      "t": "Betaxolol",
+      "d": "Trade Name: Betoptic S\n\nDrug Class: Adrenergic Antagonist (Beta Blocker)\n\nMOA: Selective B1 antagonist on NPCE of Ciliary Body. Decreases Aq production.\n\nUse: Glaucoma.\n\nS/E: Bradycardia, arrhythmia. Less respiratory side effects because B1 selective! May worsen CHF due to B1 effects.\n\nNotes: Only topical B1 selective drug (cardioselective)! Possibly NEUROPROTECTIVE.\n\nDosage: BID"
+    },
+    {
+      "t": "Bimatoprost",
+      "d": "Trade Name: Lumigan\n\nDrug Class: Prostaglandin Analog\n\nMOA: PGA's act on FP receptors on ciliary muscle, causing reduction of neighbouring collagen via MMP's, which decreases the resistance in the uveoscleral meshwork. Increase uveoscleral outflow. Eyelash growth too.\n\nUse: First line of tx for POAG. 27-35% IOP lowering, the highest of all glaucoma drugs.\n\nS/E: Heterochromia, skin darkening around eyes, and growth of lashes. CI in CME, and active uveitis/inflammation. Conj hyperemia most associated w/ Lumigan.\n\nNotes: Bedtime dosing recommended.\n\nDosage: QHS"
+    },
+    {
+      "t": "Botulinum Toxin",
+      "d": "Trade Name: Botox\n\nDrug Class: Acetylcholine Antagonists\n\nMOA: Blocks release of acetylcholine at NMJ, thus inhibiting muscle contraction.\n\nUse: Blepharospasm tx. Strab correction too."
+    },
+    {
+      "t": "Brimonidine",
+      "d": "Trade Name: Alphagan P\n\nDrug Class: Adrenergic Agonist for Glaucoma Tx\n\nMOA: Alpha2 agonists.\n\nUse: Decreases Aq production and increases uveoscleral outflow. Post refractive surgery to reduced glare and haloes.\n\nS/E: Follicular conjunctivitis because of preservative. CI in patients taking MAOI. Can cause dry mouth.\n\nNotes: 30x more A2 selective than apraclonidine. NEUROPROTECTIVE.\n\nDosage: TID"
+    },
+    {
+      "t": "Brimonidine-Timolol",
+      "d": "Trade Name: Combigan\n\nDrug Class: Glaucoma Combo\n\nMOA: Alpha2 agonist and B blocker.\n\nUse: Decreases Aq production via NPCE of CB and increases uveoscleral outflow.\n\nDosage: BID"
+    },
+    {
+      "t": "Brinzolamide",
+      "d": "Trade Name: Azopt\n\nDrug Class: Topical Carbonic Anhydrase Inhibitor\n\nMOA: Inhibit CA, therefore reducing active secretion and production of Aq.\n\nUse: IOP lowering in glaucoma. Better in combos.\n\nS/E: Sulfa-Based, so watch for allergies.\n\nNote: Suspension...SHAKE!!!\n\nDosage: TID"
+    },
+    {
+      "t": "Bromfenac",
+      "d": "Trade Name: Xibrom, Bromday\n\nDrug Class: NSAID\n\nMOA: Block cyclooxygenase 1 and 2, decreasing prostaglandins and thromboxanes thus decreasing inflammation.\n\nS/E: Corneal melting/toxicity.\n\nUse: Post-op cataract, CME, RCE, and allergic conjunctivitis.\n\nDosage: QD"
+    },
+    {
+      "t": "Brompheniramine",
+      "d": "Trade Name: Dimetane\n\nDrug Class: 1st gen Antihistamine\n\nMOA: Blocks histamine-H1 receptor intereaction. H1 antagonist.\n\nUse: Allergies\n\nS/E: Sedation, anticholinergic effects like dry eye, mydriasis, dry mouth and tachycardia.\n\nNotes: 1st gen causes sedation because they are able to penetrate CNS."
+    },
+    {
+      "t": "Captopril",
+      "d": "Trade Name: Capoten\n\nDrug Class: ACE Inhibitors\n\nMOA: Prevent formation of angiotensin 2 by inhibiting ACE. Block metabolism of bradykinins which are used for vasodilation.\n\nUse: Hypertension.\n\nS/E: COUGH! Use ARB's instead if patient reports cough."
+    },
+    {
+      "t": "Carbidopa-Levodopa",
+      "d": "Trade Name: Sinemet\n\nDrug Class: Parkinson's Drugs\n\nMOA: Increases dopamine levels in CNS.\n\nUse: Parkinson's disease.\n\nNotes: Levodopa can cross BBB!"
+    },
+    {
+      "t": "Carboxymethylcellulose",
+      "d": "Trade Name: Celluvisc, Refresh Plus\n\nDrug Class: Tear Substitute\n\nMOA: High viscosity ointment that provide longer DOA.\n\nUse: Dry eye, night time protection.\n\nS/E: May increase risk for infection due to high viscosity."
+    },
+    {
+      "t": "Carteolol",
+      "d": "Trade Name: Ocupress\n\nDrug Class: Adrenergic Antagonists (B blocker)\n\nMOA: Non-selective B receptor blocker.\n\nUse: Lowering IOP in glaucoma (not commonly used).\n\nS/E: Less side effects compared to other B blockers.\n\nNotes: Has ISA!! Reduces nocturnal bradycardia.\n\nDosage: BID"
+    },
+    {
+      "t": "Ceftriaxone",
+      "d": "Trade Name: Rocephin\n\nDrug Class: 3rd gen Cephalosporin\n\nMOA: Transpeptidase inhibitor\n\nUse: Good G(+) AND G(-). Gonorrheal infections.\n\nS/E: Hypersensitivity, destroy intestinal flora which alters vitamin K absorption.\n\nNotes: Conraindicated with Warfarin!!\n\nDosage: 1g IV for cornea involving gonorrhea or 1g IM if cornea not involved (3-5 days) or 1 week IV for orbital cellulitis."
+    },
+    {
+      "t": "Cephalexin",
+      "d": "Trade Name: Keflex\n\nDrug Class: 1st gen Cephalosporin\n\nMOA: Transpeptidase inhibitor.\n\nUse: Good G(+), not G(-)\n\nS/E: Hypersensitivity, destroy intestinal flora which alters vitamin K absorption.\n\nNotes: Conraindicated with Warfarin!!\n\nDosage: 250 mg TID for preseptal cellulitis, dacryocystitis, and dacryoadenitis."
+    },
+    {
+      "t": "Cetirizine",
+      "d": "Trade Name: Zyrtec\n\nDrug Class: 2nd gen Antihistamine\n\nMOA: Blocks histamine-H1 receptor intereaction. H1 antagonist.\n\nUse: Allergies\n\nS/E: Sedation, anticholinergic effects like dry eye, mydriasis, dry mouth and tachycardia. May cause oculogyric crisis."
+    },
+    {
+      "t": "Chloramphenicol",
+      "d": "Protein synthesis inhibitor at 50s ribosomal subunit. TOPICAL use can result in APLASTIC ANEMIA and optic neuritis. Only topical that can do this."
+    },
+    {
+      "t": "Chloroquine",
+      "d": "Trade Name: Aralen\n\nDrug Class: Antiparasitic\n\nMOA: Causes build of heme in RBC, this is toxic to plasmodium. Also inhibits Phosolopase A2.\n\nUse: Malaria and auto-immune disorders. Acts as an anti-inflammatory.\n\nS/E: Reversible whorl K is most common. Bulls-eye maculopathy is most severe. Doses >3 mg/kg"
+    },
+    {
+      "t": "Chlorothiazide",
+      "d": "Trade Name: Diuril\n\nDrug Class: Diuretic (Thiazide)\n\nMOA: Acts on distal convoluted tubule and inhibits NaCl reabsorption and decreases Ca excretion into the loop.\n\nUse: Hypertension.\n\nS/E: Acute transient myopia, secondary angle closure glaucoma."
+    },
+    {
+      "t": "Chloropromazine",
+      "d": "Trade Name: Thorazine\n\nDrug Class: Phenothiazine (antipsychotic)\n\nMOA: Dopamine recepter antagonist.\n\nUse: Schizophrenia\n\nS/E: Pigment on corneal endo, ASC, hyperpigmentation of retina, anticholinergic effects, oculogyric crisis, and potential Parkinson-like effects."
+    },
+    {
+      "t": "Chlorpropamide",
+      "d": "Trade Name: Diabinese\n\nDrug Class: Sulfonylureas\n\nMOA: Increase secretion of insulin by beta cells. Decreases glucagon cells and increases sensitivity to insulin.\n\nUse: Diabetes\n\nS/E: HYPOGLYCEMIA. CI in sulfa allergies."
+    },
+    {
+      "t": "Ciprofloxacin (topical)",
+      "d": "Trade Name: Ciloxan\n\nDrug Class: 2nd gen Fluoroquinolone\n\nMOA: DNA gyrase and Topoisomerase 4 inhibitor.\n\nUse: Good G(-), not much G(+). UTI and GI infections.\n\nDosage: QID conjunctivitis"
+    },
+    {
+      "t": "Ciprofloxacin (oral)",
+      "d": "Trade Name: Cipro\n\nDrug Class: 2nd gen Fluoroquinolone\n\nMOA: DNA gyrase and Topoisomerase 4 inhibitor.\n\nUse: Good G(-), not much G(+). UTI and GI infections.\n\nNotes: Orals may cause tendinitis and contraindicated in pregnancy, and less than 18y because of damage and inhibition of bone growth."
+    },
+    {
+      "t": "Clarithromycin (not on list)",
+      "d": "Drug Class: Macrolide\n\nMOA: Inhibit protein synthesis at 50s ribosomal subunit.\n\nUse: Respiratory infections"
+    },
+    {
+      "t": "Clindamycin",
+      "d": "Trade Name: Cleocin\n\nDrug Class: Macrolide\n\nMOA: Inhibit protein synthesis at 50s ribosomal subunit.\n\nUse: MRSA"
+    },
+    {
+      "t": "Clopidogrel (not on list)",
+      "d": "Trade Name: Plavix\n\nDrug Class: Anticoagulant\n\nMOA: Blocks ADP receptor on platelets needed for platelet aggregation and clot formation. Irreversible!!\n\nUse: After MI or to prevent stroke.\n\nS/E: Increased risks of bleed."
+    },
+    {
+      "t": "Cromolyn Sodium",
+      "d": "Trade Name: Opticrom\n\nDrug Class: Topical Mast Cell Stabilizer\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen. Stabilizes the membrane and prevents Ca influx.\n\nUse: Chronic allergic conjunctivitis, vernal conjunctivitis and atopic keratoconjunctivitis.\n\nNotes: Effects begin weeks after beginning use. Not recommended for immediate relief."
+    },
+    {
+      "t": "Cyclobenzaprine",
+      "d": "Trade Name: Flexeril\n\nDrug Class: Non-Opiate Analgesic\n\nMOA: Inhibits tonic activity of alpha and gamma motor neurone.\n\nUse: Tx of muscle spasms.\n\nS/E: Anticholinergic effects, caution in glaucoma."
+    },
+    {
+      "t": "Cyclopentolate",
+      "d": "Drug Class: Cholinergic Antagonists\n\nMOA: Block Ach at muscarinic sites in ciliary body and iris.\n\nUse: Cycloplegic refractions, pupillary dilation, and management of uveitis. Fastest onset and shortest duration of cycloplegic effects. PREVENTS PAS AND PS! Atropine used to break them.\n\nNote: Not used in glaucoma tx!\n\nDosage: BID-TID for uveitis"
+    },
+    {
+      "t": "Cyclosporine A",
+      "d": "Trade Name: Restasis\n\nDrug Class: Immunosuppresant Agents\n\nMOA: Inhibits release of interleukin 2, which is responsible for activation of T-cells. Inhibits T-cells!\n\nUse: Dry eye.\n\nS/E: Opportunistic infections, ocular burning. Most common med to cause Reversible Posterior Leukoencephalopathy Syndrome.\n\nDosage: BID"
+    },
+    {
+      "t": "Dexamethasone",
+      "d": "Trade Name: Maxidex\n\nDrug Class: Corticosteroid\n\nMOA: Inhibits phospholipase A2.\n\nUse: Anti-inflammatory and immunosuppressive.\n\nS/E: Delayed healing, PSC, increased risk of secondary infections, potential to cause diabetes, and glaucoma.\n\nNote: Strong steroid!"
+    },
+    {
+      "t": "Dextroamphetamine",
+      "d": "Trade Name: Dexedrine\n\nDrug Class: ADHD meds\n\nMOA: Increases dopamine release\n\nUse: ADHD, depression, and narcolepsy.\n\nS/E: Anticholinergic effects."
+    },
+    {
+      "t": "Diazepam",
+      "d": "Trade Name: Valium\n\nDrug Class: Benzodiazepine\n\nMOA: Binds GABA receptor and causes hyperpolarization by opening Cl channels.\n\nUse: Acute anxiety, panic attacks, sedative and alcohol withdrawal.\n\nS/E: sedation. Lethal if combined with alcohol. Nystagmus and anticholinergic effects."
+    },
+    {
+      "t": "Diclofenac",
+      "d": "Trade Name: Voltaren\n\nDrug Class: NSAID\n\nMOA: Block cyclooxygenase 1 and 2, decreasing prostaglandins and thromboxanes thus decreasing inflammation.\n\nS/E: Corneal melting/toxicity.\n\nUse: Post-op cataract, CME, RCE, and allergic conjunctivitis.\n\nDosage: QID"
+    },
+    {
+      "t": "Difluprednate",
+      "d": "Trade Name: Durezol\n\nDrug Class: Corticosteroid\n\nMOA: Inhibits phospholipase A2.\n\nUse: Anti-inflammatory and immunosuppressive.\n\nS/E: Delayed healing, PSC, increased risk of secondary infections, potential to cause diabetes, and glaucoma.\n\nNote: Strong steroid!"
+    },
+    {
+      "t": "Digoxin",
+      "d": "Trade Name: Lanoxin\n\nDrug Class: CHF Agent\n\nMOA: Inhibits Na/K ATPase, leading to increased intracellular Ca. Increases contractility.\n\nUse: CHF\n\nS/E: color vision defects (B/Y defect), retrobulbar optic neuritis, and entopic phenomenon."
+    },
+    {
+      "t": "Diltiazem",
+      "d": "Trade Name: Cardizem\n\nDrug Class: Calcium Channel Blockers\n\nMOA: Blocks L-type calcium channels causing a decrease in intracellular calcium, thus decreasing peripheral resistance and blood pressure. Also cause decreased heart rate (chonotropism), and decreased contractility (ionotropism).\n\nUse: Hypertension.\n\nNotes: May worsen or cause heart failure due to direct cardiac effects. Not seen with Nifedipine."
+    },
+    {
+      "t": "Dipyridamole",
+      "d": "Trade Name: Persantine\n\nDrug Class: Anticoagulant\n\nMOA: Inhibits adenosine deaminase and phosphodiesterase, causing accumulation of cAMP and adenosine. These inhibit platelet aggregation.\n\nUse: Blood thinner for strokes, and atherosclerosis.\n\nS/E: increased risk for bleeds.\n\nNotes: Combo with aspirin available (Aggrenox: Aspirin-Dipyridamole)"
+    },
+    {
+      "t": "Dorzolamide",
+      "d": "Trade Name: Trusopt\n\nDrug Class: Topical Carbonic Anhydrase Inhibitor\n\nMOA: Inhibit CA, therefore reducing active secretion and production of Aq.\n\nUse: IOP lowering in glaucoma. Better in combos.\n\nS/E: Sulfa-Based, so watch for allergies.\n\nDosage: TID"
+    },
+    {
+      "t": "Dorzolamide-Timolol",
+      "d": "Trade Name: Cosopt\n\nDrug Class: Combo Glaucoma Med\n\nMOA: Blocks B receptor on NPCE of CB to reduce Aq production and inhibits CA, therefore reducing active secretion and production of Aq.\n\nUse: Glaucoma\n\nDosage: BID"
+    },
+    {
+      "t": "Doxycycline",
+      "d": "Trade Name: Doryx, Vibramycin\n\nDrug Class: Tetracylcines\n\nMOA: Protein synthesis inhibitor at 30s ribosomal subunit.\n\nUse: Bacteriostatic. G(+) and G(-). Acne rosacea, MGD, chlamydia, RCE and MRSA.\n\nS/E: Pseudotumor, bone growth retardation, discolouring of teeth.\n\nNotes: Contraindicated in pregnancy and children. Dairy doesn't have big effect on absorption and can be used in renal failure because it is eliminated fecally.\n\nDosage: 100mg BID until condition improves then taper to 100mg QD for several weeks. Periostat is low-dose (20mg) long term tx for rosacea. 50 mg BID x 2 months for RCE."
+    },
+    {
+      "t": "Echothipate\n\n(and Isofluorophate)",
+      "d": "Trade Name: Phospholine\n\nDrug Class: Acetylcholinesterase Inhibitors (indirect cholinergic agonists)\n\nMOA: Irreversibly inhibits acetylcholinesterase, thereby increasing Ach in synaptic cleft.\n\nUse: Accommodative eso."
+    },
+    {
+      "t": "Edrophonium",
+      "d": "Trade Name: Tensilon\n\nDrug Class: Acetylcholinesterase Inhibitors (indirect cholinergic agonists)\n\nMOA: Inhibits acetylcholinesterase, thereby increasing Ach in synaptic cleft.\n\nUse: DIAGNOSIS of Myasthenia gravis (TENSILON TEST)."
+    },
+    {
+      "t": "Emedastine",
+      "d": "Trade Name: Emadine\n\nDrug Class: H1 Antihistamines\n\nMOA: Block receptors that histamine binds to. Does not prevent release of histamine from mast cells and basophils.\n\nUse: Allergic conjunctivits. Relief of acute symptoms!\n\nNotes: In combo with Naphcon (Naphcon A).\n\nDosage: QID"
+    },
+    {
+      "t": "Enalapril",
+      "d": "Trade Name: Vasotec\n\nDrug Class: ACE Inhibitors\n\nMOA: Prevent formation of angiotensin 2 by inhibiting ACE. Block metabolism of bradykinins which are used for vasodilation.\n\nUse: Hypertension.\n\nS/E: COUGH! Use ARB's instead if patient reports cough."
+    },
+    {
+      "t": "Epinastine",
+      "d": "Trade Name: Elestat\n\nDrug Class: Topical Mast Cell Stabilizer- Antihistamine Combo\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen by stabilizing the membrane and preventing Ca influx. Also inhibits histamine binding to H1 receptors.\n\nUse: Long term management of ocular itching, and allergic conjunctivitis. Also effective for acute symptoms.\n\nDosage: BID"
+    },
+    {
+      "t": "Erythromycin",
+      "d": "Drug Class: Macrolide\n\nMOA: Inhibit protein synthesis at 50s ribosomal subunit.\n\nUse: Prophylaxis in infants.\n\nNotes:Easy resistance to it.\n\nDosage: QD-QID"
+    },
+    {
+      "t": "Esomeprazole",
+      "d": "Trade Name: Nexium\n\nDrug Class: Proton Pump Inhibitors\n\nMOA: Inhibits H+/K+ ATPase.\n\nUse: First line therapy for PUD and GERD."
+    },
+    {
+      "t": "Famciclovir (oral)",
+      "d": "Trade Name: Famvir\n\nDrug Class: Antiherpes agents\n\nMOA: Inhibits DNA polymerase\n\nUse: All herpes viruses (HSV1-2, VZV, CMV)\n\nS/E: HA's and GI effects are most common.\n\nDosage: 250 mg TID x 7 days for HSV, or 500 mg TID x 7 days for HZV. 125mg BID for prophylaxis against HSV keratitis."
+    },
+    {
+      "t": "Famotidine",
+      "d": "Trade Name: Pepcid\n\nDrug Class: H2 Antagonist\n\nMOA: Binds to H2 receptor of gastric parietal cells, preventing histamine induced HCl secretion.\n\nUse: PUD. Healing and preventing stomach ulcers and acid reflux.\n\nS/E: Diarrhea."
+    },
+    {
+      "t": "Fexofenadine",
+      "d": "Trade Name: Allegra\n\nDrug Class: 2nd gen Antihistamine\n\nMOA: Blocks histamine-H1 receptor intereaction. H1 antagonist.\n\nUse: Allergies\n\nS/E: Sedation, anticholinergic effects like dry eye, mydriasis, dry mouth and tachycardia."
+    },
+    {
+      "t": "Fluorometholone",
+      "d": "Trade Name: FML\n\nDrug Class: Corticosteroid\n\nMOA: Inhibits phospholipase A2.\n\nUse: Anti-inflammatory and immunosuppressive.\n\nS/E: Delayed healing, PSC, increased risk of secondary infections, potential to cause diabetes, and glaucoma (less likely).\n\nNotes: Weak steroid. Suspension...shake!!"
+    },
+    {
+      "t": "Fluoxetine",
+      "d": "Trade Name: Prozac\n\nDrug Class: SSRI\n\nMOA: Inhibits serotonin reuptake.\n\nUse: Antidepressant\n\nS/E: Serotonin syndrome if taken with MAOI's and possibly with TCAs."
+    },
+    {
+      "t": "Flurbiprofen",
+      "d": "Trade Name: Ocufen\n\nDrug Class: NSAID\n\nMOA: Block cyclooxygenase 1 and 2, decreasing prostaglandins and thromboxanes thus decreasing inflammation.\n\nUse: Post-op cataract, CME, RCE, and allergic conjunctivitis.\n\nS/E: Corneal melting/toxicity.\n\nNotes: Utilized prior to cataract surgery! Contains thimerosal!"
+    },
+    {
+      "t": "Fluticasone",
+      "d": "Trade Name: Flovent, Flonase\n\nDrug Class: Anti-inflammatory (Steroids)\n\nMOA: Inhibits phospholipase A2.\n\nUse: Tx of allergic rhinitis.\n\nS/E: PSC, increase in IOP"
+    },
+    {
+      "t": "Furosemide",
+      "d": "Trade Name: Lasix\n\nDrug Class: Diuretic\n\nMOA: Loop diuretic that inhibits the Na/2Cl/K Co-transport in the thick ascending loop of hence. Also increases secretion of Ca from loop.\n\nUse: Hypertension.\n\nS/E: Hypokalemia, nephrotoxicity and ototoxicity."
+    },
+    {
+      "t": "Ganciclovir",
+      "d": "Trade Name: Zirgan/Cytovene\n\nDrug Class: Antiherpes Agents\n\nMOA: DNA polymerase inhibitor\n\nUse: Topical for HSV keratitis and intraocular for CMV.\n\nNotes: Better efficacy than Viroptic. 5x per day instead of 9x.\n\nDosage: 5x per day for 5-7 days then TID for 1 week. If stromal dz, use TID w/ steroid QID and taper drop for drop once healed. Vitrasert intravitreal implant for CMV."
+    },
+    {
+      "t": "Gatifloxacin",
+      "d": "Trade Name: Zymar\n\nDrug Class: 4th gen Fluoroquinolone\n\nMOA: DNA gyrase and Topoisomerase 4 inhibitor.\n\nUse: Good G(-) and G(+). UTI and GI infections.\n\nDosage: Q2h x 1 day then QID for bacterial conjunctivitis. For ulcer q5-15min for first hour, then q1h after for 24 hours."
+    },
+    {
+      "t": "Glipizide",
+      "d": "Trade Name: Glucotrol\n\nDrug Class: Sulfonylureas\n\nMOA: Increase secretion of insulin by beta cells. Decreases glucagon cells and increases sensitivity to insulin.\n\nUse: Diabetes\n\nS/E: HYPOGLYCEMIA. CI in sulfa allergies."
+    },
+    {
+      "t": "Glyburide",
+      "d": "Trade Name: Diabeta, Micronase\n\nDrug Class: Sulfonylureas\n\nMOA: Increase secretion of insulin by beta cells. Decreases glucagon cells and increases sensitivity to insulin.\n\nUse: Diabetes\n\nS/E: HYPOGLYCEMIA. CI in sulfa allergies."
+    },
+    {
+      "t": "Glycerin",
+      "d": "Trade Name: Osmoglyn\n\nDrug Class: Hyperosmotic Agent\n\nMOA: Increases osmolarity in blood vessels in ciliary body causing reduced Aq production. Also works as diuretic in nephron.\n\nUse: Potent decrease in IOP. Acute angle closure."
+    },
+    {
+      "t": "Hydralazine",
+      "d": "Trade Name: Apresoline\n\nMOA: Increases cGMP which results in smooth muscle relaxation. Vasodilates arterioles.\n\nUse: Hypertension.\n\nS/E: compensatory tachycardia, fluid retention, lupus like syndrome."
+    },
+    {
+      "t": "Hydrochlorothiazide",
+      "d": "Trade Name: Hydrodiuril\n\nDrug Class: Diuretic (Thiazide)\n\nMOA: Acts on distal convoluted tubule and inhibits NaCl reabsorption and decreases Ca excretion into the loop.\n\nUse: Hypertension.\n\nS/E: Acute transient myopia, secondary angle closure glaucoma."
+    },
+    {
+      "t": "Hydrocortisone",
+      "d": "Drug Class: Anti-inflammatory (Steroids)\n\nMOA: Inhibits phospholipase A2.\n\nUse: Inflammation and in adrenal insufficiency."
+    },
+    {
+      "t": "Hyrdroxychloroquine",
+      "d": "Trade Name: Plaquenil\n\nDrug Class: Anti-inflammatory\n\nMOA: Inhibits phospholipase A2. Also causes a build of heme.\n\nUse: SLE, RA, malaria.\n\nS/E: Bullseye maculopathy and whorl K. Do not exceed 400 mg/day or 6.5 mg/kg/day"
+    },
+    {
+      "t": "Ibuprofen",
+      "d": "Trade Name: Advil, Motrin\n\nDrug Class: NSAID\n\nMOA: Reversible inhibitor of COX1 and COX2\n\nUse: Anti inflammatory. Analgesia.\n\nS/E: increased risk for bleeds and MI and stroke. Contraindicated with CAD or MI.\n\nDosage: 600-800 mg up to QID for anti-inflammatory effect"
+    },
+    {
+      "t": "Imipramine",
+      "d": "Trade Name: Tofranil\n\nDrug Class: Tricyclic Antidepressant (TCA)\n\nMOA: Inhibits NE and serotonin reuptake\n\nUse: Antidepressant\n\nS/E: Anticholinergic effects. Overdose is life threatening!! Do not give to a suicidal patient."
+    },
+    {
+      "t": "Indomethacin",
+      "d": "Trade Name: Indocin\n\nDrug Class: NSAID\n\nMOA: Reversible inhibitor of COX1 and COX2\n\nUse: Anti inflammatory. Analgesia.\n\nS/E: Increased risk of bleeding in eye, GI bleeding. Also causes whorl K and pigmentary maculopathy. Contraindicated with MI or CAD."
+    },
+    {
+      "t": "Isonizaid",
+      "d": "Trade Name: Nydrazid\n\nDrug Class: TB Meds\n\nMOA: Inhibits mycolic acid synthesis, thus preventing cell wall synthesis.\n\nUse: Can be used as mono therapy for latent TB.\n\nS/E: hepatotoxicity, Pyridoxine (B6) deficiency and peripheral neuropathy."
+    },
+    {
+      "t": "Isoretinoin",
+      "d": "Trade Name: Accutane\n\nDrug Class: Dermatologic Meds\n\nMOA: Reduces oil production from sebaceous glands and reduces the size of the glands.\n\nUse: Acne.\n\nS/E: Blepharoconjunctivitis, dry eye, pseudotumor cerebri, nyctalopia, and catarcts. TERATOGENIC!! Do not use in pregnancy."
+    },
+    {
+      "t": "Ketorolac",
+      "d": "Trade Name: Acular LS or Acuvail\n\nDrug Class: NSAID\n\nMOA: Block cyclooxygenase 1 and 2, decreasing prostaglandins and thromboxanes thus decreasing inflammation.\n\nUse: Post-op cataract, CME, RCE, and allergic conjunctivitis.\n\nS/E: Corneal melting/toxicity.\n\nNote: Only NSAID actually approved for topical tx of allergic conjunctivitis. Acuvail approved for use 1 day pre cataract sx and 2 weeks post cataract sx.\n\nDosage: Acular LS QID, Acuvail BID"
+    },
+    {
+      "t": "Ketotifen",
+      "d": "Trade Name: Zaditor\n\nDrug Class: Topical Mast Cell Stabilizer- Antihistamine Combo\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen by stabilizing the membrane and preventing Ca influx. Also inhibits histamine binding to H1 receptors.\n\nUse: Long term management of ocular itching, and allergic conjunctivitis. Also effective for acute symptoms.\n\nDosage: BID"
+    },
+    {
+      "t": "Labetalol",
+      "d": "Trade Name: Trandate\n\nDrug Class: Beta Blocker\n\nMOA: Non-selective B1 and B2 antagonists. Also block renin from kidney.\n\nUse: Hypertension.\n\nS/E: lower IOP, depression, bradycardia, arrhythmia, wheezing, bronchospasm, and erectile dysfunction."
+    },
+    {
+      "t": "Latanoprost",
+      "d": "Trade Name: Xalatan\n\nDrug Class: Prostaglandin Analog\n\nMOA: PGA's act on FP receptors on ciliary muscle, causing reduction of neighbouring collagen via MMP's, which decreases the resistance in the uveoscleral meshwork. Increase uveoscleral outflow. Eyelash growth too.\n\nUse: First line of tx for POAG. 27-35% IOP lowering, the highest of all glaucoma drugs.\n\nS/E: Heterochromia, skin darkening around eyes, and growth of lashes. CI in CME, and active uveitis/inflammation.\n\nNotes: Bedtime dosing recommended.\n\nDosage: QHS"
+    },
+    {
+      "t": "Levalbuterol",
+      "d": "Drug Class: Bronchodilator\n\nMOA: Short acting B2 agonist.\n\nUse: Rescue inhalers for asthma and COPD.\n\nS/E: Due to B1 stimulation, Tachycardia, heart palpitations and tremors. May agent aqueous production and increase IOP."
+    },
+    {
+      "t": "Levobunolol",
+      "d": "Trade Name: Betagan\n\nDrug Class: Adrenergic Antagonists (B blocker)\n\nMOA: Non-selective B receptor blocker.\n\nUse: Lowering IOP in glaucoma.\n\nS/E: Caution in diabetics as it may mask symptoms of hypoglycemia. may also mask hyperthyroid symptoms. Weakness can be exacerbated in MG.\n\nDosage: BID"
+    },
+    {
+      "t": "Levofloxacin (oral)",
+      "d": "Trade Name: Levaquin\n\nDrug Class: 3rd gen Fluoroquinolone\n\nMOA: DNA gyrase and Topoisomerase 4 inhibitor.\n\nUse: Good G(-), some G(+). UTI and GI infections.\n\nNotes: Orals cause tendinitis and are contraindicated in pregnancy, and less than 18y because of damage and inhibition of bone growth."
+    },
+    {
+      "t": "Levofloxacin (topical)",
+      "d": "Trade Name: Iquix, Quixin\n\nDrug Class: 3rd gen Fluoroquinolone\n\nMOA: DNA gyrase and Topoisomerase 4 inhibitor.\n\nUse: Good G(-), some G(+). UTI and GI infections.\n\nNotes: Only topical FLQ not approved for use in patient 1 year or older.\n\nDosage: QID for conjunctivitis"
+    },
+    {
+      "t": "Levothyroxine",
+      "d": "Trade Name: Synthroid, Levothroid\n\nDrug Class: Thyroid Hormone\n\nMOA: Synthetic T4 Hormone\n\nUse: Hypothyroidism.\n\nS/E: Hyperthyroidism symptoms and pseudotumor cerebri in children."
+    },
+    {
+      "t": "Lidocaine",
+      "d": "Local anesthetic."
+    },
+    {
+      "t": "Lindane",
+      "d": "Trade Name: Kwell\n\nDrug Class: Antiparasitic\n\nMOA: Lipophillic structure absorbed through the exoskeleton of insects resulting in seizures and death.\n\nUse: Lice and scabies.\n\nNotes: Not an ophthalmic drop!! A shampoo or cream!"
+    },
+    {
+      "t": "Lisinopril",
+      "d": "Trade Name: Zestril, Prinivil\n\nDrug Class: ACE Inhibitors\n\nMOA: Prevent formation of angiotensin 2 by inhibiting ACE. Block metabolism of bradykinins which are used for vasodilation.\n\nUse: Hypertension.\n\nS/E: COUGH! Use ARB's instead if patient reports cough."
+    },
+    {
+      "t": "Lodoxamide",
+      "d": "Trade Name: Alomide\n\nDrug Class: Topical Mast Cell Stabilizer\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen. Stabilizes the membrane and prevents Ca influx.\n\nUse: Chronic allergic conjunctivitis, vernal conjunctivitis and atopic keratoconjunctivitis.\n\nNotes: Effects begin weeks after beginning use. Not recommended for immediate relief.\n\nDosage: BID"
+    },
+    {
+      "t": "Loratadine",
+      "d": "Trade Name: Claritin\n\nDrug Class: 2nd gen Antihistamine\n\nMOA: Blocks histamine-H1 receptor intereaction. H1 antagonist.\n\nUse: Allergies\n\nS/E: Sedation, anticholinergic effects like dry eye, mydriasis, dry mouth and tachycardia."
+    },
+    {
+      "t": "Losartan",
+      "d": "Trade Name: Cozaar\n\nDrug Class: Angiotensin Receptor Blockers (ARB)\n\nMOA: Inhibits angiotensin 2 contraction of vascular smooth muscle and simultaneous aldosterone secretion, reducing blood pressure.\n\nUse: Hypertension.\n\nNote: No cough! Use ARB's instead of ACE inhibitors if patient reports cough."
+    },
+    {
+      "t": "Loteprednol 0.2%",
+      "d": "Trade Name: Alrex\n\nDrug Class: Corticosteroid\n\nMOA: Inhibits phospholipase A2.\n\nUse: Anti-inflammatory and immunosuppressive.\n\nS/E: Delayed healing, PSC, increased risk of secondary infections, potential to cause diabetes, and glaucoma (less likely).\n\nNotes: Weak steroid."
+    },
+    {
+      "t": "Loteprednol 0.5%",
+      "d": "Trade Name: Lotemax\n\nDrug Class: Corticosteroid\n\nMOA: Inhibits phospholipase A2.\n\nUse: Anti-inflammatory and immunosuppressive.\n\nS/E: Delayed healing, PSC, increased risk of secondary infections, potential to cause diabetes, and glaucoma (less likely).\n\nNotes: Weak steroid."
+    },
+    {
+      "t": "Lovastatin",
+      "d": "Trade Name: Mevacor\n\nDrug Class: HMG CoA Reductase Inhibitor\n\nMOA: Inhibits HMG CoA Reductase, an enzyme used for synthesis of cholesterol. Lowers LDL and TG's, and raises HDL.\n\nUse: First line therapy for hyperlipidemia. Hypercholesterolemia too.\n\nS/E: Hepatotoxicity, myopathy. CI in pregnancy and lactation."
+    },
+    {
+      "t": "Mannitol",
+      "d": "Trade Name: Osmitrol\n\nDrug Class: Diuretic (Osmotic)\n\nMOA: Increases plasma osmolarity, drawing water out of the eye or brain or kidney.\n\nUse: Hypertension, cerebral edema, angle closure attacks."
+    },
+    {
+      "t": "Meperidine",
+      "d": "Trade Name: Demerol\n\nDrug Class: Opiate Analgesics\n\nMOA: Agonist at mu, kappa and delta (opiate) receptors.\n\nUse: Potent analgesics.\n\nS/E: MIOSIS, respiratory depression, and sedation.\n\nNotes: Addictive."
+    },
+    {
+      "t": "Metaproterenol",
+      "d": "Trade Name: Alupent\n\nDrug Class: Bronchodilator\n\nMOA: Short acting B2 agonist.\n\nUse: Rescue inhalers for asthma and COPD.\n\nS/E: Due to B1 stimulation, Tachycardia, heart palpitations and tremors. May augment aqueous production and increase IOP."
+    },
+    {
+      "t": "Metformin",
+      "d": "Trade Name: Glucophage\n\nDrug Class: Biguanide\n\nMOA: Decreases gluconeogenesis in liver and increases glucose uptake.\n\nUse: Diabetes\n\nS/E: increased chance of lactic acidosis with liver/renal dysfunction. DIARRHEA MOST COMMON REASON FOR DISCONTINUATION.\n\nNotes: First line. DOES NOT CAUSE HYPOGLYCEMIA."
+    },
+    {
+      "t": "Methazolamide",
+      "d": "Trade Name: Naptazane\n\nDrug Class: Oral Carbonic Anhydrase Inhibitor\n\nMOA: Inhibit CA, therefore reducing active secretion and production of Aq.\n\nUse: IOP lowering in glaucoma.\n\nS/E: Sulfa-Based, so watch for allergies, metallic taste, metabolic acidosis (watch in diabetics), aplastic anemia. CI in COPD and pregnancy. Most fatal SE is bone marrow suppression and aplastic anemia!!\n\nNotes: Oral CAI's have more SE's than topical."
+    },
+    {
+      "t": "Methylphenidate",
+      "d": "Trade Name: Ritalin\n\nDrug Class: ADHD meds\n\nMOA: Increases dopamine release\n\nUse: ADHD, narcolepsy and depression.\n\nS/E: anticholinergic effects."
+    },
+    {
+      "t": "Metipranolol",
+      "d": "Trade Name: OptiPranolol\n\nDrug Class: Adrenergic Antagonists (B blocker)\n\nMOA: Non-selective B receptor blocker.\n\nUse: Lowering IOP in glaucoma.\n\nS/E: Caution in diabetics as it may mask symptoms of hypoglycemia. may also mask hyperthyroid symptoms. Weakness can be exacerbated in MG.\n\nNotes: Not used anymore as it isn't as effective as timolol."
+    },
+    {
+      "t": "Metoprolol",
+      "d": "Trade Name: Lopressor, Toprol XL\n\nDrug Class: Beta Blocker\n\nMOA: Selective B1 antagonist. Decreases renin too.\n\nUse: Hypertension.\n\nS/E: Bradycardia, arrhythmia. Less respiratory side effects because B1 selective!"
+    },
+    {
+      "t": "Metronidazole",
+      "d": "Trade Name: Metrogel, MetroCream\n\nDrug Class: Dermatological Meds\n\nMOA: Disrupts DNA and inhibits nucleic acid syntheses. Anti-inflammatory too.\n\nUse: Acne rosacea.\n\nS/E: Irritation of skin and eyes."
+    },
+    {
+      "t": "Miconazole",
+      "d": "Trade Name: Monistat IV\n\nDrug Class: Antifungal\n\nMOA: Inhibits ergosterol synthesis\n\nS/E: Hepatotoxicity"
+    },
+    {
+      "t": "Minocycline",
+      "d": "Drug Class: Tetracylcines\n\nMOA: Protein synthesis inhibitor at 30s ribosomal subunit.\n\nUse: Bacteriostatic. G(+) and G(-).\n\nS/E: Pseudotumor, bone growth retardation, discolouring of teeth.\n\nNotes: Contraindicated in renal failure, pregnancy and children. Dairy in GI tract may inhibit absorption. BLUE SCLERA!!"
+    },
+    {
+      "t": "Montelukast",
+      "d": "Trade Name: Singular\n\nDrug Class: Respiratory Agents\n\nMOA: Leukotriene receptor antagonist.\n\nUse: Asthma and bronchconstriction.\n\nNotes: approved for allergic rhinitis."
+    },
+    {
+      "t": "Moxifloxacin",
+      "d": "Trade Name: Vigamox\n\nDrug Class: 4th gen Fluoroquinolone\n\nMOA: DNA gyrase and Topoisomerase 4 inhibitor.\n\nUse: Good G(-) and G(+). UTI and GI infections.\n\nNotes: Also Besifloxacin (not on list)\n\nDosage: TID for bacterial conjunctivitis. For ulcer q5-15min for first hour, then q1h after for 24 hours."
+    },
+    {
+      "t": "Naloxone",
+      "d": "Opiod antagonist that is used to reverse effects of opioids."
+    },
+    {
+      "t": "Naphazolene",
+      "d": "Trade Name: Naphcon\n\nDrug Class: Adrenergic Agonists\n\nMOA: Alpha agonists (some beta too)\n\nUse: Constrict conjunctival blood vessels.\n\nS/E: Long term use may result in fixed dilated pupil due to overstimulation of Alpha1 on dilator."
+    },
+    {
+      "t": "Naproxen",
+      "d": "Trade Name: Naprosyn, Aleve\n\nDrug Class: NSAID\n\nMOA: Reversible inhibitor of COX1 and COX2\n\nUse: Anti inflammatory. Analgesia.\n\nS/E: increased risk for bleeds and MI and stroke. Contraindicated with CAD or MI."
+    },
+    {
+      "t": "Nedocromil",
+      "d": "Trade Name: Alocril\n\nDrug Class: Topical Mast Cell Stabilizer\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen. Stabilizes the membrane and prevents Ca influx.\n\nUse: Chronic allergic conjunctivitis, vernal conjunctivitis and atopic keratoconjunctivitis.\n\nNotes: Effects begin weeks after beginning use. Not recommended for immediate relief.\n\nDosage: BID"
+    },
+    {
+      "t": "Neostigmine",
+      "d": "Trade Name: Prostigmin\n\nDrug Class: Acetylcholinesterase Inhibitors (indirect cholinergic agonists)\n\nMOA: Inhibits acetylcholinesterase, thereby increasing Ach in synaptic cleft.\n\nUse: Myasthenia gravis."
+    },
+    {
+      "t": "Nepafenac",
+      "d": "Trade Name: Nevanec\n\nDrug Class: NSAID\n\nMOA: Block cyclooxygenase 1 and 2, decreasing prostaglandins and thromboxanes thus decreasing inflammation.\n\nS/E: Corneal melting/toxicity.\n\nUse: Post-op cataract, CME, RCE, and allergic conjunctivitis.\n\nDosage: TID"
+    },
+    {
+      "t": "Nifedipine",
+      "d": "Drug Class: Calcium Channel Blockers\n\nMOA: Blocks L-type calcium channels causing a decrease in intracellular calcium, thus decreasing peripheral resistance and blood pressure.\n\nUse: Hypertension.\n\nNotes: Does not have direct cardiac effects."
+    },
+    {
+      "t": "Ofloxacin",
+      "d": "Trade Name: Ocuflox\n\nDrug Class: 2nd gen Fluoroquinolone\n\nMOA: DNA gyrase and Topoisomerase 4 inhibitor.\n\nUse: Good G(-), not much G(+). UTI and GI infections.\n\nDosage: QID for conjunctivitis."
+    },
+    {
+      "t": "Olopatadine",
+      "d": "Trade Name: Patanol (0.1%) or Pataday (0.2%)\n\nDrug Class: Topical Mast Cell Stabilizer- Antihistamine Combo\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen by stabilizing the membrane and preventing Ca influx. Also inhibits histamine binding to H1 receptors.\n\nUse: Long term management of ocular itching, and allergic conjunctivitis. Also effective for acute symptoms.\n\nDosage: QD"
+    },
+    {
+      "t": "Omeprazole",
+      "d": "Trade Name: Prilosec\n\nDrug Class: Proton Pump Inhibitors\n\nMOA: Inhibits H+/K+ ATPase.\n\nUse: First line therapy for PUD and GERD."
+    },
+    {
+      "t": "Oxycodone",
+      "d": "Drug Class: Opiate Analgesics\n\nMOA: Agonist at mu, kappa and delta (opiate) receptors.\n\nUse: Potent analgesics.\n\nS/E: MIOSIS, respiratory depression, and sedation.\n\nNotes: Addictive."
+    },
+    {
+      "t": "Pegaptanib",
+      "d": "Trade Name: Macugen\n\nDrug Class: Agents for Exudative ARMD\n\nMOA: Binds to an inhibits VEGF. Antineoplastic agent.\n\nUse: AMD\n\nNotes: Via intravitreal injection."
+    },
+    {
+      "t": "Pemirolast",
+      "d": "Trade Name: Alamast\n\nDrug Class: Topical Mast Cell Stabilizer\n\nMOA: Inhibits degranulation of mast cell upon re-exposure to antigen. Stabilizes the membrane and prevents Ca influx.\n\nUse: Chronic allergic conjunctivitis, vernal conjunctivitis and atopic keratoconjunctivitis.\n\nNotes: Effects begin weeks after beginning use. Not recommended for immediate relief.\n\nDosage: BID"
+    },
+    {
+      "t": "Penicillamine",
+      "d": "Trade Name: Cuprimine\n\nUse: Copper chelator in Wilson's disease.\n\nS/E: Ocular Myasthenia, ocular pemphigoid and optic neuritis.\n\nNotes: Many people stop taking this drug due to the side effects listed."
+    },
+    {
+      "t": "Phenelzine",
+      "d": "Trade Name: Nardil\n\nDrug Class: MAOI\n\nMOA: Inhibits monamine oxidase, the enzyme responsible for breaking down norepi and serotonin,\n\nUse: Antidepressant.\n\nS/E: Glaucoma and nystagmus. Lethal hypertensive crisis if taken with foods high in tyramine. Possible serotonin syndrome if taken with other antidepressants.\n\nNotes: Do not use Penelzine with Brimonidine or Pheyl 10%!!"
+    },
+    {
+      "t": "Pilocarpine",
+      "d": "Trade Name: Isoptocarpine, Pilocar\n\nDrug Class: Cholinergic Agonist\n\nMOA: Stimulates longitudinal muscle of the ciliary body, which pulls scleral spur posteriorly and secondarily opens up the trabecular space to increase Aq outflow.\n\nUse: IOP reduction, angle closure glaucoma, and LPI prep. First drug used for glaucoma! 1% used in diagnosis of 3rd nerve palsy vs sphincter tear (3rd nerve will constrict). 0.125% used to diagnose Adie's tonic pupil.\n\nS/E: Brow aches, HA's, myopic shifts and miosis. Anterior sub capsular cataracts too.\n\nNotes: Short half-life, therefore frequent administration required. Limits its use.\n\nDosage: QID"
+    },
+    {
+      "t": "Phenytoin",
+      "d": "Trade Name: Dilantin\n\nDrug Class: Anticonvulsant\n\nMOA: Acts on multiple neurotransmitters including norepi, Ach, and GABA.\n\nUse: Tx of epilepsy.\n\nS/E: Nystagmus, diplopia, EOM palsies."
+    },
+    {
+      "t": "Phenylephrine",
+      "d": "Drug Class: Adrenergic Agonists\n\nMOA: Alpha1 agonist. No effects on B receptors, therefore no effect on ciliary body.\n\nUse: Dilation w/out cycloplegia, palpebral widening (acts on Muller's), differentiate episcleritis from scleritis, Horner's diagnosis, and 10% phenyl is used to break PAS and PS.\n\nS/E: CI in HTN and CVD, especially 10%. CI in Grave's disease too because their adrenergic system is already in over drive. CI in patients taking MAOI."
+    },
+    {
+      "t": "Pioglitazone",
+      "d": "Trade Name: Actos\n\nDrug Class: Thiazolidinedione\n\nMOA: Activates peroxisome proliferator-activated receptor gamma (PPAR-gamma) to increase glucose uptake in muscle and fat tissue.\n\nUse: Diabetes and insulin resistance.\n\nS/E: Decreased VA due to new or worsening macular edema. Heart failure and hypoglycemia too."
+    },
+    {
+      "t": "Piroxicam",
+      "d": "Trade Name: Feldene\n\nDrug Class: NSAID\n\nMOA: Reversible inhibitor of COX1 and COX2\n\nUse: Anti inflammatory. Analgesia.\n\nS/E: increased risk for bleeds and MI and stroke. Contraindicated with CAD or MI."
+    },
+    {
+      "t": "Polymyxin B-Bacitracin",
+      "d": "Trade Name: Polysporin\n\nDrug Class: Antibiotic\n\nUse: G(+) and G(-)"
+    },
+    {
+      "t": "Polymyxin B-Bacitracin-Neomycin",
+      "d": "Trade Name: Neosporin Ung\n\nDrug Class: Antibiotic\n\nUse: G(+) and G(-)"
+    },
+    {
+      "t": "Polymyxin B-Bacitracin-Gramicidin",
+      "d": "Trade Name: Neosporin (Suspension)\n\nDrug Class: Antibiotic\n\nUse: G(+) and G(-). Used for Acanthomoeba alternating with Brolene."
+    },
+    {
+      "t": "Polytrim",
+      "d": "Polymixin B (G-) and Trimethoprim (G+).\n\nDosage: q3h x 7 days"
+    },
+    {
+      "t": "Pralidoxime",
+      "d": "Reverse acetylcholinesterase inhibitors."
+    },
+    {
+      "t": "Prednisolone Acetate",
+      "d": "Trade Name: Pred Forte\n\nDrug Class: Corticosteroid\n\nMOA: Inhibits phospholipase A2.\n\nUse: Anti-inflammatory and immunosuppressive.\n\nS/E: Delayed healing, PSC, increased risk of secondary infections, potential to cause diabetes, and glaucoma.\n\nNotes: SHAKE!!! Strong steroid."
+    },
+    {
+      "t": "Promethazine",
+      "d": "Trade Name: Phenergan\n\nDrug Class: 1st gen Antihistamine\n\nMOA: Blocks histamine-H1 receptor intereaction. H1 antagonist.\n\nUse: Allergies\n\nS/E: Sedation, anticholinergic effects like dry eye, mydriasis, dry mouth and tachycardia.\n\nNotes: 1st gen causes sedation because they are able to penetrate CNS. Promethazine has similar structure to phenothiazine antipsychotics therefore may cause corneal keratopathy, lenticular changes and pigmentary retinopathy."
+    },
+    {
+      "t": "Proparacaine",
+      "d": "Blocks nerve conduction and changes membrane permeability by inhibiting the influx of Na. Prevents nerve from depolarizing.\n\nTopical anesthetics are esters because these have shorter duration of action!!\n\nS/E: corneal melt with excessive use"
+    },
+    {
+      "t": "Propranolol",
+      "d": "Trade Name: Inderal\n\nDrug Class: Beta Blocker\n\nMOA: Non-selective B1 and B2 antagonists. Also block renin from kidney.\n\nUse: Hypertension.\n\nS/E: lower IOP, depression, bradycardia, arrhythmia, wheezing, bronchospasm, and erectile dysfunction."
+    },
+    {
+      "t": "Pyridostigmine",
+      "d": "Trade Name: Mestinon\n\nDrug Class: Acetylcholinesterase Inhibitors (indirect cholinergic agonists)\n\nMOA: Inhibits acetylcholinesterase, thereby increasing Ach in synaptic cleft.\n\nUse: Tx of myasthenia gravis.\n\nDosage: 60mg tablets QID"
+    },
+    {
+      "t": "Pyrimethamine",
+      "d": "Trade Name: Duraprim\n\nMOA: Inhibit Dihydrofolate reductase, used in second step of folic acid synthesis.\n\nUse:Bacteriostatic. G(+) and G(-). Used for Toxo.\n\nSide Effects: Orals --> bone marrow suppression --> aplastic anemia."
+    },
+    {
+      "t": "Ranibizumab",
+      "d": "Trade Name: Lucentis\n\nDrug Class: Agents for Exudative ARMD\n\nMOA: Monoclonal antibody (Fab portion) that binds to and inhibits VEGF.\n\nUse: AMD. Anti-VEGF.\n\nNotes: Intravitreal injection."
+    },
+    {
+      "t": "Ranitidine",
+      "d": "Trade Name: Zantac\n\nDrug Class: H2 Antagonist\n\nMOA: Binds to H2 receptor of gastric parietal cells, preventing histamine induced HCl secretion.\n\nUse: PUD. Healing and preventing stomach ulcers and acid reflux.\n\nS/E: Diarrhea."
+    },
+    {
+      "t": "Rifampin",
+      "d": "Trade Name: Rifadin\n\nDrug Class: TB Meds\n\nMOA: Binds to beta subunit of RNA polymerase and inhibits transcription.\n\nUse: Can be used as mono therapy for latent TB.\n\nS/E: hepatotoxicity, pink coloration of tears and urine."
+    },
+    {
+      "t": "Rimexolone",
+      "d": "Trade Name: Vexol\n\nDrug Class: Corticosteroid\n\nMOA: Inhibits phospholipase A2.\n\nUse: Anti-inflammatory and immunosuppressive.\n\nS/E: Delayed healing, PSC, increased risk of secondary infections, potential to cause diabetes, and glaucoma.\n\nNote: Strong steroid!"
+    },
+    {
+      "t": "Scopolamine",
+      "d": "Drug Class: Cholinergic Antagonists\n\nMOA: Block Ach at muscarinic sites in ciliary body and iris.\n\nUse: Cycloplegic refractions, pupillary dilation, and management of uveitis.\n\nS/E: Penetrates BBB therefore CNS effects more likely. Hallucinations, amnesia, confusion, etc. CI in Down's Syndrome!\n\nNote: Not used in glaucoma tx!\n\nDosage: BID-TID for uveitis"
+    },
+    {
+      "t": "Sildenafil",
+      "d": "Trade Name: Viagra\n\nDrug Class: Phosphodiesterase (PDE) inhibitors.\n\nMOA: Inhibit PDE-5 thereby increasing blood flow to penis via relaxation of blood vessel smooth muscle.\n\nUse: Erectile dysfunction.\n\nS/E: flushing, HA's, sustained erection, NAION, color defects (cyanopsia), and photosensitivity."
+    },
+    {
+      "t": "Simvastatin",
+      "d": "Trade Name: Zocor\n\nDrug Class: HMG CoA Reductase Inhibitor\n\nMOA: Inhibits HMG CoA Reductase, an enzyme used for synthesis of cholesterol. Lowers LDL and TG's, and raises HDL.\n\nUse: First line therapy for hyperlipidemia. Hypercholesterolemia too.\n\nS/E: Hepatotoxicity, myopathy. CI in pregnancy and lactation."
+    },
+    {
+      "t": "Sodium Chloride",
+      "d": "Trade Name: Muro-128\n\nDrug Class: Hyperosmotic Agent\n\nMOA: Hypertonic solution.\n\nUse: Reduces corneal edema.\n\nNotes: Drops or ointment.\n\nDosage: drops QID and ung qhs for Fuch's."
+    },
+    {
+      "t": "Spironolactone",
+      "d": "Trade Name: Aldactone\n\nDrug Class: Diuretic (Potassium Sparing)\n\nMOA: Blocks aldosterones action at the late DCT and collecting duct thereby increasing excretion of sodium and water and decreases secretion of potassium.\n\nUse: Hypertension\n\nS/E: hyperkalemia, gynecomastia, ANTIANDROGEN EFFECTS."
+    },
+    {
+      "t": "Sucralfate",
+      "d": "Trade Name: Carafate\n\nDrug Class: Gastric Lining Protector\n\nMOA: Forms a \"paste\" and coats damaged ulcer tissue.\n\nUse: Protect stomach lining from acid. Acute management of PUD.\n\nS/E: May interfere with absorption of oral meds. Take 2 hours after other meds."
+    },
+    {
+      "t": "Sulfacetamide",
+      "d": "Trade Name: Sulfamyd\n\nDrug Class: Folic Acid Inhibitors\n\nMOA: Inhibit Dyhydropteroate synthase, first step of folic acid synthesis.\n\nUse:Bacteriostatic. G(+) and G(-).\n\nSide Effects: Kernicterus in infants, myopic shift, SJS."
+    },
+    {
+      "t": "Sulfadiazine",
+      "d": "Trade Name: Macrosulfan\n\nDrug Class: Folic Acid Inhibitors\n\nMOA: Inhibit Dyhydropteroate synthase, first step of folic acid synthesis.\n\nUse:Bacteriostatic. G(+) and G(-).\n\nSide Effects: Kernicterus in infants, myopic shift, SJS."
+    },
+    {
+      "t": "Sulfamethoxazole",
+      "d": "Trade Name: Gantanol\n\nDrug Class: Folic Acid Inhibitors\n\nMOA: Inhibit Dyhydropteroate synthase, first step of folic acid synthesis.\n\nUse:Bacteriostatic. G(+) and G(-). Used with Trimethoprim in Toxo (Bactrim).\n\nSide Effects: Kernicterus in infants, myopic shift, SJS."
+    },
+    {
+      "t": "Sulfisoxazole",
+      "d": "Trade Name: Gantrisin\n\nDrug Class: Folic Acid Inhibitors\n\nMOA: Inhibit Dyhydropteroate synthase, first step of folic acid synthesis.\n\nUse:Bacteriostatic. G(+) and G(-).\n\nSide Effects: Kernicterus in infants, myopic shift, SJS."
+    },
+    {
+      "t": "Sumatriptan",
+      "d": "Trade Name: Imitrex\n\nDrug Class: Migraine therapy\n\nMOA: Serotonin receptor 1B and 1 D agonists. Causes vasoconstriction of cranial blood vessels and reduces inflammation in CNS.\n\nUse: Migraines.\n\nS/E: Systemic vasoconstriction causing NAION, MI, strokes. CI in patients with hx of strokes."
+    },
+    {
+      "t": "Tetracycline",
+      "d": "Trade Name: Sumycin\n\nDrug Class: Tetracylcines\n\nMOA: Protein synthesis inhibitor at 30s ribosomal subunit.\n\nUse: Bacteriostatic. G(+) and G(-).\n\nS/E: Pseudotumor, bone growth retardation, discolouring of teeth.\n\nNotes: Contraindicated in renal failure, pregnancy and children. Dairy in GI tract may inhibit absorption."
+    },
+    {
+      "t": "Tetrahydrozoline",
+      "d": "Trade Name: Visine\n\nDrug Class: Adrenergic Agonists\n\nMOA: Alpha agonists (some beta too)\n\nUse: Constrict conjunctival blood vessels.\n\nS/E: Long term use may result in fixed dilated pupil due to overstimulation of Alpha1 on dilator."
+    },
+    {
+      "t": "Thioridazine",
+      "d": "Trade Name: Mellaril\n\nDrug Class: Phenothiazine (antipsychotic)\n\nMOA: Dopamine recepter antagonist.\n\nUse: Schizophrenia\n\nS/E: Pigment on corneal endo, ASC, hyperpigmentation of retina, anticholinergic effects, oculogyric crisis, and potential Parkinson-like effects."
+    },
+    {
+      "t": "Timolol",
+      "d": "Trade Name: Timoptic, Betimol\n\nDrug Class: Adrenergic Antagonists (B blocker)\n\nMOA: Non-selective B receptor blocker.\n\nUse: Lowering IOP in glaucoma.\n\nS/E: Caution in diabetics as it may mask symptoms of hypoglycemia. may also mask hyperthyroid symptoms. Weakness can be exacerbated in MG.\n\nNotes: Most effective at lowering IOP (25%). Morning single dose is recommended. Has crossover effect (untreated eye benefits too).\n\nDosage: BID"
+    },
+    {
+      "t": "Tobramycin",
+      "d": "Trade Name: Tobrex\n\nDrug Class: Aminoglycoside\n\nMOA: Protein synthesis inhibitor at 30S unit of bacterial ribosome.\n\nUse: Good G(+), but better G(-).\n\nS/E: Topicals cause SPK. Orals can cause ototoxicity and nephrotoxicity.\n\nNotes: Gentamicin too (not on list). TobraGent30!\n\nDosage: q4h"
+    },
+    {
+      "t": "Tobramycin-Dexamethasone",
+      "d": "Trade Name: Tobradex\n\nCombination drug.\n\nDosage: QID"
+    },
+    {
+      "t": "Topiramate",
+      "d": "Trade Name: Topamax\n\nDrug Class: Anticonvulsant\n\nMOA: Multiple CNS effects to prevent seizures\n\nUse: Seizures and migraines.\n\nS/E: Choroidal effusion leading to secondary angle closure glaucoma."
+    },
+    {
+      "t": "Travoprost",
+      "d": "Trade Name: Travatan Z\n\nDrug Class: Prostaglandin Analog\n\nMOA: PGA's act on FP receptors on ciliary muscle, causing reduction of neighbouring collagen via MMP's, which decreases the resistance in the uveoscleral meshwork. Increase uveoscleral outflow. Eyelash growth too.\n\nUse: First line of tx for POAG. 27-35% IOP lowering, the highest of all glaucoma drugs.\n\nS/E: Heterochromia, skin darkening around eyes, and growth of lashes. CI in CME, and active uveitis/inflammation.\n\nNotes: Bedtime dosing recommended.\n\nDosage: QHS"
+    },
+    {
+      "t": "Triamcinolone",
+      "d": "Trade Name: Kenalog, Aristocort\n\nDrug Class: Anti-inflammatory (Steroids)\n\nMOA: Inhibits phospholipase A2.\n\nUse: Diabetic edema, Grave's disease posterior uveitis, chalazion, and CME.\n\nS/E: Endophthalmitis with injection. Can also cause depigmentation of the eyelid in dark skinned patients. Also PSC, increased IOP, possible diabetes. and immune suppression."
+    },
+    {
+      "t": "Triamterene",
+      "d": "Trade Name: Dyrenium\n\nDrug Class: Diuretics\n\nMOA: Directly blocks ENaCs in late DCT and late collecting ducts.\n\nNotes: Similar to Spironolactone but no anti-androgen effects here."
+    },
+    {
+      "t": "Trimethoprim",
+      "d": "Drug Class: Folic Acid Inhibitors\n\nMOA: Inhibit Dihydrofolate reductase, used in second step of folic acid synthesis.\n\nUse:Bacteriostatic. G(+) and G(-). Not effective against pseudomonas. Used with Sulfamethoxazole in Toxo (Bactrim).\n\nSide Effects: Orals --> bone marrow suppression --> aplastic anemia."
+    },
+    {
+      "t": "Trimethoprim-Polymyxin B",
+      "d": "Trade Name: Polytrim\n\nDrug Class: Antibiotic\n\nMOA: Combo antibiotic. Cell wall synthesis inhibition and folic acid synthesis inhibition.\n\nUse: Bacterial infections.\n\nDosage: q3h for 7 days"
+    },
+    {
+      "t": "Trimethoprim-Sulfamethoxazole",
+      "d": "Trade Name: Bactrim\n\nDrug Class: Folic Acid synthesis inhibiors. First and second step.\n\nUse: Toxo and MRSA\n\nDosage: BID"
+    },
+    {
+      "t": "Tropicamide",
+      "d": "Drug Class: Cholinergic Antagonists\n\nMOA: Block Ach at muscarinic sites in ciliary body and iris.\n\nUse: Cycloplegic refractions, pupillary dilation, and management of uveitis. Quickest onset and quickest duration of mydriasis.\n\nS/E: Rare, very safe drug.\n\nNote: Not used in glaucoma tx!"
+    },
+    {
+      "t": "Unoprostone",
+      "d": "Trade Name: Rescula\n\nDrug Class: Prostglandin Analog\n\nMOA: Increase Aq outflow via trabecular meshwork.\n\nUse: POAG and ocular HTN.\n\nNotes: MOA different than other PGA's.\n\nDosage: QHS"
+    },
+    {
+      "t": "Valacyclovir (oral)",
+      "d": "Trade Name: Valtrex\n\nDrug Class: Antiherpes agents\n\nMOA: Inhibits DNA polymerase\n\nUse: All herpes viruses (HSV1-2, VZV, CMV)\n\nS/E: HA's and GI effects are most common.\n\nDosage: 1000mg TID for 7 days for HZV and 500mg TID for 7 days for HSV. 250mg BID for prophylaxis for HSV keratitis."
+    },
+    {
+      "t": "Vancomycin",
+      "d": "Trade Name: Vancocin Pulvules\n\nDrug Class: Antibiotic\n\nUse: Antibiotic of last resort. Can be used in MRSA.\n\nS/E: Ototoxicity, nephrotoxicity."
+    },
+    {
+      "t": "Vardenafil",
+      "d": "Trade Name: Levitra\n\nDrug Class: Phosphodiesterase (PDE) inhibitors.\n\nMOA: Inhibit PDE-5 thereby increasing blood flow to penis via relaxation of blood vessel smooth muscle.\n\nUse: Erectile dysfunction.\n\nS/E: flushing, HA's, sustained erection, NAION, color defects (cyanopsia), and photosensitivity."
+    },
+    {
+      "t": "Verapamil",
+      "d": "Trade Name: Calan, Isoptin\n\nDrug Class: Calcium Channel Blockers\n\nMOA: Blocks L-type calcium channels causing a decrease in intracellular calcium, thus decreasing peripheral resistance and blood pressure. Also cause decreased heart rate (chonotropism), and decreased contractility (ionotropism).\n\nUse: Hypertension.\n\nNotes: May worsen or cause heart failure due to direct cardiac effects. Not seen with Nifedipine."
+    },
+    {
+      "t": "Warfarin",
+      "d": "Trade Name: Coumadin\n\nDrug Class: Anticoagulant\n\nMOA: Vitamin K antagonist, thus interfering with clotting factors 2, 7, 9 and 10.\n\nUse: Chronic anticoagulation for patient with previous blood clots, A-Fib, or mechanical heart valves.\n\nNotes: Discontinue for 115 hours prior to cataract surgery. Caution in use with cephalosporins as they block Vit K uptake in GI."
+    },
+    {
+      "t": "Zafirlukast",
+      "d": "Trade Name: Accolate\n\nDrug Class: Respiratory Agents\n\nMOA: Leukotriene receptor antagonist.\n\nUse: Asthma and bronchconstriction."
+    },
+    {
+      "t": "Zidovudine",
+      "d": "Trade Name: Retrovir (AZT)\n\nDrug Class: Antiviral.\n\nMOA: Potent inhibitor of viral RNA-dependent DNA polymerase (aka reverse transcriptase).\n\nUse: Part of 3 drug HIV therapy.\n\nS/E: Bone marrow suppression, lactic acidosis, muscle breakdown, and reported amblyopia and macular edema."
+    },
+    {
+      "t": "Drugs with Anti-Cholinergic S/E (indirect anti-cholinergic effects)\n\n-Mydriasis\n-Dry Eye\n-Dry Mouth\n-Tachycardia",
+      "d": "First gen H1 Blockers: Diphenhydramine, Brompherimine, Chlorpheniramine, Promethazine.\n\nAntipsychotics: Chlorpromazine, Thioridazine.\n\nTCA's: Amytriptyline, Imipramine\n\nMAOI: Phenelzine\n\nMuscle Relaxant: Cyclobenzaprine (analgesic)\n\nAnxiolytic: Diazepam\n\nBronchodilator: Ipratropium (direct cholinergic antagonist)"
+    },
+    {
+      "t": "Drugs that cause Mydriasis\n\n-contraindicated in glaucoma due to potential for acute angle closure and increased IOP.",
+      "d": "- Opiates (withdrawal)\n-Drugs with anticholinergic effects (first gen H1 blockers, antipsychotics, TCA's, MAOI, muscle relaxants, anxiolytics, ipratropium)\n-Dopamine agonists (ADHD drugs and anti-parkinson drugs)"
+    },
+    {
+      "t": "Drugs in pregnancy",
+      "d": "Mnemonic....Pregnants don't run FAST (unsafe), they just PACe(safe).\n\nFluroquinolones: Tendinitis and retard bone growth Aminoglycosides: Ototoxicity...damage to CN8 in infant.\nSulfonamides: Build up of bilirubin and cause Kernicterus Tetracyclines: Bone growth retardation\n\n\nPenicillin\nAcetaminophen\nCephalosporin"
+    },
+    {
+      "t": "Drugs that can be used against MRSA",
+      "d": "Clindamycin, Lincomycin, Bactrim, Vancomycin, Doxycycline.\n\nMnemonic...MRSA Can Likely Be Very Difficult."
+    },
+    {
+      "t": "Oral drugs that can cause a Clostridium Difficile superinfection.",
+      "d": "Cephalosporins, Penicillins, and Clindamycin.\n\nCephalosporins and Penicillins have a large effect on the GI flora and thus may cause an imbalance allowing for C.Difficile infections."
+    },
+    {
+      "t": "Drugs that cause Steven Johnson Syndrome",
+      "d": "Sulfonamides, Amoxicillin, Allopurinol and Celecoxib."
+    },
+    {
+      "t": "Bacteriostatic vs Bactericidal Drugs",
+      "d": "Bacteriostatic: Tetracylcines, Trimethprim, Sulfonamides and Erythromycin (to a slight degree). (TEST)\n\nBacteriocidal: Penicillins, Cephalosporins, Bacitracin, Aminoglycosides, and Fluoroquinolones. (BCFAP)"
+    },
+    {
+      "t": "Drugs causing Bone Marrow Suppression and Aplastic Anemia",
+      "d": "Orals include Trimethoprim, Pyrimethazine, Methotrexate, CAI, Zidovudine.\n\nONLY TOPICAL is Chloramphenicol."
+    },
+    {
+      "t": "Drugs causing Anterior Subcapsular Cataracts",
+      "d": "Remember: May Trigger Anterior Cataracts\n\nMotics (pilo), Thioridazine, Amiodarone, and Chlorpromazine."
+    },
+    {
+      "t": "Drugs that can cause an oculogyric crisis",
+      "d": "Cetirizine and Phenothiazines (Chlorpromazine, Thioridazie both antipsychotics) and Promethazine (first gen H1 blocker))."
+    },
+    {
+      "t": "Drugs that can cause NAION",
+      "d": "Viagra, Imitrex, Vardenafil, and Amiodarone.\n\nVIVA."
+    },
+    {
+      "t": "Drugs that can increase intracranial pressure and cause Pseudotumor Cerebri",
+      "d": "Tetracyclines, Isoretinoin, steroids and rarely oral contraceptives."
+    },
+    {
+      "t": "Drugs causing Whorl Keratopathy",
+      "d": "Remember, CHAI-T.\n\nChloroquine, Hydroxychloroquine, Amiodarone, Indomethacin and Tamoxifen.\n\nDon't forget about Fabry's disease!"
+    },
+    {
+      "t": "Drugs causing color vision defects",
+      "d": "-Digoxin (B/Y defect)\n-Sildenafil, Vardenafil (B/Y Defect)\n-Ethambutol\n-Hydroxychloroquine\n-Phenothiazines [Chlorpromazine, Thioridazie both antipsychotics) and Promethazine (first gen H1 blocker)]."
+    },
+    {
+      "t": "2 drugs that are neuroprotective",
+      "d": "Brimonidine and Betaxolol"
+    },
+    {
+      "t": "Only 3 beta blockers that are B1 selective",
+      "d": "Systemic: Atenolol and Metoprolol\nOphthalmic: Betaxolol"
+    },
+    {
+      "t": "Glaucoma drugs MOA's",
+      "d": "Cholinergic Agonists: increase corneoscleral outflow by pulling on longitudinal muscle of CB which pulls scleral spur and opens TM.\n\nAlpha Agonists: Decrease Aq production via constriction of MACI and increase uveoscleral outflow.\n\nBeta Blockers: Decrease Aq production by inhibiting NPCE.\n\nCAI: Decrease Aq production by inhibiting bicarb formation which impedes Na/Cl transport.\n\nPG's: Increase outflow via uveoscleral pathway via MMP's degrading nearby collagen and reducing resistance in uveosceral route."
+    },
+    {
+      "t": "Drops that are suspensions and must be shaken",
+      "d": "-Pred Acetate [Pred Forte (shake that ASS-etate)]\n-Fluromethylone\n-Brinzolamide (Azopt)\n-Betaxolol"
+    },
+    {
+      "t": "Drugs that can cause Optic Neuritis",
+      "d": "-Chloramphenicol\n-Ribavarin\n-Estrogen (oral contraceptives)\n-Isoniazid (rarely)\n-Ethambutol (retro-bulbar)\n-Digoxin (retro-bulbar)\n-Chlorpromazine\n-Hydroxychloroquine\n\nThis may not be a complete list..."
+    },
+    {
+      "t": "Drugs that cause anterior uveitis.",
+      "d": "Cidofovir, sulfonamides, and rifabutin."
+    },
+    {
+      "t": "Drugs causing OCP",
+      "d": "TEP: Timolol, Epinephrine, Pilocarpine"
+    },
+    {
+      "t": "Causes of PTC",
+      "d": "Pregnant women just CANT!\n\nContraceptives, vitamin A, Naladixic acid, tetracyclines."
+    },
+    {
+      "t": "Drugs that cause myopia.",
+      "d": "STAT myopia!\n\nSulfonamides, Topiramate, Acetazolamide (oral CAI's), and Thiazides (transient myopia)."
+    },
+    {
+      "t": "2 drugs that are prodrugs.",
+      "d": "Nepafenac and Latanoprost."
+    },
+    {
+      "t": "Drugs that interfere with Warfarin.",
+      "d": "Fluoroquinolones, macrolides, and cephalosporins."
+    },
+    {
+      "t": "Causes of Pre-Senile Cataracts",
+      "d": "Wilson's MAD there's no milk.\n\nWilsons causes Sunflower cataract.\n\nMyotonic Dystophy and Diabetes cause Christmas Tree cataract.\n\nAtopic conditions cause cataracts.\n\nHypocalcemia (no milk)"
+    },
+    {
+      "t": "Drugs/conditions causing Bulls-Eye Maculopathy",
+      "d": "Some People Can't Handle The bull.\n\nStargardts, Progressive Cone Dystrophy, Chloroquine, Hydroxychloroquine, Thioridazine (and chlorpromazine)."
+    },
+    {
+      "t": "Drugs that are Hepatotoxic",
+      "d": "RIMAAS\n\nRifampin, Isoniazid, MTX, Acetaminophen, Azole's (antifungals), Statins."
+    },
+    {
+      "t": "Drugs that are Nephrotoxic",
+      "d": "FAFA\nFurosemide, Aminoglycoside, Foscarnet, and Amphotericin B and Azithromycin."
+    },
+    {
+      "t": "Drugs that are Ototoxic",
+      "d": "Furosemide and Aminoglycosides."
+    },
+    {
+      "t": "B Vitamins",
+      "d": "Vitamin B1- Thiamine\nVitamin B2- Riboflavin\nVitamin B3 - Niacin or nicotinic acid\nVitamin B5- Pantothenic acid\nVitamin B6- Pyridoxine\nVitamin B7- Biotin\nVitamin B9- Folic acid\nVitamin B12- Cobalamin"
+    },
+    {
+      "t": "Topical Allergy Meds",
+      "d": "H1 Antihistamine:\nEmadine-QID\n\nMast Cell Stabilizer:\nCrolom, Alomide, Alocril, Alamast- BID\n\nMast Cell/Antihistamine Combo:\nLastacaft, Pataday- QD\nOptivar, Bepreve, Elestat, Zaditor, Patanol- BID"
+    }
+  ],
+  "validated_class_groups": {
+    "Macrolide": [
+      "Clindamycin",
+      "Azithromycin",
+      "Clarithromycin",
+      "Erythromycin"
+    ],
+    "Fluoroquinolone": [
+      "Moxifloxacin",
+      "Gatifloxacin",
+      "Besifloxacin",
+      "Ofloxacin",
+      "Ciprofloxacin",
+      "Levofloxacin"
+    ],
+    "Antiviral": [
+      "Oseltamivir",
+      "Ganciclovir",
+      "Ribavirin",
+      "Foscarnet",
+      "Trifluridine",
+      "Famciclovir",
+      "Valacyclovir",
+      "Zidovudine",
+      "Acyclovir"
+    ],
+    "Antifungal": [
+      "Natamycin",
+      "Miconazole",
+      "Fluconazole",
+      "Ketoconazole",
+      "Amphotericin B",
+      "Griseofulvin",
+      "Nystatin"
+    ],
+    "Alpha-2 agonist": [
+      "Apraclonidine",
+      "Brimonidine",
+      "Clonidine"
+    ],
+    "Antihistamine only": [
+      "Brompheniramine",
+      "Chlorpheniramine maleate",
+      "Loratadine",
+      "Emedastine",
+      "Chlorpheniramine",
+      "Cetirizine",
+      "Diphenhydramine",
+      "Promethazine",
+      "Fexofenadine"
+    ],
+    "Cholinergic agonist": [
+      "Neostigmine",
+      "Donepezil",
+      "Pyridostigmine",
+      "Echothiophate",
+      "Edrophonium",
+      "Pilocarpine"
+    ],
+    "SSRI": [
+      "Escitalopram",
+      "Fluoxetine"
+    ],
+    "ACE inhibitor": [
+      "Captopril",
+      "Enalapril",
+      "Benazepril",
+      "Lisinopril"
+    ],
+    "Statin": [
+      "Atorvastatin",
+      "Simvastatin",
+      "Lovastatin"
+    ],
+    "Anticholinergic": [
+      "Atropine",
+      "Cyclopentolate",
+      "Homatropine",
+      "Scopolamine",
+      "Tropicamide"
+    ],
+    "Beta blocker": [
+      "Metoprolol",
+      "Carteolol",
+      "Propranolol",
+      "Labetalol",
+      "Levobunolol",
+      "Timolol",
+      "Atenolol",
+      "Metipranolol",
+      "Betaxolol"
+    ],
+    "Topical CAI": [
+      "Brinzolamide",
+      "Dorzolamide"
+    ],
+    "Oral CAI": [
+      "Methazolamide",
+      "Acetazolamide"
+    ],
+    "Mast cell stabilizer only": [
+      "Cromolyn Sodium",
+      "Lodoxamide",
+      "Nedocromil",
+      "Pemirolast"
+    ],
+    "Mast cell stabilizer + antihistamine": [
+      "Olopatadine",
+      "Bepotastine",
+      "Ketotifen",
+      "Epinastine",
+      "Azelastine"
+    ],
+    "Topical NSAID": [
+      "Diclofenac sodium",
+      "Nepafenac",
+      "Ketorolac Tromethamine",
+      "Flurbiprofen",
+      "Bromfenac"
+    ],
+    "Anti-VEGF": [
+      "Pegaptanib",
+      "Ranibizumab"
+    ],
+    "TCA": [
+      "Amitryptyline",
+      "Imipramine"
+    ],
+    "Prostaglandin analog": [
+      "Bimatoprost",
+      "Latanoprost",
+      "Travoprost"
+    ]
+  },
+  "validated_moa_groups": {
+    "Cell wall synthesis inhibitor": [
+      "Amoxicillin-Clavulanate",
+      "Ceftriaxone",
+      "Cephalexin",
+      "Ethambutol",
+      "Trimethoprim-Polymyxin B",
+      "Cephalosporins",
+      "Amoxicillin",
+      "Bacitracin",
+      "Isonizaid",
+      "Griseofulvin",
+      "Penicillins"
+    ],
+    "30S ribosomal inhibitor": [
+      "Gentamicin",
+      "Minocycline",
+      "Tobramycin",
+      "Tetracycline",
+      "Doxycycline"
+    ],
+    "50S ribosomal inhibitor": [
+      "Clindamycin",
+      "Macrolide antibiotics",
+      "Azithromycin",
+      "Chloramphenicol",
+      "Clarithromycin",
+      "Lincomycin/Clindamycin",
+      "Erythromycin"
+    ],
+    "DNA gyrase inhibitor": [
+      "Moxifloxacin",
+      "Gatifloxacin",
+      "Besifloxacin",
+      "Ofloxacin",
+      "Ciprofloxacin",
+      "Levofloxacin",
+      "Fluoroquinolone antibiotics"
+    ],
+    "Ergosterol inhibitor/disruptor": [
+      "Natamycin",
+      "Miconazole",
+      "Fluconazole",
+      "Ketoconazole",
+      "Amphotericin B",
+      "Nystatin"
+    ],
+    "Folic acid inhibitor": [
+      "Methotrexate",
+      "Sulfadiazine",
+      "Trimethoprim",
+      "Sulfamethoxazole",
+      "Sulfisoxazole",
+      "Sulfacetamide"
+    ],
+    "Increases trabecular outflow": [
+      "Pilocarpine",
+      "Unoprostone"
+    ],
+    "Decreases aqueous production": [
+      "topical beta-blockers in POAG",
+      "Homatropine in Anterior Uveitis"
+    ],
+    "Increases uveoscleral outflow": [
+      "Prostaglandin Analogs in POAG",
+      "Bimatoprost",
+      "Brimonidine",
+      "Travoprost",
+      "Latanoprost"
+    ],
+    "Viral DNA polymerase inhibitor": [
+      "Trifluridine",
+      "Zidovudine"
+    ]
+  },
+  "conflicts": {
+    "pseudotumor_cerebri": {
+      "canonical_mnemonic": "CANT",
+      "canonical_drugs": [
+        "Contraceptives",
+        "Accutane (isotretinoin)",
+        "Nalidixic acid",
+        "Tetracyclines"
+      ],
+      "note": "Use CANT only. CATS variant in one deck is non-standard."
+    },
+    "isotretinoin_class": {
+      "canonical": "Dermatologic medication (retinoid) \u2014 reduces sebaceous gland oil production",
+      "note": "Cards say acne medication. Do not use Retinoid as a sort category."
+    }
+  }
+}
