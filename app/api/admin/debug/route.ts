@@ -51,12 +51,14 @@ export async function GET(req: NextRequest) {
     .from('rxsordle_rounds')
     .select('date, created_at')
     .eq('date', todayET)
-    .single();
+    .maybeSingle();
 
   if (todayError) {
     log.push(`Today's cache (${todayET}): ✗ ${todayError.message}`);
+  } else if (!todayData) {
+    log.push(`Today's cache (${todayET}): ✗ no rounds cached yet — use Regenerate`);
   } else {
-    log.push(`Today's cache (${todayET}): ✓ exists, created_at=${todayData?.created_at}`);
+    log.push(`Today's cache (${todayET}): ✓ exists, created_at=${todayData.created_at}`);
   }
 
   // 6. Check rxsordle_scores connectivity
