@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { generateRoundsForDate, setCachedRounds } from '@/lib/generation';
 
 export async function POST(req: NextRequest) {
   const { password } = await req.json();
@@ -9,25 +10,16 @@ export async function POST(req: NextRequest) {
   const todayET = new Date(new Date().toLocaleString('en-US', { timeZone: 'America/New_York' }))
     .toISOString().split('T')[0];
 
-  // Use a random salt so Gemini gets a genuinely different prompt
+  // Random salt so Gemini sees a genuinely different prompt each time
   const salt = (Math.random() * 100000) | 0;
 
-  // Call /api/generate with forceNew=true and replaceCache=true so the new
-  // rounds are written back to Supabase as today's global cache
-  const base = process.env.VERCEL_URL
-    ? `https://${process.env.VERCEL_URL}`
-    : 'http://localhost:3000';
-
-  const res = await fetch(`${base}/api/generate`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ date: todayET, forceNew: true, salt, replaceCache: true }),
-  });
-
-  if (!res.ok) {
+  try {
+    const rounds = await generateRoundsForDate(todayET, salt);
+    // Overwrite today's Supabase cache so all users immediately get the new questions
+    await setCachedRounds(todayET, rounds);
+    return NextResponse.json({ rounds, date: todayET });
+  } catch (err) {
+    console.error('Regenerate failed:', err);
     return NextResponse.json({ error: 'Generation failed' }, { status: 500 });
   }
-
-  const data = await res.json();
-  return NextResponse.json({ rounds: data.rounds, date: todayET });
 }
