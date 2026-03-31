@@ -16,6 +16,8 @@ export function getSupabaseServer(): SupabaseClient {
 // Convenience export — lazily initialized so it's safe during build
 export const supabaseServer = new Proxy({} as SupabaseClient, {
   get(_target, prop) {
-    return getSupabaseServer()[prop as keyof SupabaseClient];
+    const client = getSupabaseServer();
+    const value = client[prop as keyof SupabaseClient];
+    return typeof value === 'function' ? (value as (...a: unknown[]) => unknown).bind(client) : value;
   },
 });
