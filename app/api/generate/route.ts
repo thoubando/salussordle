@@ -1,13 +1,26 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import { mulberry32, dateToSeed, seededShuffle } from '@/lib/seed';
-import { supabase } from '@/lib/supabase';
+import { supabaseServer } from '@/lib/supabase-server';
 import type { RoundData } from '@/lib/types';
 import fs from 'fs';
 import path from 'path';
 
-// ── Server-side daily cache ───────────────────────────────────────────────────
-const roundCache = new Map<string, RoundData[]>();
+// ── Supabase cache helpers ────────────────────────────────────────────────────
+async function getCachedRounds(date: string): Promise<RoundData[] | null> {
+  const { data } = await supabaseServer
+    .from('rxsordle_rounds')
+    .select('rounds')
+    .eq('date', date)
+    .single();
+  return data ? (data.rounds as RoundData[]) : null;
+}
+
+async function setCachedRounds(date: string, rounds: RoundData[]): Promise<void> {
+  await supabaseServer
+    .from('rxsordle_rounds')
+    .upsert({ date, rounds }, { onConflict: 'date' });
+}
 
 // ── Token bucket: 15 req/min, refill 1 token every 4 s ───────────────────────
 const BUCKET_MAX = 15;
@@ -223,9 +236,10 @@ Return ONLY valid JSON in this exact shape, no extra text:
 export async function POST(req: NextRequest) {
   const { date, forceNew, salt } = await req.json();
 
-  // Serve from daily cache (skip on forceNew)
-  if (!forceNew && roundCache.has(date)) {
-    return NextResponse.json({ rounds: roundCache.get(date) });
+  // Serve from Supabase cache (skip on forceNew)
+  const cached = !forceNew ? await getCachedRounds(date) : null;
+  if (cached) {
+    return NextResponse.json({ rounds: cached });
   }
 
   // Rate limit
@@ -267,19 +281,9 @@ export async function POST(req: NextRequest) {
     ),
   );
 
-  // Cache daily result (skip for forceNew so daily slot stays clean)
+  // Cache daily result in Supabase (skip for forceNew so daily slot stays clean)
   if (!forceNew) {
-    roundCache.set(date, rounds);
-    // Garbage collection: Reset leaderboard by removing old scores
-    // Since this endpoint triggers new daily generation, it's a perfect place to clean up.
-    try {
-      await supabase
-        .from('rxsordle_scores')
-        .delete()
-        .neq('date', date);
-    } catch (err) {
-      console.error('Failed to clear old scores:', err);
-    }
+    await setCachedRounds(date, rounds);
   }
 
   return NextResponse.json({ rounds });
