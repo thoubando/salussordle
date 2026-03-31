@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import DevPanel from './DevPanel';
 
 interface Props {
   onStart: (username: string) => void;
@@ -39,7 +38,6 @@ export default function IntroScreen({ onStart }: Props) {
   if (phase === 'show-input') {
     return (
       <div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-gray-50/90 backdrop-blur-md animate-in fade-in duration-500">
-        <DevPanel />
         <div className="bg-white p-8 md:p-12 rounded-3xl shadow-2xl max-w-md w-full mx-4 border border-indigo-50 transform hover:scale-[1.01] transition-all">
           <div className="mb-8 text-center">
             <h1 className="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-500 tracking-tight">RxSordle</h1>

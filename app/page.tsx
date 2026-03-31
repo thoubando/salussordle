@@ -1,8 +1,10 @@
 import Game from '@/components/Game';
+import DevPanel from '@/components/DevPanel';
 
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col bg-slate-50">
+      <DevPanel />
       {/* Header */}
       <header className="bg-white/80 backdrop-blur-md border-b border-indigo-100/50 sticky top-0 z-40">
         <div className="max-w-3xl mx-auto px-4 py-4 flex items-center justify-between">
